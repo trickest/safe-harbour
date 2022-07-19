@@ -1,0 +1,7 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"3dnews.ru","https://hackerone.com/v3dnews","","3dnews.ru/.well-known/security.txt","","","","",""
+"google.ru","https://g.co/vulnz","security@google.com","google.ru/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"hse.ru","","underground@hse.ru","hse.ru/security.txt","","","","",""
+"kontur.ru","","security@kontur.ru  security@skbkontur.ru","kontur.ru/.well-known/security.txt","","","https://kontur.ru/about/security  https://kontur.ru/about/security/bugbounty  https://security.kontur.ru","","en, ru"
+"taxsee.ru","","security@taxsee.com","taxsee.ru/security.txt","","","","",""
+"tinkoff.ru","https://bugbounty.ru/app/programs/tinkoff","bug-hunters@tinkoff.ru","tinkoff.ru/.well-known/security.txt","","https://www.tinkoff.ru/career/it/?specialtyUrl=informacionnaya-bezopasnost","https://bugbounty.ru/app/programs/tinkoff","","en ru,"

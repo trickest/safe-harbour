@@ -1,0 +1,11 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"bmw.com.pe","https://hackerone.com/bmwgroup/ https://www.bmwgroup.com/de/general/Security.html https://www.bmwgroup.com/en/general/Security.html","cert@bmw.de","bmw.com.pe/.well-known/security.txt","https://hackerone.com/bmwgroup/thanks https://www.bmwgroup.com/de/general/Security.html https://www.bmwgroup.com/en/general/Security.html","","/security.txt HTTP/1.1  https://hackerone.com/bmwgroup?type=team&view_policy=true https://hackerone.com/bmwgroup?type=team&view_policy=trueGET https://www.bmwgroup.com/de/general/Security.html https://www.bmwgroup.com/en/general/Security.html","https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/general/security/cert.txt","en,de"
+"covid19.minsa.gob.pe","","security@minsa.gob.pe","covid19.minsa.gob.pe/.well-known/security.txt","","","","","en, es"
+"djsaludviajero.minsa.gob.pe","","security@minsa.gob.pe","djsaludviajero.minsa.gob.pe/.well-known/security.txt","","","","","en, es"
+"google.com.pe","https://g.co/vulnz","security@google.com","google.com.pe/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"isoc.pe","https://hackerone.com/automattic/reports/new","","isoc.pe/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"minsa.gob.pe","","security@minsa.gob.pe","minsa.gob.pe/.well-known/security.txt","","","","","en, es"
+"nuvem.pesso.al","https://hackerone.com/nextcloud","","nuvem.pesso.al/.well-known/security.txt","https://github.com/nextcloud/security-advisories/security/advisories https://hackerone.com/nextcloud/thanks","","https://hackerone.com/nextcloud","",""
+"pi.pe","","contact@pi.pe tim.panton@gmail.com","pi.pe/.well-known/security.txt","","","","https://account.wire.com/conversation-join/?key=_6feK_UwwBDdXDWHyT_P&code=vdz98RPeJr8P95sPoXZu",""
+"stri.pe","https://hackerone.com/stripe","","stri.pe/.well-known/security.txt","https://hackerone.com/stripe/thanks","https://stripe.com/jobs","https://hackerone.com/stripe?type=team&view_policy=true","","en"
+"tro.pe","","security@bitly.com","tro.pe/security.txt","","","","https://bitly.com/security_pgp.txt",""

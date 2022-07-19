@@ -1,0 +1,8 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"api.autovse.kz","","security@smf.kz","api.autovse.kz/.well-known/security.txt","","","","",""
+"bcc-invest.kz","","agalichev@bcc-invest.kz","bcc-invest.kz/.well-known/security.txt","","","","",""
+"eubank.kz","","security@eubank.kz","eubank.kz/.well-known/security.txt","","","","","en, kz ru,"
+"google.kz","https://g.co/vulnz","security@google.com","google.kz/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"nur.kz","","security@corp.nur.kz","nur.kz/.well-known/security.txt","","","","",""
+"politics.nur.kz","","security@corp.nur.kz","politics.nur.kz/.well-known/security.txt","","","","",""
+"prosports.kz","","alex@prosports.kz","prosports.kz/.well-known/security.txt","","","","",""

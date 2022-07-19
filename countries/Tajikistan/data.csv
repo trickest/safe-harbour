@@ -1,0 +1,4 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"canon.tj","","Product-Security@canon-europe.com","canon.tj/.well-known/security.txt","","","https://www.canon-europe.com/support/vulnerability-disclosure-policy/","","en"
+"google.com.tj","https://g.co/vulnz","security@google.com","google.com.tj/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"ozodi.tj","","abuse@rferl.org","ozodi.tj/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"

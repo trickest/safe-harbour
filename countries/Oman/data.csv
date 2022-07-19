@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"google.com.om","https://g.co/vulnz","security@google.com","google.com.om/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.com.om","https://g.co/vulnz","security@google.com","m.youtube.com.om/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"ubuy.om","","om@ubuy.com","ubuy.om/security.txt","","","","",""
+"youtube.com.om","https://g.co/vulnz","security@google.com","youtube.com.om/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

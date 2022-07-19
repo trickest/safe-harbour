@@ -1,0 +1,9 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"betterhealth.vic.gov.au","","sdp.security@dpc.vic.gov.au","betterhealth.vic.gov.au/.well-known/security.txt","","","","",""
+"coronavirus.vic.gov.au","","sdp.security@dpc.vic.gov.au","coronavirus.vic.gov.au/.well-known/security.txt","","","","",""
+"google.co.vi","https://g.co/vulnz","security@google.com","google.co.vi/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"health.vic.gov.au","","sdp.security@dpc.vic.gov.au","health.vic.gov.au/.well-known/security.txt","","","","",""
+"legislation.vic.gov.au","","sdp.security@dpc.vic.gov.au","legislation.vic.gov.au/.well-known/security.txt","","","","",""
+"police.vic.gov.au","","sdp.security@dpc.vic.gov.au","police.vic.gov.au/.well-known/security.txt","","","","",""
+"premier.vic.gov.au","","sdp.security@dpc.vic.gov.au","premier.vic.gov.au/.well-known/security.txt","","","","",""
+"www2.health.vic.gov.au","","sdp.security@dpc.vic.gov.au","www2.health.vic.gov.au/.well-known/security.txt","","","","",""

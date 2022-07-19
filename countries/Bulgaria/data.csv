@@ -1,0 +1,8 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"bloom.bg","","security@bitly.com","bloom.bg/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"e-edu.nbu.bg","https://moodle.org/security/report/","","e-edu.nbu.bg/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"flashscore.bg","","security-txt-chmmfs@livesport.eu","flashscore.bg/security.txt","","","","","en"
+"gemius.bg","","security@gemius.com","gemius.bg/security.txt","","","","",""
+"google.bg","https://g.co/vulnz","security@google.com","google.bg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"mint.bg","","vitalii@gmail.com","mint.bg/.well-known/security.txt","","","","","en,bg,ru"
+"svobodnaevropa.bg","","abuse@rferl.org","svobodnaevropa.bg/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"

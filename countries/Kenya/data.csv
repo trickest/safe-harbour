@@ -1,0 +1,4 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"blog.brokenhelmet.co.ke","https://hackerone.com/automattic/reports/new","","blog.brokenhelmet.co.ke/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"google.co.ke","https://g.co/vulnz","security@google.com","google.co.ke/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"thtl.ke","","security@bitly.com","thtl.ke/security.txt","","","","https://bitly.com/security_pgp.txt",""

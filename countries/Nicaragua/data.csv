@@ -1,0 +1,9 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"cdn.nuevaya.com.ni","https://nuevaya.com.ni/contactenos/","info@nuevaya.com.ni","cdn.nuevaya.com.ni/.well-known/security.txt","","","https://nuevaya.com.ni/politica-de-privacidad/","","es"
+"fred.nic.cz","","abuse@nic.cz","fred.nic.cz/.well-known/security.txt","","","","",""
+"google.com.ni","https://g.co/vulnz","security@google.com","google.com.ni/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.com.ni","https://g.co/vulnz","security@google.com","m.youtube.com.ni/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.ni","https://g.co/vulnz","security@google.com","m.youtube.ni/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"nuevaya.com.ni","https://nuevaya.com.ni/contactenos/","info@nuevaya.com.ni","nuevaya.com.ni/.well-known/security.txt","","","https://nuevaya.com.ni/politica-de-privacidad/","","es"
+"youtube.com.ni","https://g.co/vulnz","security@google.com","youtube.com.ni/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"youtube.ni","https://g.co/vulnz","security@google.com","youtube.ni/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

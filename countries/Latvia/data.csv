@@ -1,0 +1,7 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"cr8.lv","","security@bitly.com","cr8.lv/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"go.mediabox.lv","","security@bitly.com","go.mediabox.lv/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"google.lv","https://g.co/vulnz","security@google.com","google.lv/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"profizgl.lu.lv","https://moodle.org/security/report/","","profizgl.lu.lv/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"rimi.lv","","info@rimibaltic.com","rimi.lv/.well-known/security.txt","","","","",""
+"tndr.lv","","security@bitly.com","tndr.lv/security.txt","","","","https://bitly.com/security_pgp.txt",""

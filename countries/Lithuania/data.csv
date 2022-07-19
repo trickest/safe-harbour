@@ -1,0 +1,3 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"google.lt","https://g.co/vulnz","security@google.com","google.lt/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"hostinger.lt","https://hackerone.com/5093805e-4e52-474b-ba7f-5c04a7ba10e7/embedded_submissions/new<br>","security@hostinger.com<br>","hostinger.lt/.well-known/security.txt","","","https://www.hostinger.com/responsible-disclosure-policy","",""

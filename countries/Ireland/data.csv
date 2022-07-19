@@ -1,0 +1,9 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"gettyimages.ie","","security@gettyimages.com","gettyimages.ie/security.txt","","","","",""
+"google.ie","https://g.co/vulnz","security@google.com","google.ie/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"itma.ie","","digital-projects@itma.ie","itma.ie/security.txt","","","https://www.itma.ie/security-policy","https://www.itma.ie/pgp-key.txt",""
+"layahealthcare.ie","","security@layahealthcare.ie.","layahealthcare.ie/security.txt","","","https://www.layahealthcare.ie/privacypolicy/ https://www.layahealthcare.ie/privacypolicy/#responsible_disclosure","",""
+"m.rte.ie","","abuse@rte.ie","m.rte.ie/.well-known/security.txt","","","","",""
+"ntma.ie","","support@communicraft.com","ntma.ie/security.txt","","","https://www.ntma.ie/security-policy","https://www.ntma.ie/pgp-key.txt",""
+"rte.ie","","abuse@rte.ie","rte.ie/.well-known/security.txt","","","","",""
+"thelir.ie","","james@mythdigital.co.uk","thelir.ie/security.txt","","","https://www.thelir.ie/security-policy","https://www.thelir.ie/pgp-key.txt",""

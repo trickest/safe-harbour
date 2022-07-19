@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"chn.lk","","security@bitly.com","chn.lk/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"google.lk","https://g.co/vulnz","security@google.com","google.lk/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"kesara.lk","https://hackerone.com/automattic/reports/new","","kesara.lk/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"townta.lk","","security@bitly.com","townta.lk/security.txt","","","","https://bitly.com/security_pgp.txt",""

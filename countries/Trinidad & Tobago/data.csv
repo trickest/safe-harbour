@@ -1,0 +1,10 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"103fm.tt","1(868) 628-9222","","103fm.tt/.well-known/security.txt","","","","",""
+"abbo.tt","","security@bitly.com","abbo.tt/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"deloi.tt","","security@bitly.com","deloi.tt/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"dewi.tt","","security@bitly.com","dewi.tt/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"google.tt","https://g.co/vulnz","security@google.com","google.tt/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"gu.tt","","security@bitly.com","gu.tt/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"stargaz.tt","","security@bitly.com","stargaz.tt/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"w.tt","","security@bitly.com","w.tt/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"yex.tt","","security@bitly.com","yex.tt/security.txt","","","","https://bitly.com/security_pgp.txt",""

@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"gettyimages.pt","","security@gettyimages.com","gettyimages.pt/.well-known/security.txt","","","","",""
+"google.pt","https://g.co/vulnz","security@google.com","google.pt/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"interc.pt","","security@bitly.com","interc.pt/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"pplware.sapo.pt","","psimoes@pplware.com","pplware.sapo.pt/security.txt","","","","",""

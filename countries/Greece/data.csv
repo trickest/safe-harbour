@@ -1,0 +1,4 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"flashscore.gr","","security-txt-chmmfs@livesport.eu","flashscore.gr/security.txt","","","","","en"
+"google.gr","https://g.co/vulnz","security@google.com","google.gr/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"inventoraircondition.gr","[at] [dot] ac inventor security","","inventoraircondition.gr/.well-known/security.txt","","","","",""

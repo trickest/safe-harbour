@@ -1,0 +1,7 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"google.bi","https://g.co/vulnz","security@google.com","google.bi/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"grow.bi","","security@bitly.com","grow.bi/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"m.bild.de","","security-incident.nmn@axelspringer.de","m.bild.de/.well-known/security.txt","","https://career.axelspringer.com/de/tech","","","en,de,es"
+"ras.biodiversity.aq","","abuse@vliz.be","ras.biodiversity.aq/.well-known/security.txt","","","","",""
+"scr.bi","","security@bitly.com","scr.bi/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"til.bi","","security@bitly.com","til.bi/security.txt","","","","https://bitly.com/security_pgp.txt",""

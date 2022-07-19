@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"flashscore.com.mx","","security-txt-chmmfs@livesport.eu","flashscore.com.mx/security.txt","","","","","en"
+"google.com.mx","https://g.co/vulnz","security@google.com","google.com.mx/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"super.walmart.com.mx","https://corporate.walmart.com/article/responsible-disclosure-policy","","super.walmart.com.mx/.well-known/security.txt","","https://www.walmartmexico.com/unete-al-equipo","https://www.walmartmexico.com/aviso-de-privacidad","","en"
+"walmart.com.mx","https://corporate.walmart.com/article/responsible-disclosure-policy","","walmart.com.mx/.well-known/security.txt","","https://www.walmartmexico.com/unete-al-equipo","https://www.walmartmexico.com/aviso-de-privacidad","","en"

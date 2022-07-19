@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"ce.etat.lu","https://www.govcert.lu/online_form","ctie@protonmail.com security@ctie.etat.lu soc@govcert.etat.lu","ce.etat.lu/.well-known/security.txt","","","","https://security.public.lu/.well-known/publickey.txt",""
+"google.com.et","https://g.co/vulnz","security@google.com","google.com.et/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"saturn.etat.lu","https://www.govcert.lu/online_form","ctie@protonmail.com security@ctie.etat.lu soc@govcert.etat.lu","saturn.etat.lu/.well-known/security.txt","","","","https://security.public.lu/.well-known/publickey.txt",""
+"ubuy.et","","om@ubuy.com","ubuy.et/security.txt","","","","",""

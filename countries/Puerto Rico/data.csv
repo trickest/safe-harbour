@@ -1,0 +1,9 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"bwnews.pr","","security@bitly.com","bwnews.pr/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"google.com.pr","https://g.co/vulnz","security@google.com","google.com.pr/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"juni.pr","","security@bitly.com","juni.pr/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"m.youtube.pr","https://g.co/vulnz","security@google.com","m.youtube.pr/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"machacolon.pr","https://hackerone.com/automattic/reports/new","","machacolon.pr/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"mima.pr","https://hackerone.com/automattic/reports/new","","mima.pr/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"n.pr","","security@bitly.com","n.pr/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"youtube.pr","https://g.co/vulnz","security@google.com","youtube.pr/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

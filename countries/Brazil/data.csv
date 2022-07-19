@@ -1,0 +1,10 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"blog.brokenhelmet.co.ke","https://hackerone.com/automattic/reports/new","","blog.brokenhelmet.co.ke/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"edisciplinas.usp.br","https://moodle.org/security/report/","","edisciplinas.usp.br/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"encyklopedie.brna.cz","","webmaster@cf.cz","encyklopedie.brna.cz/security.txt","","","","",""
+"google.com.br","https://g.co/vulnz","security@google.com","google.com.br/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"jusbrasil.com.br","","security@jusbrasil.com.br","jusbrasil.com.br/.well-known/security.txt","","","","","en pt,"
+"nubank.com.br","","security@nubank.com.br","nubank.com.br/.well-known/security.txt","","https://nubank.com.br/en/careers/","","https://cdn.nubank.com.br/pgp/key.txt","en"
+"quintoandar.com.br","","security@quintoandar.com.br","quintoandar.com.br/.well-known/security.txt","","","","",""
+"toyota.com.br","","george.rodrigues@prodigious.com","toyota.com.br/security.txt","","","","https://www.toyota.com.br/security/pgp-key.txt",""
+"wikiaves.com.br","","support@keenthemes.com","wikiaves.com.br/.well-known/security.txt","","","","",""

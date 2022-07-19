@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"api.twitterstat.us","https://www.atlassian.com/trust/security/report-a-vulnerability","security@atlassian.com","api.twitterstat.us/.well-known/security.txt","","https://www.atlassian.com/company/careers/all-jobs?team=Security","https://www.atlassian.com/trust/security/report-a-vulnerability","https://security-static.prod.atl-paas.net/atlassian-security-public.asc","en"
+"google.com.tw","https://g.co/vulnz","security@google.com","google.com.tw/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"ncu.edu.tw","","abuse@ncu.edu.tw","ncu.edu.tw/.well-known/security.txt","","","","",""
+"nos.twnsnd.co","https://hackerone.com/automattic/reports/new","","nos.twnsnd.co/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""

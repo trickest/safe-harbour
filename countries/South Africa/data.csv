@@ -1,0 +1,13 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"bereamail.co.za","","noc@rsaweb.net","bereamail.co.za/.well-known/security.txt","","","","",""
+"bidorbuy.co.za","","tech+vulnerability@bidorbuy.co.za","bidorbuy.co.za/.well-known/security.txt","","jobs@bidorbuy.co.za","https://www.bidorbuy.co.za/help/6743/Vulnerability_Disclosure","https://www.bidorbuy.co.za/bidorbuy-gpg-public-key.asc",""
+"google.co.za","https://g.co/vulnz","security@google.com","google.co.za/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"kait.co.za","https://moodle.org/security/report/","","kait.co.za/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"lms.i-cat.co.za","https://moodle.org/security/report/","","lms.i-cat.co.za/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"lowvelder.co.za","","noc@rsaweb.net","lowvelder.co.za/.well-known/security.txt","","","","",""
+"nofuss.co.za","","info@nofuss.co.za","nofuss.co.za/.well-known/security.txt","","","","",""
+"rekord.co.za","","noc@rsaweb.net","rekord.co.za/.well-known/security.txt","","","","",""
+"rekordeast.co.za","","noc@rsaweb.net","rekordeast.co.za/.well-known/security.txt","","","","",""
+"southcoastherald.co.za","","noc@rsaweb.net","southcoastherald.co.za/.well-known/security.txt","","","","",""
+"support.getmemo.co.za","https://bugcrowd.com/intercom","security@intercom.com","support.getmemo.co.za/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
+"zululandobserver.co.za","","noc@rsaweb.net","zululandobserver.co.za/.well-known/security.txt","","","","",""

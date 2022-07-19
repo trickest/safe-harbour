@@ -1,0 +1,4 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"google.mv","https://g.co/vulnz","security@google.com","google.mv/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"maldivestraveller.mv","","security@maldivestraveller.mv","maldivestraveller.mv/.well-known/security.txt","","","","",""
+"ubuy.mv","","om@ubuy.com","ubuy.mv/security.txt","","","","",""

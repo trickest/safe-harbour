@@ -1,0 +1,6 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"cablela.bs","","security@bitly.com","cablela.bs/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"goha.bs","","security@bitly.com","goha.bs/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"google.bs","https://g.co/vulnz","security@google.com","google.bs/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"moodle.bsk.edu.kw","https://moodle.org/security/report/","","moodle.bsk.edu.kw/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"zero.bs","","security@zero.bs","zero.bs/security.txt","","https://zero.bs/jobs.html","","https://zero.bs/keys.html","DE EN,"

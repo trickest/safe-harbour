@@ -1,0 +1,4 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"flic.kr","https://hackerone.com/flickr","","flic.kr/security.txt","","","","",""
+"google.co.kr","https://g.co/vulnz","security@google.com","google.co.kr/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"tumblr.kri.sh","https://hackerone.com/automattic/reports/new","","tumblr.kri.sh/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""

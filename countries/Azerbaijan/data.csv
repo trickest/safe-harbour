@@ -1,0 +1,3 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"google.az","https://g.co/vulnz","security@google.com","google.az/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"rus.azattyk.kg","","abuse@rferl.org","rus.azattyk.kg/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"

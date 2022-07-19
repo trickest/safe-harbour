@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"google.co.tz","https://g.co/vulnz","security@google.com","google.co.tz/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.co.tz","https://g.co/vulnz","security@google.com","m.youtube.co.tz/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"resilienceacademy.ac.tz","","security@utu.fi","resilienceacademy.ac.tz/.well-known/security.txt","https://security.utu.fi/acknowledgements.html","","","",""
+"youtube.co.tz","https://g.co/vulnz","security@google.com","youtube.co.tz/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

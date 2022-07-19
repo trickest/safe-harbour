@@ -1,0 +1,11 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"acros.si","","security@acrossecurity.com","acros.si/.well-known/security.txt","","","","https://www.acrossecurity.com/pgpkey.asc",""
+"e.famnit.upr.si","https://moodle.org/security/report/","","e.famnit.upr.si/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"google.si","https://g.co/vulnz","security@google.com","google.si/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"help.simonsays.ai","https://bugcrowd.com/intercom","security@intercom.com","help.simonsays.ai/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
+"intrix.si","+386059089990","security@intera.si","intrix.si/security.txt","","","","","en sl,"
+"noprintz.si","","sys@noprintz.si","noprintz.si/security.txt","","","","",""
+"register.si","","dns@register.si?subject=Responsible_disclosure","register.si/.well-known/security.txt","","","https://www.register.si/en/responsible-disclosure-policy/","https://www.register.si/.well-known/pgp.txt","en, sl"
+"registry.si","","dns@register.si?subject=Responsible_disclosure","registry.si/.well-known/security.txt","","","https://www.register.si/en/responsible-disclosure-policy/","https://www.register.si/.well-known/pgp.txt","en, sl"
+"skupnost.sio.si","https://moodle.org/security/report/","","skupnost.sio.si/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"upr.si","","miha@ngn.si","upr.si/security.txt","","","","",""

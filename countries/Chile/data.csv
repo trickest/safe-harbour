@@ -1,0 +1,7 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"fintual.cl","security~AT~fintual~DOT~com","","fintual.cl/.well-known/security.txt","https://fintual.com/hall-of-fame.txt","","https://fintual.com/security-policy.txt","https://fintual.com/pgp-key.txt","en, es"
+"google.cl","https://g.co/vulnz","security@google.com","google.cl/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"lascondes.mediclic.cl","","seguridad@mediclic.cl","lascondes.mediclic.cl/.well-known/security.txt","","","","","en, es"
+"live-brunel.cloud.contensis.com","﻿https://www.brunel.ac.uk/about/administration/vulnerability-reporting","","live-brunel.cloud.contensis.com/.well-known/security.txt","","","https://www.brunel.ac.uk/about/administration/vulnerability-reporting","",""
+"pagepersonnel.cl","","socREMOVETHIS@page.com","pagepersonnel.cl/.well-known/security.txt","","","","",""
+"sanidadnaval.cl","","security@sanidadnaval.cl","sanidadnaval.cl/.well-known/security.txt","","","","","en,es"

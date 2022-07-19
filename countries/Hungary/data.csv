@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"felvi.hu","https://www.oktatas.hu/hivatal/kozerdeku_adatok/svrp","security@oh.gov.hu","felvi.hu/.well-known/security.txt","","","https://www.oktatas.hu/hivatal/kozerdeku_adatok/svrp","https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x5A00033AC50545DF","en hu,"
+"google.hu","https://g.co/vulnz","security@google.com","google.hu/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"szabadeuropa.hu","","abuse@rferl.org","szabadeuropa.hu/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"
+"tasz.hu","","zoltan@farm.co.hu","tasz.hu/security.txt","","","https://tasz.hu/security-policy","https://tasz.hu/pgp-key.txt",""

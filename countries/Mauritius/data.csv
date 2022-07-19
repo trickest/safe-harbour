@@ -1,0 +1,9 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"fi.muni.cz","","abuse@fi.muni.cz","fi.muni.cz/.well-known/security.txt","","","","",""
+"google.mu","https://g.co/vulnz","security@google.com","google.mu/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"mendelmuseum.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","mendelmuseum.muni.cz/.well-known/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/security.txt HTTP/1.1  cs, en, sk skGET"
+"milk.mu","","security@bitly.com","milk.mu/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"true.mu","","security@bitly.com","true.mu/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"tumblr.muse.mu","https://hackerone.com/automattic/reports/new","","tumblr.muse.mu/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"ubuy.mu","","om@ubuy.com","ubuy.mu/security.txt","","","","",""
+"vigeland.museum.no","","dev@mustasj.no","vigeland.museum.no/security.txt","","","https://vigeland.museum.no/security-policy","https://vigeland.museum.no/pgp-key.txt",""

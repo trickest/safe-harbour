@@ -1,0 +1,4 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"blog.uaa.edu.py","https://moodle.org/security/report/","","blog.uaa.edu.py/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"google.com.py","https://g.co/vulnz","security@google.com","google.com.py/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"youtube.com.py","https://g.co/vulnz","security@google.com","youtube.com.py/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

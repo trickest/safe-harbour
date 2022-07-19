@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"b.qr.ae","","security@bitly.com","b.qr.ae/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"etisalat.ae","https://app.bugbounty.ae/cvd/etisalat/4pHLzqACAPAspdWGytcLF1","info@bugbounty.ae","etisalat.ae/.well-known/security.txt","","","","","En"
+"gettyimages.ae","","security@gettyimages.com","gettyimages.ae/security.txt","","","","",""
+"google.ae","https://g.co/vulnz","security@google.com","google.ae/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

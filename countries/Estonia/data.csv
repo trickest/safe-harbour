@@ -1,0 +1,9 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"blog.zone.ee","ee ee, security taavi zone","","blog.zone.ee/.well-known/security.txt","","","","AE77 AF45 B771 Directory GPG Key Web or 4BAA 4BDC 7B52 348B 519E 2403 6047","ee en,"
+"dagelijksekost.een.be","","infosec@vrt.be","dagelijksekost.een.be/.well-known/security.txt","","","https://www.vrt.be/en/responsible-disclosure-policy-english-version/","https://www.vrt.be/.well-known/infosec_at_vrt.be_pgp_pubkey.txt",""
+"google.ee","https://g.co/vulnz","security@google.com","google.ee/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"help.linktr.ee","https://bugcrowd.com/intercom","security@intercom.com","help.linktr.ee/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
+"isikukood.ee","","martin@martinpaljak.net","isikukood.ee/security.txt","","","","",""
+"lhv.ee","https://www.lhv.ee/en/security","security@lhv.ee","lhv.ee/.well-known/security.txt","","https://www.lhv.ee/en/careers","https://www.lhv.ee/en/security","","en"
+"moodle.ria.ee","https://moodle.org/security/report/","","moodle.ria.ee/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"zone.ee","ee ee, security taavi zone","","zone.ee/.well-known/security.txt","","","","AE77 AF45 B771 Directory GPG Key Web or 4BAA 4BDC 7B52 348B 519E 2403 6047","ee en,"

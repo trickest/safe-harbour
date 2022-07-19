@@ -1,0 +1,4 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"alandsbanken.ax","","services@agencyleroy.com","alandsbanken.ax/security.txt","","","https://www.alandsbanken.ax/security-policy","https://www.alandsbanken.ax/pgp-key.txt",""
+"hbom.ax","","security@bitly.com","hbom.ax/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"rem.ax","","security@bitly.com","rem.ax/security.txt","","","","https://bitly.com/security_pgp.txt",""

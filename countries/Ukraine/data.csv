@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"blog.uaa.edu.py","https://moodle.org/security/report/","","blog.uaa.edu.py/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"cert.gov.ua","https://cert.gov.ua/contact-us  tel:+38(044)281-88-05  tel:+38(044)281-88-25","cert@cert.gov.ua","cert.gov.ua/.well-known/security.txt","","","","https://cert.gov.ua/files/cert-ua-pub.asc","en  ua,"
+"google.com.ua","https://g.co/vulnz","security@google.com","google.com.ua/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"lifecell.ua","","bounty@lifecell.com.ua","lifecell.ua/.well-known/security.txt","","","","",""

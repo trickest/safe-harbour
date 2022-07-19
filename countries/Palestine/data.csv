@@ -1,0 +1,7 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"flycl.ps","","security@bitly.com","flycl.ps/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"google.ps","https://g.co/vulnz","security@google.com","google.ps/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"moa.pna.ps","","support@keenthemes.com ","moa.pna.ps/security.txt","","","","",""
+"mol.pna.ps","","support@keenthemes.com","mol.pna.ps/.well-known/security.txt","","","","",""
+"storycor.ps","","security@bitly.com","storycor.ps/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"washca.ps","","security@bitly.com","washca.ps/security.txt","","","","https://bitly.com/security_pgp.txt",""

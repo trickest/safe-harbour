@@ -1,0 +1,6 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"ecc.gov.jm","/>  Kingston Mall<br Shop 45-49","","ecc.gov.jm/.well-known/security.txt","","","","",""
+"google.com.jm","https://g.co/vulnz","security@google.com","google.com.jm/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.com.jm","https://g.co/vulnz","security@google.com","m.youtube.com.jm/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"utechonline.utech.edu.jm","https://moodle.org/security/report/","","utechonline.utech.edu.jm/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"youtube.com.jm","https://g.co/vulnz","security@google.com","youtube.com.jm/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

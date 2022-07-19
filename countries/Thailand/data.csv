@@ -1,0 +1,6 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"bmw.co.th","https://hackerone.com/bmwgroup/ https://www.bmwgroup.com/de/general/Security.html https://www.bmwgroup.com/en/general/Security.html","cert@bmw.de","bmw.co.th/.well-known/security.txt","https://hackerone.com/bmwgroup/thanks https://www.bmwgroup.com/de/general/Security.html https://www.bmwgroup.com/en/general/Security.html","","/security.txt HTTP/1.1  https://hackerone.com/bmwgroup?type=team&view_policy=true https://hackerone.com/bmwgroup?type=team&view_policy=trueGET https://www.bmwgroup.com/de/general/Security.html https://www.bmwgroup.com/en/general/Security.html","https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/general/security/cert.txt","en,de"
+"google.co.th","https://g.co/vulnz","security@google.com","google.co.th/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"news.thaipbs.or.th","","it-security@thaipbs.or.th","news.thaipbs.or.th/.well-known/security.txt","","","","",""
+"org.thaipbs.or.th","","it-security@thaipbs.or.th","org.thaipbs.or.th/.well-known/security.txt","","","","",""
+"thaipbs.or.th","","it-security@thaipbs.or.th","thaipbs.or.th/.well-known/security.txt","","","","",""

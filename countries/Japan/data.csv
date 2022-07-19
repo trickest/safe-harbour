@@ -1,0 +1,8 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"amazon.co.jp","https://hackerone.com/amazonvrp/reports/new","","amazon.co.jp/.well-known/security.txt","","https://www.amazon.jobs/en/teams/infosec","https://hackerone.com/amazonvrp","",""
+"amazon.jp","https://hackerone.com/amazonvrp/reports/new","","amazon.jp/.well-known/security.txt","","https://www.amazon.jobs/en/teams/infosec","https://hackerone.com/amazonvrp","",""
+"google.co.jp","https://g.co/vulnz","security@google.com","google.co.jp/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"hulu.jp","","security@hjholdings.jp","hulu.jp/.well-known/security.txt","","","","",""
+"konami.jp","","security@bitly.com","konami.jp/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"line.naver.jp","https://bugbounty.linecorp.com/en/apply/","","line.naver.jp/.well-known/security.txt","","https://linecorp.com/ja/career/position/498","https://bugbounty.linecorp.com/en/terms_of_use/","",""
+"logicool.co.jp","https://www.logitech.com/security","","logicool.co.jp/.well-known/security.txt","https://hackerone.com/logitech/thanks","","https://hackerone.com/logitech","","en"

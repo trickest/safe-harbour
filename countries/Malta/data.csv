@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"elearn.pwcacademy.com.mt","https://moodle.org/security/report/","","elearn.pwcacademy.com.mt/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"google.com.mt","https://g.co/vulnz","security@google.com","google.com.mt/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.com.mt","https://g.co/vulnz","security@google.com","m.youtube.com.mt/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"youtube.com.mt","https://g.co/vulnz","security@google.com","youtube.com.mt/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

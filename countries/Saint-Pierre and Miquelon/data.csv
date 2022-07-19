@@ -1,0 +1,3 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"klo.pm","","security@bitly.com","klo.pm/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"print.pm","https://hackerone.com/automattic/reports/new","","print.pm/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""

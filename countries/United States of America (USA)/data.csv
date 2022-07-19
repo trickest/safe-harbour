@@ -1,0 +1,9 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"api.twitterstat.us","https://www.atlassian.com/trust/security/report-a-vulnerability","security@atlassian.com","api.twitterstat.us/.well-known/security.txt","","https://www.atlassian.com/company/careers/all-jobs?team=Security","https://www.atlassian.com/trust/security/report-a-vulnerability","https://security-static.prod.atl-paas.net/atlassian-security-public.asc","en"
+"edisciplinas.usp.br","https://moodle.org/security/report/","","edisciplinas.usp.br/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"elearn.usp.ac.fj","https://moodle.org/security/report/","","elearn.usp.ac.fj/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"form.jotform.us","https://www.jotform.com/bug-bounty/","","form.jotform.us/.well-known/security.txt","","https://www.jotform.com/jobs/","https://www.jotform.com/bug-bounty/#rule-and-guidelines","","en"
+"google.us","https://g.co/vulnz","security@google.com","google.us/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"j.ustin.co","","security@bitly.com","j.ustin.co/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"moodle.usm.md","https://moodle.org/security/report/","","moodle.usm.md/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"siriusxm.us","","security@bitly.com","siriusxm.us/security.txt","","","","https://bitly.com/security_pgp.txt",""

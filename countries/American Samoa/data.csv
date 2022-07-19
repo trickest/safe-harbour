@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"classp.as","","security@bitly.com","classp.as/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"gna.as","","security@bitly.com","gna.as/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"goninj.as","","security@bitly.com","goninj.as/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"google.as","https://g.co/vulnz","security@google.com","google.as/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

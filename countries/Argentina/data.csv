@@ -1,0 +1,8 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"blog.arduino.cc","","security@arduino.cc","blog.arduino.cc/.well-known/security.txt","","","https://www.arduino.cc/en/Main/Security","https://raw.githubusercontent.com/arduino/arduino-cvd-policy/master/security_at_arduino_cc-pub.asc","en"
+"campusadimra.org.ar","https://moodle.org/security/report/","","campusadimra.org.ar/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"create.arduino.cc","","security@arduino.cc","create.arduino.cc/.well-known/security.txt","","","https://www.arduino.cc/en/Main/Security","https://raw.githubusercontent.com/arduino/arduino-cvd-policy/master/security_at_arduino_cc-pub.asc","en"
+"google.com.ar","https://g.co/vulnz","security@google.com","google.com.ar/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"help.arena.im","https://bugcrowd.com/intercom","security@intercom.com","help.arena.im/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
+"istakip.arslanli.tc","","support@keenthemes.com","istakip.arslanli.tc/.well-known/security.txt","","","","",""
+"pedco.uncoma.edu.ar","https://moodle.org/security/report/","","pedco.uncoma.edu.ar/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"

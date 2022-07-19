@@ -1,0 +1,4 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"google.hr","https://g.co/vulnz","security@google.com","google.hr/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"omega.ffzg.hr","https://moodle.org/security/report/","","omega.ffzg.hr/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"telegram.hr","","marko@telegramgrupa.hr","telegram.hr/.well-known/security.txt","","https://www.telegramgrupa.hr/jobs.php","","","en, hr"

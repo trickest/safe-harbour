@@ -1,0 +1,8 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"fiducia.com.ec","","devsusoftware@devsu.com","fiducia.com.ec/security.txt","","","","",""
+"google.com.ec","https://g.co/vulnz","security@google.com","google.com.ec/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.ec","https://g.co/vulnz","security@google.com","google.ec/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"offs.ec","","security@bitly.com","offs.ec/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"revr.ec","","security@bitly.com","revr.ec/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"www4.quito.gob.ec","https://moodle.org/security/report/","","www4.quito.gob.ec/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"zecz.ec","","security@bitly.com","zecz.ec/security.txt","","","","https://bitly.com/security_pgp.txt",""

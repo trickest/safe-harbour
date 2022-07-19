@@ -1,0 +1,3 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"elearning.rp.ac.rw","https://moodle.org/security/report/","","elearning.rp.ac.rw/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"google.rw","https://g.co/vulnz","security@google.com","google.rw/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

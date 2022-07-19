@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"google.com.hk","https://g.co/vulnz","security@google.com","google.com.hk/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"michaelpage.com.hk","","socREMOVETHIS@page.com","michaelpage.com.hk/.well-known/security.txt","","","","",""
+"soul2.hkuspace.hku.hk","https://moodle.org/security/report/","","soul2.hkuspace.hku.hk/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"unisys.com.hk","","SecurityVulnerabilityResponseTeam@unisys.com abuse@unisys.com  security@unisys.com","unisys.com.hk/.well-known/security.txt","","","","","en"

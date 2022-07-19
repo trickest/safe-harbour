@@ -1,0 +1,5 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"blog.domai.nr","https://hackerone.com/automattic/reports/new","","blog.domai.nr/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"google.nr","https://g.co/vulnz","security@google.com","google.nr/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"radio.nrk.no","","IT-Sikkerhetsgruppe@nrk.no","radio.nrk.no/.well-known/security.txt","https://info.nrk.no/hjem/responsible-disclosure-policy/#security-hall-of-fame","","https://info.nrk.no/hjem/responsible-disclosure-policy/","","no,en"
+"tv.nrk.no","","IT-Sikkerhetsgruppe@nrk.no","tv.nrk.no/.well-known/security.txt","https://info.nrk.no/hjem/responsible-disclosure-policy/#security-hall-of-fame","","https://info.nrk.no/hjem/responsible-disclosure-policy/","","no,en"

@@ -1,0 +1,6 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"google.com.lb","https://g.co/vulnz","security@google.com","google.com.lb/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.com.lb","https://g.co/vulnz","security@google.com","m.youtube.com.lb/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"masarat.iiet.edu.lb","https://moodle.org/security/report/","","masarat.iiet.edu.lb/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"ubuy.com.lb","","om@ubuy.com","ubuy.com.lb/security.txt","","","","",""
+"youtube.com.lb","https://g.co/vulnz","security@google.com","youtube.com.lb/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

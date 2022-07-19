@@ -1,0 +1,8 @@
+host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"gladstar.sch.ng","https://moodle.org/security/report/","","gladstar.sch.ng/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"google.com.ng","https://g.co/vulnz","security@google.com","google.com.ng/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.ng","https://g.co/vulnz","security@google.com","google.ng/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"hdspr.ng","","security@bitly.com","hdspr.ng/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"lagosfashionweek.ng","","javik@live.com","lagosfashionweek.ng/security.txt","","","https://lagosfashionweek.ng/security-policy","https://lagosfashionweek.ng/pgp-key.txt",""
+"shopify.com.ng","https://www.shopify.com/security-response","security@shopify.com","shopify.com.ng/.well-known/security.txt","https://hackerone.com/shopify/thanks","https://www.shopify.com/careers","https://hackerone.com/shopify","https://www.shopify.com/shopify-security.pub",""
+"winston.milli.ng","","Winston@Milli.ng","winston.milli.ng/.well-known/security.txt","https://winston.milli.ng/secack","","","http://pgp.mit.edu/pks/lookup?op=get&search=0x21e16b8d2ee875306a6c9968d83077b99f8c6643 https://winston.milli.ng/winston-public.txt","en"
