@@ -16,6 +16,8 @@ Our aim with this project is to:
 
 ---
 
+[<img src="./banner.png" />](https://trickest-access.paperform.co/)
+
 ## How it works
 
 ![Safe Harbour](safe-harbour.png "Trickest Workflow - Inventory")
