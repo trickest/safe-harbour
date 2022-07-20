@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"app.fifty.do","","hello@fifty.do","app.fifty.do/.well-known/security.txt","","","","",""
 "blog.domai.nr","https://hackerone.com/automattic/reports/new","","blog.domai.nr/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "blog.lara.do","https://hackerone.com/automattic/reports/new","","blog.lara.do/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "blog.lumi.do","https://hackerone.com/automattic/reports/new","","blog.lumi.do/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
@@ -6,6 +7,8 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "elaviador.do","","soporte@bigpress.net","elaviador.do/.well-known/security.txt","","","","","en, es, gl"
 "enblog.doit.im","https://hackerone.com/automattic/reports/new","","enblog.doit.im/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "google.com.do","https://g.co/vulnz","security@google.com","google.com.do/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"help.donut.ai","https://bugcrowd.com/intercom","security@intercom.com","help.donut.ai/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
+"m.youtube.com.do","https://g.co/vulnz","security@google.com","m.youtube.com.do/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "sli.do","","security@slido.com","sli.do/.well-known/security.txt","https://www.slido.com/security","https://ciscocareers.dejobs.org/jobs/?q=Slido&location=Bratislava%2C+SVK https://www.slido.com/careers","https://tools.cisco.com/security/center/resources/security_vulnerability_policy.html https://www.slido.com/security","","cz en, sk,"
 "thedo.do","","security@bitly.com","thedo.do/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "youtube.com.do","https://g.co/vulnz","security@google.com","youtube.com.do/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "airc.al","","security@bitly.com","airc.al/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"asiakaspalvelu.aluemediat.fi","","cert@sanoma.com","asiakaspalvelu.aluemediat.fi/.well-known/security.txt","","","https://www.sanoma.com/en/responsible-disclosure-statement/","","en"
 "aud.al","","security@bitly.com","aud.al/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "canon.com.al","","Product-Security@canon-europe.com","canon.com.al/.well-known/security.txt","","","https://www.canon-europe.com/support/vulnerability-disclosure-policy/","","en"
 "cbsloc.al","","security@bitly.com","cbsloc.al/security.txt","","","","https://bitly.com/security_pgp.txt",""

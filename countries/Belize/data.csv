@@ -4,6 +4,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "clic.bz","","security@bitly.com","clic.bz/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "google.com.bz","https://g.co/vulnz","security@google.com","google.com.bz/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "grn.bz","","security@bitly.com","grn.bz/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"klik.bz","","security@bitly.com","klik.bz/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "krg.bz","","security@bitly.com","krg.bz/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "nora.bz","https://hackerone.com/automattic/reports/new","","nora.bz/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "pbi.bz","","security@bitly.com","pbi.bz/security.txt","","","","https://bitly.com/security_pgp.txt",""

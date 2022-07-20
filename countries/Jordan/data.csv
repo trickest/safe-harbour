@@ -11,6 +11,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "m.youtube.com.jo","https://g.co/vulnz","security@google.com","m.youtube.com.jo/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.jo","https://g.co/vulnz","security@google.com","m.youtube.jo/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "max.jotfor.ms","https://www.jotform.com/bug-bounty/","","max.jotfor.ms/.well-known/security.txt","","https://www.jotform.com/jobs/","https://www.jotform.com/bug-bounty/#rule-and-guidelines","","en"
+"submit.jotform.co","https://www.jotform.com/bug-bounty/","","submit.jotform.co/.well-known/security.txt","","https://www.jotform.com/jobs/","https://www.jotform.com/bug-bounty/#rule-and-guidelines","","en"
 "ubuy.com.jo","","om@ubuy.com","ubuy.com.jo/security.txt","","","","",""
 "youtube.com.jo","https://g.co/vulnz","security@google.com","youtube.com.jo/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.jo","https://g.co/vulnz","security@google.com","youtube.jo/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

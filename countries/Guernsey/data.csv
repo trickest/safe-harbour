@@ -1,6 +1,8 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "101.gg","","security@bitly.com","101.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "aquatik.gg","","security@bitly.com","aquatik.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"cbt.gg","","security@bitly.com","cbt.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"dhk.gg","","security@bitly.com","dhk.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "discordlist.gg","","security@discordlist.gg","discordlist.gg/.well-known/security.txt","","","https://github.com/discordlist-gg/beta-issues/tree/main/security","","en,no"
 "dwh.gg","","security@bitly.com","dwh.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "esl.gg","","security@bitly.com","esl.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
@@ -8,6 +10,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.gg","https://g.co/vulnz","security@google.com","google.gg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "guilded.gg","","security@guilded.gg","guilded.gg/.well-known/security.txt","","https://www.guilded.gg/jobs","https://hackerone.com/roblox","","en"
 "hyperx.gg","","security@bitly.com","hyperx.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"iem.gg","","security@bitly.com","iem.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "jb.gg","","security@jetbrains.com","jb.gg/.well-known/security.txt","","","https://www.jetbrains.com/legal/docs/terms/coordinated-disclosure.html","",""
 "kon.gg","","security@bitly.com","kon.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "kura.gg","","sec@kura.gg","kura.gg/.well-known/security.txt","","","","",""
@@ -15,5 +18,6 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "nsg.gg","","security@bitly.com","nsg.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "paste.gg","","pastegg-security@annaclemens.io","paste.gg/.well-known/security.txt","","","","7AFEC6C933D82E9DE3762A8BB5260624B47A890B",""
 "queue.gg","","team@usequeue.com","queue.gg/security.txt","","","","",""
+"riftfeed.gg","","algemeen@wirelab.nl","riftfeed.gg/security.txt","","","https://riftfeed.gg/security-policy","https://riftfeed.gg/pgp-key.txt",""
 "tobii.gg","","security@bitly.com","tobii.gg/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "vortex.gg","","security@google.com","vortex.gg/.well-known/security.txt","","","","",""

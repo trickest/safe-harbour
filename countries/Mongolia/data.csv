@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"aard.mn","","security@bitly.com","aard.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "bny.mn","","security@bitly.com","bny.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "cart.mn","","security@bitly.com","cart.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "ddy.mn","","security@bitly.com","ddy.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
@@ -8,9 +9,11 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "hnsl.mn","","security@bitly.com","hnsl.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "lend.mn","","security@lend.mn","lend.mn/.well-known/security.txt","","","https://lend.mn/reporting-security-issues.html","https://lend.mn/pgp-key.txt","en, mn"
 "nie.mn","","security@bitly.com","nie.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"owy.mn","","security@bitly.com","owy.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "rt4.mn","","security@rt4mn.org","rt4.mn/.well-known/security.txt","","","","",""
 "sgk.mn","","security@bitly.com","sgk.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "shank.mn","","security@bitly.com","shank.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "sprh.mn","","security@bitly.com","sprh.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "strib.mn","","security@bitly.com","strib.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"tem.mn","","security@bitly.com","tem.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "tiny.mn","","security@bitly.com","tiny.mn/security.txt","","","","https://bitly.com/security_pgp.txt",""

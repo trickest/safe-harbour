@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"bunker.bs8.sk","","lajcinko1@gmail.com","bunker.bs8.sk/.well-known/security.txt","","","","https://bunker.bs8.sk/pgp-key.txt","sk,en"
 "cablela.bs","","security@bitly.com","cablela.bs/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "goha.bs","","security@bitly.com","goha.bs/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "google.bs","https://g.co/vulnz","security@google.com","google.bs/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

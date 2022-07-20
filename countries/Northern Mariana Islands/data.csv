@@ -4,4 +4,5 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "devblog.bu.mp","https://hackerone.com/automattic/reports/new","","devblog.bu.mp/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "hipca.mp","","security@bitly.com","hipca.mp/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "j.mp","","security@bitly.com","j.mp/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"mpmg.mp.br","","security@mpmg.mp.br","mpmg.mp.br/.well-known/security.txt","","","","",""
 "sdca.mp","","security@bitly.com","sdca.mp/security.txt","","","","https://bitly.com/security_pgp.txt",""

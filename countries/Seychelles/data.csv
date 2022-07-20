@@ -1,4 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"apply.scholarships.lt","","security@dreamapply.com","apply.scholarships.lt/security.txt","","","","https://dreamapply.com/dreamapply-secops.asc","en, et, fr, ka ru,"
+"blog.sci.ph","https://hackerone.com/automattic/reports/new","","blog.sci.ph/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "chief.sc","","security@bitly.com","chief.sc/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "cos.sc","","security@bitly.com","cos.sc/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "duo.sc","","security@bitly.com","duo.sc/security.txt","","","","https://bitly.com/security_pgp.txt",""
@@ -10,6 +12,8 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "livemu.sc","","security@bitly.com","livemu.sc/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "lnk.sc","","security@bitly.com","lnk.sc/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "mssvm.sc","","security@bitly.com","mssvm.sc/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"oldhome.schmorp.de","","security.txt@nethype.de","oldhome.schmorp.de/.well-known/security.txt","","","","","en,de"
 "sme.sc","","security@bitly.com","sme.sc/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "snd.sc","","security@bitly.com","snd.sc/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"software.schmorp.de","","security.txt@nethype.de","software.schmorp.de/.well-known/security.txt","","","","","en,de"
 "walk.sc","","security@bitly.com","walk.sc/security.txt","","","","https://bitly.com/security_pgp.txt",""

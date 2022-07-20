@@ -28,6 +28,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "quantum.ag","","user@example.com","quantum.ag/security.txt","","","https://www.quantum.ag/security-policy","https://www.quantum.ag/pgp-key.txt",""
 "read.ag","","security@bitly.com","read.ag/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "scim.ag","","security@bitly.com","scim.ag/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"shop.aga.se","","cybersecurity.contact@linde.com","shop.aga.se/security.txt","","","","","/.well-known/security.txt HTTP/1.1  en enGET"
 "sie.ag","","security@bitly.com","sie.ag/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "silver.ag","","security@floxcloud.net","silver.ag/.well-known/security.txt","","","","","/security.txt HTTP/1.1  cs, de, en, es, sk skGET"
 "sound.ag","","dev+sound-agriculture@onedesigncompany.com","sound.ag/security.txt","","","https://www.sound.ag/security-policy","https://www.sound.ag/pgp-key.txt",""

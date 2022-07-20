@@ -1,3 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"chaac.tf.fau.eu","https://www.rrze.fau.de/infocenter/kontakt-hilfe/sicherheitsvorfaelle/ https://www.rrze.fau.de/infocenter/kontakt-hilfe/sicherheitsvorfaelle/abuse/","","chaac.tf.fau.eu/.well-known/security.txt","","","","https://www.rrze.fau.de/files/2017/06/abuse-fau.crt","de, en, es, fr"
+"cs1.tf.fau.de","https://www.rrze.fau.de/infocenter/kontakt-hilfe/sicherheitsvorfaelle/ https://www.rrze.fau.de/infocenter/kontakt-hilfe/sicherheitsvorfaelle/abuse/","","cs1.tf.fau.de/.well-known/security.txt","","","","https://www.rrze.fau.de/files/2017/06/abuse-fau.crt","de, en, es, fr"
 "social.trom.tf","","info@friendi.ca","social.trom.tf/security.txt","","","https://friendi.ca/security-policy/","","en"
 "urb.tf","","security@bitly.com","urb.tf/security.txt","","","","https://bitly.com/security_pgp.txt",""

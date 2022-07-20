@@ -1,3 +1,10 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"datascience.edu.uy","https://g.co/vulnz","security@google.com","datascience.edu.uy/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"eva.fing.edu.uy","https://moodle.org/security/report/","","eva.fing.edu.uy/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"eva.udelar.edu.uy","https://moodle.org/security/report/","","eva.udelar.edu.uy/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "eva.universidad.edu.uy","https://moodle.org/security/report/","","eva.universidad.edu.uy/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "google.com.uy","https://g.co/vulnz","security@google.com","google.com.uy/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.com.uy","https://g.co/vulnz","security@google.com","m.youtube.com.uy/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.uy","https://g.co/vulnz","security@google.com","m.youtube.uy/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"youtube.com.uy","https://g.co/vulnz","security@google.com","youtube.com.uy/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"youtube.uy","https://g.co/vulnz","security@google.com","youtube.uy/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

@@ -1,6 +1,11 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"canon.com.mk","","Product-Security@canon-europe.com","canon.com.mk/.well-known/security.txt","","","https://www.canon-europe.com/support/vulnerability-disclosure-policy/","","en"
 "google.mk","https://g.co/vulnz","security@google.com","google.mk/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.com.mk","https://g.co/vulnz","security@google.com","m.youtube.com.mk/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.mk","https://g.co/vulnz","security@google.com","m.youtube.mk/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"ndea.mk","","security@bitly.com","ndea.mk/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "slobodnaevropa.mk","","abuse@rferl.org","slobodnaevropa.mk/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"
 "svy.mk","","security@bitly.com","svy.mk/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "swisscheese.hfour.mk","https://hackerone.com/automattic/reports/new","","swisscheese.hfour.mk/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"youtube.com.mk","https://g.co/vulnz","security@google.com","youtube.com.mk/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.mk","https://g.co/vulnz","security@google.com","youtube.mk/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

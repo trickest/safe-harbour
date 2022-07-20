@@ -6,5 +6,6 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "m.youtube.com.bo","https://g.co/vulnz","security@google.com","m.youtube.com.bo/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "ofa.bo","","security@bitly.com","ofa.bo/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "thomassa.bo","","security@bitly.com","thomassa.bo/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"www.boyner.com.tr","","security@boyner.com.tr","www.boyner.com.tr/security.txt","","","","",""
 "youtube.bo","https://g.co/vulnz","security@google.com","youtube.bo/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.com.bo","https://g.co/vulnz","security@google.com","youtube.com.bo/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

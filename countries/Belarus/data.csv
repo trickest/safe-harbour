@@ -1,6 +1,13 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"blck.by","","security@bitly.com","blck.by/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "blur.by","","security@bitly.com","blur.by/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "careers.epam.by","Use at form https://www.epam.com/.well-known/SecurityPolicy.html the","","careers.epam.by/.well-known/security.txt","","https://www.epam.com/careers/job-listings/job.24901.security-testing-engineer_minsk_belarus","https://www.epam.com/.well-known/SecurityPolicy.html","","en, ru"
 "font.by","","security@bitly.com","font.by/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "google.by","https://g.co/vulnz","security@google.com","google.by/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.com.by","https://g.co/vulnz","security@google.com","google.com.by/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"help.beacon.by","https://bugcrowd.com/intercom","security@intercom.com","help.beacon.by/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
+"m.youtube.by","https://g.co/vulnz","security@google.com","m.youtube.by/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.com.by","https://g.co/vulnz","security@google.com","m.youtube.com.by/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"sendpulse.by","","support@sendpulse.com","sendpulse.by/security.txt","","","","",""
+"youtube.by","https://g.co/vulnz","security@google.com","youtube.by/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"youtube.com.by","https://g.co/vulnz","security@google.com","youtube.com.by/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

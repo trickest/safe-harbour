@@ -1,6 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "cook.ba","","security@bitly.com","cook.ba/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "google.ba","https://g.co/vulnz","security@google.com","google.ba/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.ba","https://g.co/vulnz","security@google.com","m.youtube.ba/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "obchod.bazenovachemie.cz","","/.well-known/security.txt HTTP/1.1  security@netdirect.cz security@netdirect.czGET","obchod.bazenovachemie.cz/security.txt","","","","",""
 "obchod.bazenovachemie.cz","","/security.txt HTTP/1.1  security@netdirect.cz security@netdirect.czGET","obchod.bazenovachemie.cz/.well-known/security.txt","","","","",""
 "youtube.ba","https://g.co/vulnz","security@google.com","youtube.ba/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

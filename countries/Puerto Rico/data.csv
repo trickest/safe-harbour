@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"a-static.projektn.sk","","security@dennikn.sk","a-static.projektn.sk/.well-known/security.txt","","","","https://dennikn.sk/.well-known/pgp-key.txt","cs en, sk,"
 "bwnews.pr","","security@bitly.com","bwnews.pr/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "google.com.pr","https://g.co/vulnz","security@google.com","google.com.pr/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "juni.pr","","security@bitly.com","juni.pr/security.txt","","","","https://bitly.com/security_pgp.txt",""
@@ -6,4 +7,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "machacolon.pr","https://hackerone.com/automattic/reports/new","","machacolon.pr/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "mima.pr","https://hackerone.com/automattic/reports/new","","mima.pr/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "n.pr","","security@bitly.com","n.pr/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"petition.president.gov.ua","","security@president.gov.ua","petition.president.gov.ua/.well-known/security.txt","","","","",""
+"support.prisjakt.nu","https://bugcrowd.com/intercom","security@intercom.com","support.prisjakt.nu/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
 "youtube.pr","https://g.co/vulnz","security@google.com","youtube.pr/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"zakupki.prom.ua","","security@zakupki.prom.ua","zakupki.prom.ua/.well-known/security.txt","","","","",""

@@ -1,1 +1,2 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"m.guardian.co.uk","","appsec@theguardian.com","m.guardian.co.uk/.well-known/security.txt","","https://workforus.theguardian.com/index.php/search-jobs-and-apply/?search_paths%5B%5D=&query=information+security&submit=Search+Jobs","","https://www.theguardian.com/pgp/PublicKeys/Guardian%20Application-Security.pub.txt",""

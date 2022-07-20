@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.tg","https://g.co/vulnz","security@google.com","google.tg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"nasc.tg4.tv","","security@bitly.com","nasc.tg4.tv/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "service-public.gouv.tg","https://www.totaljs.com/contact/","support@totaljs.com","service-public.gouv.tg/.well-known/security.txt","","","","",""
 "service-public.gouv.tg","https://www.totaljs.com/contact/","support@totaljs.com","service-public.gouv.tg/security.txt","","","","",""
 "vaccin.covid19.gouv.tg","https://www.totaljs.com/contact/","support@totaljs.com","vaccin.covid19.gouv.tg/.well-known/security.txt","","","","",""
