@@ -23,6 +23,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "ma.is","","webmaster@stefna.is","ma.is/.well-known/security.txt","","","","",""
 "mast.is","","webmaster@stefna.is","mast.is/.well-known/security.txt","","","","",""
 "rud.is","","bob@rud.is","rud.is/.well-known/security.txt","","","","https://keybase.io/hrbrmstr/pgp_keys.asc?fingerprint=e5388172b81c210906f5e5605879179645de9399",""
+"rud.is","","bob@rud.is","rud.is/security.txt","","","","https://keybase.io/hrbrmstr/pgp_keys.asc?fingerprint=e5388172b81c210906f5e5605879179645de9399",""
 "skimmth.is","","security@bitly.com","skimmth.is/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "skogur.is","","webmaster@stefna.is","skogur.is/.well-known/security.txt","","","","",""
 "stefna.is","","webmaster@stefna.is","stefna.is/.well-known/security.txt","","","","",""

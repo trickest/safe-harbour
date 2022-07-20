@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"albasem.com.sa","","security@salla.sa","albasem.com.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"
 "aster.sa","","security@salla.sa","aster.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"
 "badreig.sa","","security@salla.sa","badreig.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"
 "bride.sa","","security@salla.sa","bride.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"
@@ -18,4 +19,5 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "ubuy.com.sa","","om@ubuy.com","ubuy.com.sa/security.txt","","","","",""
 "vanilla.sa","","security@salla.sa","vanilla.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"
 "vi.sa","","security@bitly.com","vi.sa/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"wixsana.sa","","security@salla.sa","wixsana.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"
 "wtr.sa","","security@salla.sa","wtr.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"

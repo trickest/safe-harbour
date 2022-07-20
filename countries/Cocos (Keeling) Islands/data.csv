@@ -1,8 +1,11 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "arduino.cc","","security@arduino.cc","arduino.cc/.well-known/security.txt","","","https://www.arduino.cc/en/Main/Security","https://raw.githubusercontent.com/arduino/arduino-cvd-policy/master/security_at_arduino_cc-pub.asc","en"
+"arduino.cc","","security@arduino.cc","arduino.cc/security.txt","","","https://www.arduino.cc/en/Main/Security","https://raw.githubusercontent.com/arduino/arduino-cvd-policy/master/security_at_arduino_cc-pub.asc","en"
 "blog.arduino.cc","","security@arduino.cc","blog.arduino.cc/.well-known/security.txt","","","https://www.arduino.cc/en/Main/Security","https://raw.githubusercontent.com/arduino/arduino-cvd-policy/master/security_at_arduino_cc-pub.asc","en"
+"blog.arduino.cc","","security@arduino.cc","blog.arduino.cc/security.txt","","","https://www.arduino.cc/en/Main/Security","https://raw.githubusercontent.com/arduino/arduino-cvd-policy/master/security_at_arduino_cc-pub.asc","en"
 "conta.cc","","security@bitly.com","conta.cc/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "create.arduino.cc","","security@arduino.cc","create.arduino.cc/.well-known/security.txt","","","https://www.arduino.cc/en/Main/Security","https://raw.githubusercontent.com/arduino/arduino-cvd-policy/master/security_at_arduino_cc-pub.asc","en"
 "i.fluffy.cc","","abuse@fluffy.cc","i.fluffy.cc/.well-known/security.txt","","","","",""
 "stillu.cc","","business@stillu.cc still@teamt5.org","stillu.cc/.well-known/security.txt","","","","https://stillu.cc/pubkey.asc","en, zh"
+"stillu.cc","","business@stillu.cc still@teamt5.org","stillu.cc/security.txt","","","","https://stillu.cc/pubkey.asc","en, zh"
 "thephp.cc","","team@thephp.cc","thephp.cc/.well-known/security.txt","","","","","de,en"

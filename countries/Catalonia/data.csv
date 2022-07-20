@@ -1,4 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"alexandria.xtec.cat","https://moodle.org/security/report/","","alexandria.xtec.cat/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "aulari.esmuc.cat","https://moodle.org/security/report/","","aulari.esmuc.cat/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "google.cat","https://g.co/vulnz","security@google.com","google.cat/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "monster.cat","","security@bitly.com","monster.cat/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"odissea.xtec.cat","https://moodle.org/security/report/","","odissea.xtec.cat/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"

@@ -19,6 +19,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.it","https://g.co/vulnz","security@google.com","google.it/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.it.ao","https://g.co/vulnz","security@google.com","google.it.ao/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "gruppotim.it","","responsible-disclosure@telecomitalia.it","gruppotim.it/security.txt","","","https://www.gruppotim.it/en/footer/responsible-disclosure.html","https://www.gruppotim.it/en/footer/responsible-disclosure/pgpkey-responsible-disclosure.html",""
+"html.it","","<pre><code class=language-markup>webmaster@html.it","html.it/.well-known/security.txt","https://www.html.it/acknowledgements.txt","https://www.html.it/jobs.html</code></pre>","https://www.html.it/security-policy.html","https://www.html.it/pgp-key.txt","it"
 "html.it","","<pre><code class=language-markup>webmaster@html.it","html.it/security.txt","https://www.html.it/acknowledgements.txt","https://www.html.it/jobs.html</code></pre>","https://www.html.it/security-policy.html","https://www.html.it/pgp-key.txt","it"
 "italiaoggi.it","tel:+390258219359","abuse@class.it","italiaoggi.it/.well-known/security.txt","","","","","en  it,"
 "latinatoday.it","tel:+39.39.11.11.11.11","k@k.tt","latinatoday.it/security.txt","","","","","en, it, pl"

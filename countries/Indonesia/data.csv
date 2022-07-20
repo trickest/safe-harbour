@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.co.id","https://g.co/vulnz","security@google.com","google.co.id/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "gpy.id","","security@bitly.com","gpy.id/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"lipi.go.id","","support@keenthemes.com","lipi.go.id/.well-known/security.txt","","","","",""
 "lipi.go.id","","support@keenthemes.com","lipi.go.id/security.txt","","","","",""
 "rajce.idnes.cz","","security@rajce.net","rajce.idnes.cz/.well-known/security.txt","","","","",""

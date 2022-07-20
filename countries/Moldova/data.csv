@@ -7,4 +7,5 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "readme.md","","yoginth@hey.com","readme.md/security.txt","","","https://changelog.md'/privacy","","en"
 "stan.md","","security@bitly.com","stan.md/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "wb.md","","security@bitly.com","wb.md/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"your.md","","disclosure@your.md","your.md/.well-known/security.txt","","","https://www.livehealthily.com/legal/vulnerability-disclosure-policy","https://www.livehealthily.com/pgp-key.txt",""
 "your.md","","disclosure@your.md","your.md/security.txt","","","https://www.livehealthily.com/legal/vulnerability-disclosure-policy","https://www.livehealthily.com/pgp-key.txt",""

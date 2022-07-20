@@ -1,9 +1,12 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"azatutyun.am","","abuse@rferl.org","azatutyun.am/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"
 "go.lili.am","","security@bitly.com","go.lili.am/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "google.am","https://g.co/vulnz","security@google.com","google.am/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "halas.am","https://hackerone.com/automattic/reports/new","","halas.am/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "hub.am","","security@bitly.com","hub.am/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "oxf.am","","security@bitly.com","oxf.am/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"rus.azatutyun.am","","abuse@rferl.org","rus.azatutyun.am/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"
 "viaja.am","","security@bitly.com","viaja.am/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "washex.am","","security@bitly.com","washex.am/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "xo.am","https://twitter.com/benxo","","xo.am/.well-known/security.txt","","","","https://keybase.io/benxo",""
+"xo.am","https://twitter.com/benxo","","xo.am/security.txt","","","","https://keybase.io/benxo",""

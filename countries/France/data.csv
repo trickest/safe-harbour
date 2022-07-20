@@ -1,6 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "6play.fr","","website-security@m6web.fr","6play.fr/security.txt","","","","",""
 "abritel.fr","","RespDisc@expedia.com","abritel.fr/.well-known/security.txt","","/.well-known/security.txt /security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
+"abritel.fr","","RespDisc@expedia.com","abritel.fr/security.txt","","/.well-known/security.txt /security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "annuaire-mairie.fr","https://www.annuaire-mairie.fr/contact.html","","annuaire-mairie.fr/security.txt","","","","",""
 "billetweb.fr","","security@billetweb.fr","billetweb.fr/.well-known/security.txt","","","","https://pgp.mit.edu/pks/lookup?op=vindex&search=0xF5620B4A8F74DDFE","en,fr"
 "blablacar.fr","https://yeswehack.com/programs/bug-bounty-program-blablacar","","blablacar.fr/.well-known/security.txt","","/.well-known/security.txt HTTP/1.1  https://www.blablacar.com/dreamjobs https://www.blablacar.com/dreamjobsGET","","",""
@@ -12,6 +13,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.fr","https://g.co/vulnz","security@google.com","google.fr/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "labanquepostale.fr","/.well-known/security.txt HTTP/1.1  https://www.trusted-introducer.org/directory/teams/cert-la-poste.html https://www.trusted-introducer.org/directory/teams/cert-la-poste.htmlGET","","labanquepostale.fr/.well-known/security.txt","","","","",""
 "laposte.fr","/.well-known/security.txt HTTP/1.1  https://www.trusted-introducer.org/directory/teams/cert-la-poste.html https://www.trusted-introducer.org/directory/teams/cert-la-poste.htmlGET","","laposte.fr/.well-known/security.txt","","","","",""
+"lefigaro.fr","","security-nm@lefigaro.fr","lefigaro.fr/.well-known/security.txt","","","","","/.well-known/security.txt /security.txt HTTP/1.1  en enGET fr,"
 "lefigaro.fr","","security-nm@lefigaro.fr","lefigaro.fr/security.txt","","","","","/.well-known/security.txt /security.txt HTTP/1.1  en enGET fr,"
 "lemagit.fr","https://www.lemagit.fr/a-propos/contact","security@techtarget.com","lemagit.fr/.well-known/security.txt","","","https://www.techtarget.com/privacy-policy-fr/","","en, fr"
 "louvre.fr","","[hebergement@louvre.fr, ssi@louvre.fr]","louvre.fr/security.txt","","","","","[fr, en]"

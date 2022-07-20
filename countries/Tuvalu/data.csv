@@ -10,6 +10,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "nyhederne.tv2.dk","","security@tv2.dk","nyhederne.tv2.dk/.well-known/security.txt","","","https://omtv2.tv2.dk/media/126365/tv_2_responsible_disclosure.pdf","https://tv2.dk/.well-known/security_at_tv2_dk_openpgp_pub.txt",""
 "plex.tv","","security@plex.tv","plex.tv/.well-known/security.txt","","","https://support.plex.tv/articles/reporting-security-issues/","https://plex-security.s3.amazonaws.com/plex-security-public-key.asc","en"
 "programme.tv","","web-security@prismamedia.com","programme.tv/.well-known/security.txt","","","","",""
+"pub.tv2.no","","security@tv2.no","pub.tv2.no/.well-known/security.txt","","https://jobb.tv2.no/digital","","","en, nb-NO"
 "pub.tv2.no","","security@tv2.no","pub.tv2.no/security.txt","","https://jobb.tv2.no/digital","","","en, nb-NO"
 "sport.tv2.dk","","security@tv2.dk","sport.tv2.dk/.well-known/security.txt","","","https://omtv2.tv2.dk/media/126365/tv_2_responsible_disclosure.pdf","https://tv2.dk/.well-known/security_at_tv2_dk_openpgp_pub.txt",""
 "sporten.tv2.dk","","security@tv2.dk","sporten.tv2.dk/.well-known/security.txt","","","https://omtv2.tv2.dk/media/126365/tv_2_responsible_disclosure.pdf","https://tv2.dk/.well-known/security_at_tv2_dk_openpgp_pub.txt",""

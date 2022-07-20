@@ -1,9 +1,11 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "blog.oskarsson.nu","https://hackerone.com/automattic/reports/new","","blog.oskarsson.nu/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "cdn.nuevaya.com.ni","https://nuevaya.com.ni/contactenos/","info@nuevaya.com.ni","cdn.nuevaya.com.ni/.well-known/security.txt","","","https://nuevaya.com.ni/politica-de-privacidad/","","es"
+"cdn.nuevaya.com.ni","https://nuevaya.com.ni/contactenos/","info@nuevaya.com.ni","cdn.nuevaya.com.ni/security.txt","","","https://nuevaya.com.ni/politica-de-privacidad/","","es"
 "google.nu","https://g.co/vulnz","security@google.com","google.nu/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "jish.nu","https://hackerone.com/automattic/reports/new","","jish.nu/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "ndw.nu","","cert@ncsc.nl","ndw.nu/.well-known/security.txt","","","https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd https://www.ncsc.nl/contact/kwetsbaarheid-melden","","en nl,"
+"ndw.nu","","cert@ncsc.nl","ndw.nu/security.txt","","","https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd https://www.ncsc.nl/contact/kwetsbaarheid-melden","","en nl,"
 "politics.nur.kz","","security@corp.nur.kz","politics.nur.kz/.well-known/security.txt","","","","",""
 "poy.nu","","security@bitly.com","poy.nu/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "st.nu","","security@bonniernews.se","st.nu/.well-known/security.txt","","","","","en sv,"

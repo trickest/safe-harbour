@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.com.tr","https://g.co/vulnz","security@google.com","google.com.tr/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "social.trom.tf","","info@friendi.ca","social.trom.tf/security.txt","","","https://friendi.ca/security-policy/","","en"
+"sonet.com.tr","","so.tech@sonet.com.tr","sonet.com.tr/.well-known/security.txt","","","https://www.sonet.com.tr/kisisel-veri-guvenligi-politikasi.html","https://www.sonet.com.tr/.well-known/0x753113B8-pub.txt","en, tr"
 "sonet.com.tr","","so.tech@sonet.com.tr","sonet.com.tr/security.txt","","","https://www.sonet.com.tr/kisisel-veri-guvenligi-politikasi.html","https://www.sonet.com.tr/.well-known/0x753113B8-pub.txt","en, tr"

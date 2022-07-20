@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.com.bd","https://g.co/vulnz","security@google.com","google.com.bd/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "mmcm.gov.bd","","info@softbdltd.com","mmcm.gov.bd/.well-known/security.txt","","","","",""
+"nothi.gov.bd","","support@keenthemes.com","nothi.gov.bd/.well-known/security.txt","","","","",""
 "nothi.gov.bd","","support@keenthemes.com","nothi.gov.bd/security.txt","","","","",""
 "youtube.com.bd","https://g.co/vulnz","security@google.com","youtube.com.bd/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

@@ -8,6 +8,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.sh","https://g.co/vulnz","security@google.com","google.sh/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "gym.sh","","security@bitly.com","gym.sh/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "keygen.sh","","security@keygen.sh","keygen.sh/.well-known/security.txt","https://keygen.sh/humans.txt","","","https://keygen.sh/pgp-key.txt","en"
+"keygen.sh","","security@keygen.sh","keygen.sh/security.txt","https://keygen.sh/humans.txt","","","https://keygen.sh/pgp-key.txt","en"
 "liam.sh","https://github.com/lrstanley https://liam.sh/chat","me@liamstanley.io","liam.sh/.well-known/security.txt","","","","https://github.com/lrstanley.gpg","en"
 "livephi.sh","","security@bitly.com","livephi.sh/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "ory.sh","https://hackerone.com/ory_corp","security@ory.sh","ory.sh/.well-known/security.txt","","","https://hackerone.com/ory_corp","","de en,"
