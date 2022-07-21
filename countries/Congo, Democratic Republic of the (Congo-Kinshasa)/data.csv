@@ -2,4 +2,5 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.cd","https://g.co/vulnz","security@google.com","google.cd/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "mstr.cd","","security@bitly.com","mstr.cd/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "news.mstr.cd","","security@bitly.com","news.mstr.cd/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"panda.cd","https://pandacd.io/contact/","","panda.cd/.well-known/security.txt","","","","",""
 "panda.cd","https://pandacd.io/contact/","","panda.cd/security.txt","","","","",""

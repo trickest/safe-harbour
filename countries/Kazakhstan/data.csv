@@ -12,6 +12,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "nur.kz","","security@corp.nur.kz","nur.kz/.well-known/security.txt","","","","",""
 "politics.nur.kz","","security@corp.nur.kz","politics.nur.kz/.well-known/security.txt","","","","",""
 "prosports.kz","","alex@prosports.kz","prosports.kz/.well-known/security.txt","","","","",""
+"ps.kz","","security@ps.kz","ps.kz/.well-known/security.txt","","","","","ru,kk,en"
 "ps.kz","","security@ps.kz","ps.kz/security.txt","","","","","ru,kk,en"
 "webtotem.kz","","info@wtotem.com","webtotem.kz/.well-known/security.txt","","","https://wtotem.com/privacy","","en, kk pl, ru,"
 "youtube.kz","https://g.co/vulnz","security@google.com","youtube.kz/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

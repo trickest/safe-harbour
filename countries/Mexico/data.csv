@@ -6,6 +6,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "edestinos.com.mx","","security@esky.com","edestinos.com.mx/.well-known/security.txt","","https://it.esky.pl/dolacz-do-nas/","","https://www.esky.com/.well-known/publickey.txt","en, pl"
 "en.99designs.com.mx","","security@99designs.com","en.99designs.com.mx/.well-known/security.txt","","https://99designs.com/about/jobs","","","en"
 "expedia.mx","","RespDisc@expedia.com","expedia.mx/.well-known/security.txt","","/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
+"expedia.mx","","RespDisc@expedia.com","expedia.mx/security.txt","","/.well-known/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "flashscore.com.mx","","security-txt-chmmfs@livesport.eu","flashscore.com.mx/security.txt","","","","","en"
 "gettyimages.com.mx","","security@gettyimages.com","gettyimages.com.mx/security.txt","","","","",""
 "google.com.mx","https://g.co/vulnz","security@google.com","google.com.mx/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

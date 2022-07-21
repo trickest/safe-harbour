@@ -7,6 +7,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.com.ng","https://g.co/vulnz","security@google.com","google.com.ng/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.ng","https://g.co/vulnz","security@google.com","google.ng/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "hdspr.ng","","security@bitly.com","hdspr.ng/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"ibass.jamb.gov.ng","support.jamb.gov.ng","","ibass.jamb.gov.ng/.well-known/security.txt","","","","",""
 "ibass.jamb.gov.ng","support.jamb.gov.ng","","ibass.jamb.gov.ng/security.txt","","","","",""
 "lagosfashionweek.ng","","javik@live.com","lagosfashionweek.ng/security.txt","","","https://lagosfashionweek.ng/security-policy","https://lagosfashionweek.ng/pgp-key.txt",""
 "m.youtube.com.ng","https://g.co/vulnz","security@google.com","m.youtube.com.ng/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

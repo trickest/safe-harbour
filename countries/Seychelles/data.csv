@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"apply.scholarships.lt","","security@dreamapply.com","apply.scholarships.lt/.well-known/security.txt","","","","https://dreamapply.com/dreamapply-secops.asc","en, et, fr, ka ru,"
 "apply.scholarships.lt","","security@dreamapply.com","apply.scholarships.lt/security.txt","","","","https://dreamapply.com/dreamapply-secops.asc","en, et, fr, ka ru,"
 "blog.sci.ph","https://hackerone.com/automattic/reports/new","","blog.sci.ph/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "chief.sc","","security@bitly.com","chief.sc/security.txt","","","","https://bitly.com/security_pgp.txt",""

@@ -31,6 +31,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "northglennews.co.za","","noc@rsaweb.net","northglennews.co.za/.well-known/security.txt","","","","",""
 "nsri.org.za","","kurt@itopia.co.za","nsri.org.za/security.txt","","","https://www.nsri.org.za/security-policy","https://www.nsri.org.za/pgp-key.txt",""
 "observer.co.za","","noc@rsaweb.net","observer.co.za/.well-known/security.txt","","","","",""
+"old.bidorbuy.co.za","","tech+vulnerability@bidorbuy.co.za","old.bidorbuy.co.za/.well-known/security.txt","","jobs@bidorbuy.co.za","https://www.bidorbuy.co.za/help/6743/Vulnerability_Disclosure","https://www.bidorbuy.co.za/bidorbuy-gpg-public-key.asc",""
 "old.bidorbuy.co.za","","tech+vulnerability@bidorbuy.co.za","old.bidorbuy.co.za/security.txt","","jobs@bidorbuy.co.za","https://www.bidorbuy.co.za/help/6743/Vulnerability_Disclosure","https://www.bidorbuy.co.za/bidorbuy-gpg-public-key.asc",""
 "parysgazette.co.za","","noc@rsaweb.net","parysgazette.co.za/.well-known/security.txt","","","","",""
 "potchefstroomherald.co.za","","noc@rsaweb.net","potchefstroomherald.co.za/.well-known/security.txt","","","","",""

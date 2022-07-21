@@ -37,6 +37,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "shopify.co.nz","https://www.shopify.com/security-response","security@shopify.com","shopify.co.nz/.well-known/security.txt","https://hackerone.com/shopify/thanks","https://www.shopify.com/careers","https://hackerone.com/shopify","https://www.shopify.com/shopify-security.pub",""
 "slingshot.co.nz","","security@vocusgroup.co.nz","slingshot.co.nz/.well-known/security.txt","","https://www.jumpship.co.nz/home","https://www.vocusgroup.co.nz/.well-known/security-policy.txt","https://www.vocusgroup.co.nz/.well-known/pgp-key-E24A7B33.txt",""
 "techday.co.nz","","info@techday.com","techday.co.nz/.well-known/security.txt","","","","","en"
+"techday.co.nz","","info@techday.com","techday.co.nz/security.txt","","","","","en"
 "tewhanake.maori.nz","","support@stocktim.co.nz","tewhanake.maori.nz/security.txt","","","https://tewhanake.maori.nz/security-policy","https://tewhanake.maori.nz/pgp-key.txt",""
 "thearts.co.nz","","clients@batch.nz","thearts.co.nz/security.txt","","","https://www.thearts.co.nz/security-policy","https://www.thearts.co.nz/pgp-key.txt",""
 "theta.co.nz","https://theta.co.nz/cyber","security@theta.co.nz","theta.co.nz/.well-known/security.txt","","https://apply.workable.com/theta-systems-ltd/","","https://theta.co.nz/.well-known/security@theta.co.nz.asc https://theta.co.nz/.well-known/security@theta.txt","en"

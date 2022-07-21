@@ -2,6 +2,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "amazon.co.jp","https://hackerone.com/amazonvrp/reports/new","","amazon.co.jp/.well-known/security.txt","","https://www.amazon.jobs/en/teams/infosec","https://hackerone.com/amazonvrp","",""
 "amazon.jp","https://hackerone.com/amazonvrp/reports/new","","amazon.jp/.well-known/security.txt","","https://www.amazon.jobs/en/teams/infosec","https://hackerone.com/amazonvrp","",""
 "flyteam.jp","","info@flyteam.jp","flyteam.jp/security.txt","","","","",""
+"gettyimages.co.jp","","security@gettyimages.com","gettyimages.co.jp/.well-known/security.txt","","","","",""
 "gettyimages.co.jp","","security@gettyimages.com","gettyimages.co.jp/security.txt","","","","",""
 "google.co.jp","https://g.co/vulnz","security@google.com","google.co.jp/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.jp","https://g.co/vulnz","security@google.com","google.jp/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

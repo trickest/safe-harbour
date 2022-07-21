@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "3dnews.ru","https://hackerone.com/v3dnews","","3dnews.ru/.well-known/security.txt","","","","",""
+"cian.ru","","security@cian.ru","cian.ru/.well-known/security.txt","","","","","en, ru"
 "dec59.ruk.cuni.cz","https://csirt.cuni.cz/en/contact","abuse@cuni.cz","dec59.ruk.cuni.cz/security.txt","https://csirt.cuni.cz/en/acknowledgements","","https://csirt.cuni.cz/en/incident_reporting","https://csirt.cuni.cz/en/publickey.asc https://keys.openpgp.org/search?q=3F76F3C999DA105979005B4C2FC53DCB10AA8BE1",""
 "drive.ru","","security@drive2.ru","drive.ru/.well-known/security.txt","","","","https://www.drive2.ru/assets/dynamic/pgp-key.txt",""
 "drive2.ru","","security@drive2.ru","drive2.ru/.well-known/security.txt","","","","https://www.drive2.ru/assets/dynamic/pgp-key.txt",""
@@ -18,6 +19,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "sabyget.ru","","security@tensor.ru","sabyget.ru/.well-known/security.txt","","","","https://sbis.ru/.well-known/ts-public-key.asc","en, ru"
 "sfera.ru","","CyberSec@bcs.ru","sfera.ru/.well-known/security.txt","","","","",""
 "spb.hse.ru","","underground@hse.ru","spb.hse.ru/.well-known/security.txt","","","","",""
+"spb.hse.ru","","underground@hse.ru","spb.hse.ru/security.txt","","","","",""
 "svobodanews.ru","","abuse@rferl.org","svobodanews.ru/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"
 "tarantula.ruk.cuni.cz","https://csirt.cuni.cz/en/contact","abuse@cuni.cz","tarantula.ruk.cuni.cz/security.txt","https://csirt.cuni.cz/en/acknowledgements","","https://csirt.cuni.cz/en/incident_reporting","https://csirt.cuni.cz/en/publickey.asc https://keys.openpgp.org/search?q=3F76F3C999DA105979005B4C2FC53DCB10AA8BE1",""
 "taxsee.ru","","security@taxsee.com","taxsee.ru/.well-known/security.txt","","","","",""

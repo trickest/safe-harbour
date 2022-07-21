@@ -34,6 +34,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "smartcity.wien.gv.at","+43-1-4000-71112 https://www.wien.gv.at/english/administration/ict/cert.html","cert@wien.gv.at","smartcity.wien.gv.at/security.txt","","","","https://wiencert.at/asc/pgpkeys.asc",""
 "tirol.gv.at","https://www.dvt.at/services/servicedesk/ tel:+43-512-508-3399","security@tirol.gv.at","tirol.gv.at/security.txt","","","","","de, en"
 "tugraz.at","phone:+43-316-873/7000","cert@tugraz.at","tugraz.at/.well-known/security.txt","","","","https://security.tugraz.at/cert.pem","de, en"
+"tugraz.at","phone:+43-316-873/7000","cert@tugraz.at","tugraz.at/security.txt","","","","https://security.tugraz.at/cert.pem","de, en"
 "tullner-naschmarkt.at","","admin@tullner-naschmarkt.at","tullner-naschmarkt.at/security.txt","","","","",""
 "u2u5.wien.gv.at","+43-1-4000-71112 https://www.wien.gv.at/english/administration/ict/cert.html","cert@wien.gv.at","u2u5.wien.gv.at/security.txt","","","","https://wiencert.at/asc/pgpkeys.asc",""
 "wien.at","+43-1-4000-71112  https://digitales.wien.gv.at/en/wiencert/","cert@wien.gv.at","wien.at/.well-known/security.txt","","","","https://wiencert.at/asc/pgpkeys.asc",""

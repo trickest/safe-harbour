@@ -9,6 +9,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "individual.ecomailapp.cz","","support@ecomail.cz","individual.ecomailapp.cz/.well-known/security.txt","","","","",""
 "insp.ec","","security@bitly.com","insp.ec/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "m.youtube.com.ec","https://g.co/vulnz","security@google.com","m.youtube.com.ec/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"mueel.econ.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","mueel.econ.muni.cz/.well-known/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/security.txt HTTP/1.1  cs, en, sk skGET"
 "mueel.econ.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","mueel.econ.muni.cz/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/.well-known/security.txt HTTP/1.1  cs, en, sk skGET"
 "mues.econ.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","mues.econ.muni.cz/.well-known/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/security.txt HTTP/1.1  cs, en, sk skGET"
 "neuvoo.com.ec","","raed@neuvoo.com","neuvoo.com.ec/security.txt","","","","",""

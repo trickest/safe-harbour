@@ -9,6 +9,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "odissea.xtec.cat","https://moodle.org/security/report/","","odissea.xtec.cat/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "telepotato.cat","https://hackerone.com/automattic/reports/new","","telepotato.cat/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "toprural.cat","","RespDisc@expedia.com","toprural.cat/.well-known/security.txt","","/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
+"toprural.cat","","RespDisc@expedia.com","toprural.cat/security.txt","","/.well-known/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "vilapress.cat","","soporte@bigpress.net","vilapress.cat/.well-known/security.txt","","","","","en, es, gl"
 "virtual.eapc.cat","https://moodle.org/security/report/","","virtual.eapc.cat/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "xor.cat","https://twitter.com/xorcat","az@xor.cat","xor.cat/.well-known/security.txt","","","","https://keybase.io/xorcat https://xor.cat/key.asc openpgp4fpr:82424da992bde832b3366035f2d050d3a528a62c",""

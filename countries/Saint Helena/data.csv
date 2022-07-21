@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"adityatelange.now.sh","","security@adityatelange.in","adityatelange.now.sh/.well-known/security.txt","","","","","en"
 "adpu.sh","","security@bitly.com","adpu.sh/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "aye.sh","https://aye.sh/contact","","aye.sh/.well-known/security.txt","","","","https://aye.sh/.well-known/keys/gpg-ed25519-2CA18B2097A7429A.txt https://aye.sh/.well-known/keys/gpg-rsa4096-67CE3F1AB15C021E.txt","de en, id, si,"
 "bigfi.sh","","security@bitly.com","bigfi.sh/security.txt","","","","https://bitly.com/security_pgp.txt",""
@@ -29,6 +30,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "purefla.sh","","security@bitly.com","purefla.sh/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "refr.sh","","security@bitly.com","refr.sh/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "resilience.sh","","resilience@wimzkl.com","resilience.sh/security.txt","","","","http://cryptonomicon.mit.edu/pks/lookup?op=get&search=0x00D4D7E07BDE33A1",""
+"s.shr.lc","","security@bitly.com","s.shr.lc/.well-known/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "s.shr.lc","","security@bitly.com","s.shr.lc/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "skl.sh","","security@bitly.com","skl.sh/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "swoo.sh","","security@bitly.com","swoo.sh/security.txt","","","","https://bitly.com/security_pgp.txt",""

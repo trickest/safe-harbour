@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "account.ioi.dk","https://www.ioi.dk/security/","security@ioi.dk","account.ioi.dk/.well-known/security.txt","","https://www.ioi.dk/jobs/","https://www.ioi.dk/security/","","en"
+"account.ioi.dk","https://www.ioi.dk/security/","security@ioi.dk","account.ioi.dk/.well-known/security.txt","","https://www.ioi.dk/jobs/","https://www.ioi.dk/security/","","en"
 "agro.au.dk","https://twitter.com/aarhusunicyber","security@au.dk","agro.au.dk/.well-known/security.txt","","","","",""
 "alexandra.dk","","security-vulnerabilities@alexandra.dk","alexandra.dk/.well-known/security.txt","","","","https://alexandra.dk/.well-known/pgp_key.asc","en,da"
 "alexandra.dk","","security-vulnerabilities@alexandra.dk","alexandra.dk/security.txt","","","","https://alexandra.dk/.well-known/pgp_key.asc","en,da"
@@ -41,6 +42,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "g-e-m.dk","https://twitter.com/aarhusunicyber","security@au.dk","g-e-m.dk/.well-known/security.txt","","","","",""
 "geo.au.dk","https://twitter.com/aarhusunicyber","security@au.dk","geo.au.dk/.well-known/security.txt","","","","",""
 "gettyimages.dk","","security@gettyimages.com","gettyimages.dk/.well-known/security.txt","","","","",""
+"gettyimages.dk","","security@gettyimages.com","gettyimages.dk/security.txt","","","","",""
 "gitlab.bios.au.dk","https://twitter.com/aarhusunicyber","security@au.dk","gitlab.bios.au.dk/.well-known/security.txt","","","","",""
 "google.dk","https://g.co/vulnz","security@google.com","google.dk/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "grundtvigcenteret.au.dk","https://twitter.com/aarhusunicyber","security@au.dk","grundtvigcenteret.au.dk/.well-known/security.txt","","","","",""

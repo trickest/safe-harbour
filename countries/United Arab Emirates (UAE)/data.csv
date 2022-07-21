@@ -12,6 +12,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "m.youtube.co.ae","https://g.co/vulnz","security@google.com","m.youtube.co.ae/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "michaelpage.ae","","socREMOVETHIS@page.com","michaelpage.ae/.well-known/security.txt","","","","",""
 "myprotein.ae","https://www.thg.com/security-issues/","","myprotein.ae/.well-known/security.txt","","","","",""
+"myprotein.ae","https://www.thg.com/security-issues/","","myprotein.ae/security.txt","","","","",""
 "neuvoo.ae","","raed@neuvoo.com","neuvoo.ae/security.txt","","","","",""
 "retailabudhabi.ae","https://g.co/vulnz","security@google.com","retailabudhabi.ae/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "ubuy.ae","","om@ubuy.com","ubuy.ae/security.txt","","","","",""

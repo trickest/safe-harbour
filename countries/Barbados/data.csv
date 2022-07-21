@@ -1,3 +1,4 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "dcs.bbk.ac.uk","","webmaster@dcs.bbk.ac.uk","dcs.bbk.ac.uk/.well-known/security.txt","","","","",""
 "m.bbc.co.uk","","security@bbc.co.uk","m.bbc.co.uk/.well-known/security.txt","","https://careerssearch.bbc.co.uk/jobs/search","https://www.bbc.com/backstage/security-disclosure-policy/","",""
+"m.bbc.co.uk","","security@bbc.co.uk","m.bbc.co.uk/security.txt","","https://careerssearch.bbc.co.uk/jobs/search","https://www.bbc.com/backstage/security-disclosure-policy/","",""

@@ -16,6 +16,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "dvrv.ai","","security@bitly.com","dvrv.ai/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "easycrypto.ai","https://hub.easycrypto.com/vdp","security@easycrypto.com","easycrypto.ai/.well-known/security.txt","","","","","en, mi"
 "english.aivd.nl","","cert@ncsc.nl","english.aivd.nl/.well-known/security.txt","","","https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd https://www.ncsc.nl/contact/kwetsbaarheid-melden","","en nl,"
+"english.aivd.nl","","cert@ncsc.nl","english.aivd.nl/security.txt","","","https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd https://www.ncsc.nl/contact/kwetsbaarheid-melden","","en nl,"
 "facet.ai","","security@facet.ai","facet.ai/.well-known/security.txt","","","https://facet.ai/security-policy.md","","en"
 "floatbot.ai","https://floatbot.ai/contact","Bugbounty@floatbot.ai","floatbot.ai/.well-known/security.txt","","https://floatbot.ai/careers","https://floatbot.ai/privacy-policy","",""
 "go.cto.ai","","security@bitly.com","go.cto.ai/security.txt","","","","https://bitly.com/security_pgp.txt",""

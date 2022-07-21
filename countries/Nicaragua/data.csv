@@ -7,5 +7,6 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "m.youtube.ni","https://g.co/vulnz","security@google.com","m.youtube.ni/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "moodle.nic.cz","https://moodle.org/security/report/","","moodle.nic.cz/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "nuevaya.com.ni","https://nuevaya.com.ni/contactenos/","info@nuevaya.com.ni","nuevaya.com.ni/.well-known/security.txt","","","https://nuevaya.com.ni/politica-de-privacidad/","","es"
+"nuevaya.com.ni","https://nuevaya.com.ni/contactenos/","info@nuevaya.com.ni","nuevaya.com.ni/security.txt","","","https://nuevaya.com.ni/politica-de-privacidad/","","es"
 "youtube.com.ni","https://g.co/vulnz","security@google.com","youtube.com.ni/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.ni","https://g.co/vulnz","security@google.com","youtube.ni/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

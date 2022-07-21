@@ -8,6 +8,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "blog.marcon.me","https://hackerone.com/automattic/reports/new","","blog.marcon.me/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "blog.ryotak.me","https://twitter.com/ryotkak","ryotak.me security ＠","blog.ryotak.me/.well-known/security.txt","","","","","en, ja"
 "brandonlin.me","https://keybase.io/blin00","","brandonlin.me/.well-known/security.txt","","","","https://keybase.io/blin00/pgp_keys.asc?fingerprint=09257d7d4240e76d312e293b352d50b10b90b1dd",""
+"brandonlin.me","https://keybase.io/blin00","","brandonlin.me/security.txt","","","","https://keybase.io/blin00/pgp_keys.asc?fingerprint=09257d7d4240e76d312e293b352d50b10b90b1dd",""
 "byjp.me","","security@bitly.com","byjp.me/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "codewithdan.me","","security@bitly.com","codewithdan.me/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "erikw.me","","erik.westrup@gmail.com","erikw.me/.well-known/security.txt","","","","https://erikw.me/assets/erikw.asc",""

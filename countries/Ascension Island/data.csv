@@ -32,6 +32,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "resilienceacademy.ac.tz","","security@utu.fi","resilienceacademy.ac.tz/.well-known/security.txt","https://security.utu.fi/acknowledgements.html","","","",""
 "rgu.ac.uk","https://www3.rgu.ac.uk/staff-and-current-students/it-helpdesk/contact-it-services","","rgu.ac.uk/.well-known/security.txt","","","","",""
 "shef.ac","","security@bitly.com","shef.ac/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"sign.ac.uk","https://hackerone.com/d38cfce2-ebc5-4845-8ea0-89815b539a2e/embedded_submissions/new","","sign.ac.uk/.well-known/security.txt","","","https://www.scot.nhs.uk/vulnerability-disclosure-policy/","","en"
 "sign.ac.uk","https://hackerone.com/d38cfce2-ebc5-4845-8ea0-89815b539a2e/embedded_submissions/new","","sign.ac.uk/security.txt","","","https://www.scot.nhs.uk/vulnerability-disclosure-policy/","","en"
 "southampton.ac.uk","","infosec@soton.ac.uk","southampton.ac.uk/security.txt","","","","","en"
 "staffs.ac.uk","","cybersecurityteam@staffs.ac.uk  ﻿3800@staffs.ac.uk","staffs.ac.uk/.well-known/security.txt","","","","","EN"

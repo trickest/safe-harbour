@@ -4,5 +4,6 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.ci","https://g.co/vulnz","security@google.com","google.ci/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "moodle.ciencias.ulisboa.pt","https://moodle.org/security/report/","","moodle.ciencias.ulisboa.pt/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "pops.ci","","security@bitly.com","pops.ci/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"stockholm.city.se","","security@bonniernews.se","stockholm.city.se/.well-known/security.txt","","","","","en sv,"
 "support.djamo.ci","https://bugcrowd.com/intercom","security@intercom.com","support.djamo.ci/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
 "wroclaw.citygame.com.pl","","info@buslive.pl","wroclaw.citygame.com.pl/.well-known/security.txt","","","","",""

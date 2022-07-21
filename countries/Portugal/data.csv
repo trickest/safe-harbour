@@ -15,6 +15,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.pt","https://g.co/vulnz","security@google.com","google.pt/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "interc.pt","","security@bitly.com","interc.pt/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "michelin.pt","","cert@michelin.com","michelin.pt/.well-known/security.txt","","careers.michelin.com","","cert.michelin.com",""
+"michelin.pt","","cert@michelin.com","michelin.pt/.well-known/security.txt","","careers.michelin.com","","cert.michelin.com",""
 "moodle.ciencias.ulisboa.pt","https://moodle.org/security/report/","","moodle.ciencias.ulisboa.pt/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "neuvoo.pt","","raed@neuvoo.com","neuvoo.pt/security.txt","","","","",""
 "pplware.sapo.pt","","psimoes@pplware.com","pplware.sapo.pt/security.txt","","","","",""
