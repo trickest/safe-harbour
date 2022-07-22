@@ -14,6 +14,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "notino.hr","https://www.notino.com/contact/","﻿security@notino.com","notino.hr/.well-known/security.txt","","https://jobs.notino.com/","","","cs  en,"
 "omega.ffzg.hr","https://moodle.org/security/report/","","omega.ffzg.hr/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "play.rtl.hr","","website-security@m6web.fr","play.rtl.hr/.well-known/security.txt","","","","",""
+"play.rtl.hr","","website-security@m6web.fr","play.rtl.hr/security.txt","","","","",""
 "posao.hr","","kontakt@posao.hr","posao.hr/security.txt","","","","",""
 "psk.hr","","fegpubsec@feg.eu","psk.hr/.well-known/security.txt","","","","","en"
 "super1.net.hr","","marko@telegramgrupa.hr","super1.net.hr/.well-known/security.txt","","https://www.telegramgrupa.hr/jobs.php","","","en, hr"

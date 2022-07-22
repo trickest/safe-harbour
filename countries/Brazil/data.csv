@@ -12,6 +12,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "michaelpage.com.br","","socREMOVETHIS@page.com","michaelpage.com.br/.well-known/security.txt","","","","",""
 "mpmg.mp.br","","security@mpmg.mp.br","mpmg.mp.br/.well-known/security.txt","","","","",""
 "nubank.com.br","","security@nubank.com.br","nubank.com.br/.well-known/security.txt","","https://nubank.com.br/en/careers/","","https://cdn.nubank.com.br/pgp/key.txt","en"
+"printi.com.br","","printi-bugbounty@cimpress.com","printi.com.br/.well-known/security.txt","","","https://www.printi.com.br/politica-de-privacidade","","en pt-BR,"
 "printi.com.br","","printi-bugbounty@cimpress.com","printi.com.br/security.txt","","","https://www.printi.com.br/politica-de-privacidade","","en pt-BR,"
 "quintoandar.com.br","","security@quintoandar.com.br","quintoandar.com.br/.well-known/security.txt","","","","",""
 "toyota.com.br","","george.rodrigues@prodigious.com","toyota.com.br/security.txt","","","","https://www.toyota.com.br/security/pgp-key.txt",""

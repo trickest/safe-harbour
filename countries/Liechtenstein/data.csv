@@ -24,5 +24,6 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "schach.li","","security@backslash.ch","schach.li/security.txt","","","","","en,de"
 "term.li","","security@bitly.com","term.li/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "tickets.supermarket.li","","it@couponplus.ch","tickets.supermarket.li/.well-known/security.txt","","","","",""
+"tickets.supermarket.li","","it@couponplus.ch","tickets.supermarket.li/security.txt","","","","",""
 "tpg.li","","security@bitly.com","tpg.li/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "turn.li","","security@bitly.com","turn.li/security.txt","","","","https://bitly.com/security_pgp.txt",""

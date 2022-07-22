@@ -1,6 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "cjv.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","cjv.muni.cz/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","cs, en, sk"
 "crp.kypo.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","crp.kypo.muni.cz/.well-known/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/security.txt HTTP/1.1  cs, en, sk skGET"
+"crp.kypo.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","crp.kypo.muni.cz/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/.well-known/security.txt HTTP/1.1  cs, en, sk skGET"
 "fi.muni.cz","","abuse@fi.muni.cz","fi.muni.cz/.well-known/security.txt","","","","",""
 "fiskidagur.muna.is","","webmaster@stefna.is","fiskidagur.muna.is/.well-known/security.txt","","","","",""
 "gamu.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","gamu.muni.cz/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/.well-known/security.txt HTTP/1.1  cs, en, sk skGET"
@@ -16,6 +17,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "mueel.econ.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","mueel.econ.muni.cz/.well-known/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/security.txt HTTP/1.1  cs, en, sk skGET"
 "mueel.econ.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","mueel.econ.muni.cz/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/.well-known/security.txt HTTP/1.1  cs, en, sk skGET"
 "mues.econ.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","mues.econ.muni.cz/.well-known/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/security.txt HTTP/1.1  cs, en, sk skGET"
+"mues.econ.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","mues.econ.muni.cz/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/.well-known/security.txt HTTP/1.1  cs, en, sk skGET"
 "munishop.muni.cz","","podpora@apilot.cz","munishop.muni.cz/security.txt","","","","",""
 "physics.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","physics.muni.cz/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/.well-known/security.txt HTTP/1.1  cs, en, sk skGET"
 "sci.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","sci.muni.cz/.well-known/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/security.txt HTTP/1.1  cs, en, sk skGET"
@@ -26,4 +28,5 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "tumblr.muse.mu","https://hackerone.com/automattic/reports/new","","tumblr.muse.mu/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "ubuy.mu","","om@ubuy.com","ubuy.mu/security.txt","","","","",""
 "vigeland.museum.no","","dev@mustasj.no","vigeland.museum.no/security.txt","","","https://vigeland.museum.no/security-policy","https://vigeland.museum.no/pgp-key.txt",""
+"yem2018.econ.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","yem2018.econ.muni.cz/.well-known/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/security.txt HTTP/1.1  cs, en, sk skGET"
 "yem2018.econ.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","yem2018.econ.muni.cz/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/.well-known/security.txt HTTP/1.1  cs, en, sk skGET"

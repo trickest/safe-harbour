@@ -12,6 +12,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "beta.cs.au.dk","https://twitter.com/aarhusunicyber","security@au.dk","beta.cs.au.dk/.well-known/security.txt","","","","",""
 "birc.au.dk","https://twitter.com/aarhusunicyber","security@au.dk","birc.au.dk/.well-known/security.txt","","","","",""
 "brics.dk","https://twitter.com/aarhusunicyber","security@au.dk","brics.dk/.well-known/security.txt","","","","",""
+"bryggebladet.dk","https://www.bryggebladet.dk/kontakt/","teknik@bryggebladet.dk","bryggebladet.dk/.well-known/security.txt","","","","",""
 "bryggebladet.dk","https://www.bryggebladet.dk/kontakt/","teknik@bryggebladet.dk","bryggebladet.dk/security.txt","","","","",""
 "bss.au.dk","https://twitter.com/aarhusunicyber","security@au.dk","bss.au.dk/.well-known/security.txt","","","","",""
 "byhistorie.dk","https://twitter.com/aarhusunicyber","security@au.dk","byhistorie.dk/.well-known/security.txt","","","","",""

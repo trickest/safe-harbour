@@ -19,6 +19,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "reut.rs","","security@bitly.com","reut.rs/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "roge.rs","","security@bitly.com","roge.rs/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "seedsta.rs","","security@bitly.com","seedsta.rs/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"tchspk.rs","","security@kyos.com","tchspk.rs/.well-known/security.txt","","","","","en, nl"
 "tchspk.rs","","security@kyos.com","tchspk.rs/security.txt","","","","","en, nl"
 "tmsnrt.rs","","security@bitly.com","tmsnrt.rs/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "travl.rs","","security@bitly.com","travl.rs/security.txt","","","","https://bitly.com/security_pgp.txt",""

@@ -2,6 +2,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "7ny.tv","","security@bitly.com","7ny.tv/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "adap.tv","https://hackerone.com/yahoo","security@yahooinc.com","adap.tv/.well-known/security.txt","","https://www.yahooinc.com/careers/search.html?q=paranoids","https://hackerone.com/yahoo?view_policy=true","",""
 "appday.tv","https://www.totaljs.com/contact/","support@totaljs.com","appday.tv/.well-known/security.txt","","","","",""
+"appday.tv","https://www.totaljs.com/contact/","support@totaljs.com","appday.tv/security.txt","","","","",""
 "barrandov.tv","https://www.facebook.com/vaclav.vlcek","vaclav.vlcek@tyden.cz","barrandov.tv/.well-known/security.txt","","","","",""
 "berrytube.tv","","bt-security@atte.fi","berrytube.tv/.well-known/security.txt","","","","",""
 "betfury.tv","","security@bitly.com","betfury.tv/security.txt","","","","https://bitly.com/security_pgp.txt",""

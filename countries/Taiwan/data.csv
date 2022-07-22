@@ -4,6 +4,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "buy.yahoo.com.tw","https://hackerone.com/yahoo","security@yahooinc.com","buy.yahoo.com.tw/.well-known/security.txt","","https://www.yahooinc.com/careers/search.html?q=paranoids","https://hackerone.com/yahoo?view_policy=true","",""
 "etoro.tw","","security@bitly.com","etoro.tw/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "every.tw","","security@bitly.com","every.tw/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"expedia.com.tw","","RespDisc@expedia.com","expedia.com.tw/.well-known/security.txt","","/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "expedia.com.tw","","RespDisc@expedia.com","expedia.com.tw/security.txt","","/.well-known/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "games.yahoo.com.tw","https://hackerone.com/yahoo","security@yahooinc.com","games.yahoo.com.tw/.well-known/security.txt","","https://www.yahooinc.com/careers/search.html?q=paranoids","https://hackerone.com/yahoo?view_policy=true","",""
 "go.greenbox.tw","","security@bitly.com","go.greenbox.tw/security.txt","","","","https://bitly.com/security_pgp.txt",""

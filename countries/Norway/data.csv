@@ -100,6 +100,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "storebrand.no","","security@storebrand.no","storebrand.no/.well-known/security.txt","","","","",""
 "storebrand.no","","security@storebrand.no","storebrand.no/security.txt","","","","",""
 "sumo.tv2.no","","security@tv2.no","sumo.tv2.no/.well-known/security.txt","","https://jobb.tv2.no/digital","","","en, nb-NO"
+"supersaver.no","","/.well-known/security.txt HTTP/1.1  security@etraveligroup.com security@etraveligroup.comGET","supersaver.no/security.txt","","","","",""
 "supersaver.no","","/security.txt HTTP/1.1  security@etraveligroup.com security@etraveligroup.comGET","supersaver.no/.well-known/security.txt","","","","",""
 "support.koer.no","https://bugcrowd.com/intercom","security@intercom.com","support.koer.no/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
 "sykehuset-innlandet.no","","cert@sykehuspartner.no personvernombud@sykehuset-innlandet.no security@nhn.no","sykehuset-innlandet.no/.well-known/security.txt","","mailto:sikkerhet@sykehuspartner.no","https://sykehuspartner.no/Documents/Sikkerhet%20-%20regionale%20bruksvilk%C3%A5r/NO-38%20-%20Responsible%20disclosure%20policy%20(engelsk).pdf","","en, no"

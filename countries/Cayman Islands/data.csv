@@ -1,2 +1,3 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "crp.kypo.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","crp.kypo.muni.cz/.well-known/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/security.txt HTTP/1.1  cs, en, sk skGET"
+"crp.kypo.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","crp.kypo.muni.cz/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/.well-known/security.txt HTTP/1.1  cs, en, sk skGET"

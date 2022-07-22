@@ -1,6 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "b.qr.ae","","security@bitly.com","b.qr.ae/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "canon-emirates.ae","","Product-Security@canon-europe.com","canon-emirates.ae/.well-known/security.txt","","","https://www.canon-europe.com/support/vulnerability-disclosure-policy/","","en"
+"dessc.sch.ae","","helpdesk@interactiveschools.com  support@interactiveschools.com","dessc.sch.ae/.well-known/security.txt","","","https://origin.interactiveschools.com/privacy-terms.html","https://origin.interactiveschools.com/.well-known/pgp-key.txt","en"
 "etisalat.ae","https://app.bugbounty.ae/cvd/etisalat/4pHLzqACAPAspdWGytcLF1","info@bugbounty.ae","etisalat.ae/.well-known/security.txt","","","","","En"
 "gettyimages.ae","","security@gettyimages.com","gettyimages.ae/.well-known/security.txt","","","","",""
 "gettyimages.ae","","security@gettyimages.com","gettyimages.ae/security.txt","","","","",""
@@ -8,6 +9,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "hostinger.ae","https://hackerone.com/5093805e-4e52-474b-ba7f-5c04a7ba10e7/embedded_submissions/new<br>","security@hostinger.com<br>","hostinger.ae/.well-known/security.txt","","","https://www.hostinger.com/responsible-disclosure-policy","",""
 "itls.ae","","datenschutz@flane.de","itls.ae/.well-known/security.txt","","","","","en,de"
 "lookfantastic.ae","https://www.thg.com/security-issues/","","lookfantastic.ae/.well-known/security.txt","","","","",""
+"lookfantastic.ae","https://www.thg.com/security-issues/","","lookfantastic.ae/security.txt","","","","",""
 "m.youtube.ae","https://g.co/vulnz","security@google.com","m.youtube.ae/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.co.ae","https://g.co/vulnz","security@google.com","m.youtube.co.ae/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "michaelpage.ae","","socREMOVETHIS@page.com","michaelpage.ae/.well-known/security.txt","","","","",""
