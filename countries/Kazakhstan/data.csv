@@ -3,6 +3,8 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "bankrbk.kz","https://t.me/rbk_bugbounty_bot","","bankrbk.kz/.well-known/security.txt","","","","",""
 "bcc-invest.kz","","agalichev@bcc-invest.kz","bcc-invest.kz/.well-known/security.txt","","","","",""
 "bcc-invest.kz","","agalichev@bcc-invest.kz","bcc-invest.kz/security.txt","","","","",""
+"beeline.kz","","security@beeline.kz","beeline.kz/.well-known/security.txt","https://beeline.kz/binaries/content/assets/example/responsible-disclosure-policy.pdf","","https://beeline.kz/binaries/content/assets/example/responsible-disclosure-policy.pdf","","ru"
+"beeline.kz","","security@beeline.kz","beeline.kz/security.txt","https://beeline.kz/binaries/content/assets/example/responsible-disclosure-policy.pdf","","https://beeline.kz/binaries/content/assets/example/responsible-disclosure-policy.pdf","","ru"
 "eubank.kz","","security@eubank.kz","eubank.kz/.well-known/security.txt","","","","","en, kz ru,"
 "gitlab.astanait.edu.kz","https://moodle.org/security/report/","","gitlab.astanait.edu.kz/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "google.kz","https://g.co/vulnz","security@google.com","google.kz/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

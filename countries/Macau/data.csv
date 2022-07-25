@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "hi.monterail.co","","security@bitly.com","hi.monterail.co/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "navigovat.mobilmania.cz","https://www.cncenter.cz/kontakt  https://www.facebook.com/CzechNewsCenter/","info@cncenter.cz","navigovat.mobilmania.cz/.well-known/security.txt","","https://www.cncenter.cz/kariera","","","cs, en, sk"
+"navigovat.mobilmania.cz","https://www.cncenter.cz/kontakt  https://www.facebook.com/CzechNewsCenter/","info@cncenter.cz","navigovat.mobilmania.cz/security.txt","","https://www.cncenter.cz/kariera","","","cs, en, sk"
 "tumblr.modesto.gal","https://hackerone.com/automattic/reports/new","","tumblr.modesto.gal/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""

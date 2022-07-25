@@ -20,6 +20,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "festivalbrassband.be","","tech@webador.com","festivalbrassband.be/.well-known/security.txt","","https://www.webador.com/jobs","","","en, nl"
 "filmfestival.be","","user@example.com","filmfestival.be/security.txt","","","https://www.filmfestival.be/nl/security-policy","https://www.filmfestival.be/nl/pgp-key.txt",""
 "fotomuseum.be","","spacecom@lunar.be","fotomuseum.be/security.txt","","","https://fomu.be/security-policy","https://fomu.be/pgp-key.txt",""
+"gettyimages.be","","security@gettyimages.com","gettyimages.be/.well-known/security.txt","","","","",""
 "gettyimages.be","","security@gettyimages.com","gettyimages.be/security.txt","","","","",""
 "google.be","https://g.co/vulnz","security@google.com","google.be/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "help.beacon.by","https://bugcrowd.com/intercom","security@intercom.com","help.beacon.by/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"

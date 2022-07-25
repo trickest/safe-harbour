@@ -1,6 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "accntu.re","","security@bitly.com","accntu.re/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "avale.re","","security@bitly.com","avale.re/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"bin.re","","security@bin.re","bin.re/.well-known/security.txt","","","","https://keybase.io/baderj/pgp_keys.asc?fingerprint=2cf7a0fc9bd70ed9f3a46999b9e39c09ead3914f https://www.globaltrustpoint.com/get?email=hello@johannesbader.ch","de en,"
 "blog.recast.ai","https://www.sap.com/report-a-vulnerability","","blog.recast.ai/.well-known/security.txt","","","","",""
 "blog.redwingheritage.eu","https://hackerone.com/automattic/reports/new","","blog.redwingheritage.eu/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "botconnector.recast.ai","https://www.sap.com/report-a-vulnerability","","botconnector.recast.ai/.well-known/security.txt","","","","",""

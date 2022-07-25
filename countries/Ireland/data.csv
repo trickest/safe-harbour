@@ -7,6 +7,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "cnnmon.ie","","security@bitly.com","cnnmon.ie/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "expedia.ie","","RespDisc@expedia.com","expedia.ie/.well-known/security.txt","","/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "expedia.ie","","RespDisc@expedia.com","expedia.ie/security.txt","","/.well-known/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
+"gettyimages.ie","","security@gettyimages.com","gettyimages.ie/.well-known/security.txt","","","","",""
 "gettyimages.ie","","security@gettyimages.com","gettyimages.ie/security.txt","","","","",""
 "google.ie","https://g.co/vulnz","security@google.com","google.ie/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "itma.ie","","digital-projects@itma.ie","itma.ie/security.txt","","","https://www.itma.ie/security-policy","https://www.itma.ie/pgp-key.txt",""

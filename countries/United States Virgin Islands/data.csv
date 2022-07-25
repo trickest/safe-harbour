@@ -11,6 +11,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "health.vic.gov.au","","sdp.security@dpc.vic.gov.au","health.vic.gov.au/.well-known/security.txt","","","","",""
 "legalaid.vic.gov.au","","sdp.security@dpc.vic.gov.au","legalaid.vic.gov.au/.well-known/security.txt","","","","",""
 "legislation.vic.gov.au","","sdp.security@dpc.vic.gov.au","legislation.vic.gov.au/.well-known/security.txt","","","","",""
+"participate.melbourne.vic.gov.au","","security@harvestdp.com","participate.melbourne.vic.gov.au/.well-known/security.txt","","","https://harvestdp.com/security-research-policy","https://harvestdp.com/security-research/pgp-key.txt","en"
 "participate.melbourne.vic.gov.au","","security@harvestdp.com","participate.melbourne.vic.gov.au/security.txt","","","https://harvestdp.com/security-research-policy","https://harvestdp.com/security-research/pgp-key.txt","en"
 "police.vic.gov.au","","sdp.security@dpc.vic.gov.au","police.vic.gov.au/.well-known/security.txt","","","","",""
 "premier.vic.gov.au","","sdp.security@dpc.vic.gov.au","premier.vic.gov.au/.well-known/security.txt","","","","",""

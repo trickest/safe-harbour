@@ -1,6 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "20min.ch","","security@tx.group","20min.ch/.well-known/security.txt","","","https://bugcrowd.com/twentyminuten","","de en,"
 "231805.www.marketing.trendmailer.ch","","security@cleverreach.com","231805.www.marketing.trendmailer.ch/.well-known/security.txt","","","","openpgp4fpr:A2B7E482E8CD57A4D1A8160962C0E323C740650E","en,de"
+"231805.www.marketing.trendmailer.ch","","security@cleverreach.com","231805.www.marketing.trendmailer.ch/security.txt","","","","openpgp4fpr:A2B7E482E8CD57A4D1A8160962C0E323C740650E","en,de"
 "24heures.ch","","security@tx.group","24heures.ch/.well-known/security.txt","","","https://bugcrowd.com/tamedia","","de en,"
 "27-januar.lu.ch","","informationssicherheit@lu.ch","27-januar.lu.ch/security.txt","","","","","de  en,"
 "abuse.ch","","admin@abuse.ch","abuse.ch/.well-known/security.txt","","","","https://abuse.ch/.well-known/pgp-key.txt","en,de"
@@ -63,6 +64,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "institut-prozessarbeit.ch","","security@cloudrexx.com","institut-prozessarbeit.ch/security.txt","","","","",""
 "international-relations.web.cern.ch","https://security.web.cern.ch/home/en/csirt.shtml","","international-relations.web.cern.ch/.well-known/security.txt","https://security.web.cern.ch/home/en/kudos.shtml","https://cern.ch/jobs","https://security.web.cern.ch/home/en/kudos.shtml","https://security.web.cern.ch/home/CERN-CERT_public_key.txt","de, en, fr, pl"
 "isscvs.cern.ch","https://security.web.cern.ch/home/en/csirt.shtml","","isscvs.cern.ch/.well-known/security.txt","https://security.web.cern.ch/home/en/kudos.shtml","https://cern.ch/jobs","https://security.web.cern.ch/home/en/kudos.shtml","https://security.web.cern.ch/home/CERN-CERT_public_key.txt","de, en, fr, pl"
+"johannesbader.ch","","security@bin.re","johannesbader.ch/.well-known/security.txt","","","","https://keybase.io/baderj/pgp_keys.asc?fingerprint=2cf7a0fc9bd70ed9f3a46999b9e39c09ead3914f https://www.globaltrustpoint.com/get?email=hello@johannesbader.ch","de en,"
 "kirchenbund.ch","","christoph.ackermann@cubetech.ch","kirchenbund.ch/.well-known/security.txt","","https://www.cubetech.ch/jobs","","","de en,"
 "landbote.ch","","security@tx.group","landbote.ch/.well-known/security.txt","","","https://bugcrowd.com/tamedia","","de en,"
 "lcg.web.cern.ch","https://security.web.cern.ch/home/en/csirt.shtml","","lcg.web.cern.ch/.well-known/security.txt","https://security.web.cern.ch/home/en/kudos.shtml","https://cern.ch/jobs","https://security.web.cern.ch/home/en/kudos.shtml","https://security.web.cern.ch/home/CERN-CERT_public_key.txt","de, en, fr, pl"
@@ -96,6 +98,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "puzzle.ch","","security@puzzle.ch","puzzle.ch/.well-known/security.txt","","https://www.puzzle.ch/ueber-uns/stellen","","",""
 "puzzle.ch","","security@puzzle.ch","puzzle.ch/security.txt","","https://www.puzzle.ch/ueber-uns/stellen","","",""
 "raiffeisen.ch","","security@raiffeisen.ch","raiffeisen.ch/.well-known/security.txt","","https://jobs.raiffeisen.ch/?filter_fachbereich=59402","","","de, en, fr, it"
+"raiffeisen.ch","","security@raiffeisen.ch","raiffeisen.ch/security.txt","","https://jobs.raiffeisen.ch/?filter_fachbereich=59402","","","de, en, fr, it"
 "republik.ch","https://www.republik.ch/security","security@republik.ch","republik.ch/.well-known/security.txt","","","","",""
 "reva-releases.web.cern.ch","https://security.web.cern.ch/security/rules/en/index.shtml","computer.security@cern.ch","reva-releases.web.cern.ch/.well-known/security.txt","","","","",""
 "robert.hilbri.ch","https://g.co/vulnz","security@google.com","robert.hilbri.ch/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

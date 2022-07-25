@@ -48,6 +48,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "news.li3.me","https://hackerone.com/automattic/reports/new","","news.li3.me/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "notes.michaeldempsey.me","https://hackerone.com/automattic/reports/new","","notes.michaeldempsey.me/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "on.fb.me","","security@bitly.com","on.fb.me/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"participate.melbourne.vic.gov.au","","security@harvestdp.com","participate.melbourne.vic.gov.au/.well-known/security.txt","","","https://harvestdp.com/security-research-policy","https://harvestdp.com/security-research/pgp-key.txt","en"
 "participate.melbourne.vic.gov.au","","security@harvestdp.com","participate.melbourne.vic.gov.au/security.txt","","","https://harvestdp.com/security-research-policy","https://harvestdp.com/security-research/pgp-key.txt","en"
 "paulgreg.me","","me@paulgreg.me","paulgreg.me/security.txt","","","","https://paulgreg.me/gpg-keys/paulgreg-0x1577E28BFC97FF24-public.asc","fr,en"
 "perpetualbliss.me","https://hackerone.com/automattic/reports/new","","perpetualbliss.me/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""

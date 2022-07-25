@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "ambito-juridico.jusbrasil.com.br","","security@jusbrasil.com.br","ambito-juridico.jusbrasil.com.br/.well-known/security.txt","","","","","en pt,"
+"americanas.com.br","","security@americanas.io","americanas.com.br/.well-known/security.txt","","https://carreiras.americanas.com/vagas","","http://keyserver2.pgp.com/vkd/DownloadKey.event?keyid=0xCEFD883D3267F6DC","en,pt-BR"
 "blog.brokenhelmet.co.ke","https://hackerone.com/automattic/reports/new","","blog.brokenhelmet.co.ke/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "cert.br","","security@cert.br","cert.br/.well-known/security.txt","","","","https://cert.br/pgp/CERTbr.asc","en, pt-br"
 "disciplinas.stoa.usp.br","https://moodle.org/security/report/","","disciplinas.stoa.usp.br/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
@@ -15,6 +16,9 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "printi.com.br","","printi-bugbounty@cimpress.com","printi.com.br/.well-known/security.txt","","","https://www.printi.com.br/politica-de-privacidade","","en pt-BR,"
 "printi.com.br","","printi-bugbounty@cimpress.com","printi.com.br/security.txt","","","https://www.printi.com.br/politica-de-privacidade","","en pt-BR,"
 "quintoandar.com.br","","security@quintoandar.com.br","quintoandar.com.br/.well-known/security.txt","","","","",""
+"shoptime.com.br","","security@americanas.io","shoptime.com.br/.well-known/security.txt","","https://carreiras.americanas.com/vagas","","http://keyserver2.pgp.com/vkd/DownloadKey.event?keyid=0xCEFD883D3267F6DC","en,pt-BR"
+"soubarato.com.br","","security@americanas.io","soubarato.com.br/.well-known/security.txt","","https://carreiras.americanas.com/vagas","","http://keyserver2.pgp.com/vkd/DownloadKey.event?keyid=0xCEFD883D3267F6DC","en,pt-BR"
+"submarino.com.br","","security@americanas.io","submarino.com.br/.well-known/security.txt","","https://carreiras.americanas.com/vagas","","http://keyserver2.pgp.com/vkd/DownloadKey.event?keyid=0xCEFD883D3267F6DC","en,pt-BR"
 "toyota.com.br","","george.rodrigues@prodigious.com","toyota.com.br/security.txt","","","","https://www.toyota.com.br/security/pgp-key.txt",""
 "trf-4.jusbrasil.com.br","","security@jusbrasil.com.br","trf-4.jusbrasil.com.br/.well-known/security.txt","","","","","en pt,"
 "wikiaves.com.br","","support@keenthemes.com","wikiaves.com.br/.well-known/security.txt","","","","",""

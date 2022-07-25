@@ -13,6 +13,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "corrections.govt.nz","","IT_security@corrections.govt.nz","corrections.govt.nz/.well-known/security.txt","","","","https://pgp.mit.edu/pks/lookup?op=get&search=0xFBB6D075E4CC91FB",""
 "cwp.govt.nz","","security@silverstripe.com","cwp.govt.nz/.well-known/security.txt","","","","https://www.silverstripe.com/.well-known/silverstripe-corp-pgpkey.txt",""
 "education.govt.nz","","security.reports@education.govt.nz","education.govt.nz/security.txt","","","https://www.education.govt.nz/our-work/contact-us/responsible-disclosure-standards/","","en"
+"educators.co.nz","","info@techday.com","educators.co.nz/.well-known/security.txt","","","","","en"
 "educators.co.nz","","info@techday.com","educators.co.nz/security.txt","","","","","en"
 "environment.govt.nz","https://environment.govt.nz/about-us/contact-us/","webmaster@mfe.govt.nz","environment.govt.nz/.well-known/security.txt","","","","","en"
 "fishpond.co.nz","https://openbugbounty.org/bugbounty/KelvinLomberg/","","fishpond.co.nz/.well-known/security.txt","","","","",""

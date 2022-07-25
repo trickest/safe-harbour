@@ -7,6 +7,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "canon.ee","","Product-Security@canon-europe.com","canon.ee/.well-known/security.txt","","","https://www.canon-europe.com/support/vulnerability-disclosure-policy/","","en"
 "dagelijksekost.een.be","","infosec@vrt.be","dagelijksekost.een.be/.well-known/security.txt","","","https://www.vrt.be/en/responsible-disclosure-policy-english-version/","https://www.vrt.be/.well-known/infosec_at_vrt.be_pgp_pubkey.txt",""
 "data.zone.ee","ee ee, security taavi zone","","data.zone.ee/.well-known/security.txt","","","","AE77 AF45 B771 Directory GPG Key Web or 4BAA 4BDC 7B52 348B 519E 2403 6047","ee en,"
+"dpd.ee","/.well-known/security.txt HTTP/1.1  https://www.trusted-introducer.org/directory/teams/cert-la-poste.html https://www.trusted-introducer.org/directory/teams/cert-la-poste.htmlGET","","dpd.ee/security.txt","","","","",""
 "dpd.ee","/security.txt HTTP/1.1  https://www.trusted-introducer.org/directory/teams/cert-la-poste.html https://www.trusted-introducer.org/directory/teams/cert-la-poste.htmlGET","","dpd.ee/.well-known/security.txt","","","","",""
 "elektrilevi.ee","","infoturve@elektrilevi.ee","elektrilevi.ee/security.txt","","","","","en, et"
 "google.ee","https://g.co/vulnz","security@google.com","google.ee/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

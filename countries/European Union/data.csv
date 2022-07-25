@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "50years.intereconomics.eu","","support.zbw@feldwaldwiese.de","50years.intereconomics.eu/.well-known/security.txt","","","","",""
+"adamj.eu","https://twitter.com/adamchainz","me@adamj.eu","adamj.eu/.well-known/security.txt","https://docs.djangoproject.com/en/dev/internals/security/","","","https://keybase.io/adamchainz","en"
 "adamj.eu","https://twitter.com/adamchainz","me@adamj.eu","adamj.eu/security.txt","https://docs.djangoproject.com/en/dev/internals/security/","","","https://keybase.io/adamchainz","en"
 "altesses.eu","","webmaster@altesses.eu","altesses.eu/.well-known/security.txt","","","","https://www.altesses.eu/.well-known/openpgpkey/hu/kd39y8fkyw5j8uubuicshffo9hhodk4j","fr,en"
 "amp.eitb.eus","","teknologia_soporte@eitb.eus","amp.eitb.eus/security.txt","https://www.eitb.eus/hall-of-fame.html","https://www.eitb.eus/eu/eitb-taldea/lan-poltsa/","","https://www.eitb.eus/pgp-tek.txt",""

@@ -7,6 +7,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "blog.sanctum.geek.nz","","tom@sanctum.geek.nz","blog.sanctum.geek.nz/security.txt","","","","https://sanctum.geek.nz/keys/pgp/tom@sanctum.geek.nz.asc","en"
 "bride.sa","","security@salla.sa","bride.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"
 "charmel.com.sa","","security@salla.sa","charmel.com.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"
+"el-seif.com.sa","","support@keenthemes.com","el-seif.com.sa/security.txt","","","","",""
 "environment.sa.gov.au","","user@example.com","environment.sa.gov.au/security.txt","","","https://www.environment.sa.gov.au/security-policy","https://www.environment.sa.gov.au/pgp-key.txt",""
 "erfaa.com.sa","","security@salla.sa","erfaa.com.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"
 "ezclick.sa","","security@salla.sa","ezclick.sa/.well-known/security.txt","","","https://salla.sa/site/bug-bounty-policy/","","en,ar"

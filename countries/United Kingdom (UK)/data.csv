@@ -101,6 +101,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "nominet.org.uk","https://hackerone.com/nominet","","nominet.org.uk/.well-known/security.txt","","","https://hackerone.com/nominet","","en"
 "nominet.uk","https://hackerone.com/nominet","","nominet.uk/.well-known/security.txt","","","https://hackerone.com/nominet","","en"
 "nottinghamcity.gov.uk","","itsecurirty.team@nottinghamcity.gov.uk","nottinghamcity.gov.uk/.well-known/security.txt","","","https://www.nottinghamcity.gov.uk/VulnerabilityDisclosurePolicy","",""
+"ogauthority.co.uk","","CyberSecurity@nstauthority.co.uk","ogauthority.co.uk/.well-known/security.txt","","","/security.txt HTTP/1.1  https://www.ncsc.gov.uk/vulnerability-reporting https://www.ncsc.gov.uk/vulnerability-reportingGET","",""
 "ogauthority.co.uk","","CyberSecurity@nstauthority.co.uk","ogauthority.co.uk/security.txt","","","/.well-known/security.txt HTTP/1.1  https://www.ncsc.gov.uk/vulnerability-reporting https://www.ncsc.gov.uk/vulnerability-reportingGET","",""
 "ons.gov.uk","https://hackerone.com/52fa7bc0-5356-4c86-9f79-eeb03e1d55cc/embedded_submissions/new","","ons.gov.uk/.well-known/security.txt","","","https://www.ons.gov.uk/help/vulnerabilitydisclosurepolicy","",""
 "openuk.uk","https://www.civicuk.com/contact","","openuk.uk/.well-known/security.txt","","","","",""

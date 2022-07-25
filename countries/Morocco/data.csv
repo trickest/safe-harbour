@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "231805.www.marketing.trendmailer.ch","","security@cleverreach.com","231805.www.marketing.trendmailer.ch/.well-known/security.txt","","","","openpgp4fpr:A2B7E482E8CD57A4D1A8160962C0E323C740650E","en,de"
+"231805.www.marketing.trendmailer.ch","","security@cleverreach.com","231805.www.marketing.trendmailer.ch/security.txt","","","","openpgp4fpr:A2B7E482E8CD57A4D1A8160962C0E323C740650E","en,de"
 "abe.ma","","security@bitly.com","abe.ma/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "admp.mairie-albi.fr","","dsi-securite@mairie-albi.fr","admp.mairie-albi.fr/.well-known/security.txt","","","","","fr,en"
 "admp.mairie-albi.fr","","dsi-securite@mairie-albi.fr","admp.mairie-albi.fr/security.txt","","","","","fr,en"

@@ -5,6 +5,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "elearn.pwcacademy.com.mt","https://moodle.org/security/report/","","elearn.pwcacademy.com.mt/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "mock.pw","","info@doxanh.dev","mock.pw/.well-known/security.txt","","","","",""
 "mock.pw","","info@doxanh.dev","mock.pw/security.txt","","","","",""
+"respawn.pw","https://t.me/TimeBronx","vremonte64@yandex.ru","respawn.pw/.well-known/security.txt","","","https://respawn.pw/privacy/ https://respawn.pw/privacy/","","en, ru"
 "respawn.pw","https://t.me/TimeBronx","vremonte64@yandex.ru","respawn.pw/security.txt","","","/.well-known/security.txt HTTP/1.1  https://respawn.pw/privacy/  https://respawn.pw/privacy/GET","","en, ru"
 "respawn.pw","https://t.me/TimeBronx","vremonte64@yandex.ru","respawn.pw/security.txt","","","https://respawn.pw/privacy/","","en, ru"
 "u.pw","","security@bitly.com","u.pw/security.txt","","","","https://bitly.com/security_pgp.txt",""

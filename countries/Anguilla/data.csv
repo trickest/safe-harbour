@@ -4,6 +4,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "app.kontent.ai","","security@kentico.com","app.kontent.ai/.well-known/security.txt","","","","https://app.kontent.ai/pgp-key.txt",""
 "argo.ai","","ext-cyber@argo.ai","argo.ai/.well-known/security.txt","","https://www.argo.ai/join-us/","","","en"
 "autonomic.ai","","security@autonomic.com","autonomic.ai/.well-known/security.txt","","","","",""
+"awake.ai","","security@awake.ai","awake.ai/.well-known/security.txt","","","","","en, fi"
 "awake.ai","","security@awake.ai","awake.ai/security.txt","","","","","en, fi"
 "bfore.ai","","security@bfore.ai","bfore.ai/.well-known/security.txt","","https://bforeai.factorialhr.com/","","","en, es, fr"
 "blog.recast.ai","https://www.sap.com/report-a-vulnerability","","blog.recast.ai/.well-known/security.txt","","","","",""

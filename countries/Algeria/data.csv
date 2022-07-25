@@ -1,2 +1,3 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"cuillizi.dz","https://moodle.org/security/report/","","cuillizi.dz/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "google.dz","https://g.co/vulnz","security@google.com","google.dz/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

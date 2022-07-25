@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"5ko.free.fr","http://5ko.free.fr/contact","","5ko.free.fr/.well-known/security.txt","","","","","bg en, fr,"
 "5ko.free.fr","http://5ko.free.fr/contact","","5ko.free.fr/security.txt","","","","","bg en, fr,"
 "6play.fr","","website-security@m6web.fr","6play.fr/.well-known/security.txt","","","","",""
 "6play.fr","","website-security@m6web.fr","6play.fr/security.txt","","","","",""
@@ -27,6 +28,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "gettyimages.fr","","security@gettyimages.com","gettyimages.fr/.well-known/security.txt","","","","",""
 "gettyimages.fr","","security@gettyimages.com","gettyimages.fr/security.txt","","","","",""
 "google.fr","https://g.co/vulnz","security@google.com","google.fr/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"initiative-commune-connectee.fr","https://moodle.org/security/report/","","initiative-commune-connectee.fr/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "justegeek.fr","","security@dolibarr.org","justegeek.fr/security.txt","","","https://github.com/Dolibarr/dolibarr/security/policy","","en"
 "labanquepostale.fr","/.well-known/security.txt HTTP/1.1  https://www.trusted-introducer.org/directory/teams/cert-la-poste.html https://www.trusted-introducer.org/directory/teams/cert-la-poste.htmlGET","","labanquepostale.fr/.well-known/security.txt","","","","",""
 "ladressemuseedelaposte.fr","/.well-known/security.txt HTTP/1.1  https://www.trusted-introducer.org/directory/teams/cert-la-poste.html https://www.trusted-introducer.org/directory/teams/cert-la-poste.htmlGET","","ladressemuseedelaposte.fr/.well-known/security.txt","","","","",""
@@ -57,6 +59,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "sia.aviation-civile.gouv.fr","(0)5 https://www.sia.aviation-civile.gouv.fr/contact tel:+33 55 57 92","","sia.aviation-civile.gouv.fr/.well-known/security.txt","","","https://magento.com/security","",""
 "side.developpement-durable.gouv.fr","","rgpd@archimed.fr","side.developpement-durable.gouv.fr/.well-known/security.txt","","","","","/.well-known/security.txt HTTP/1.1  en enGET fr,"
 "sport24.lefigaro.fr","","security-nm@lefigaro.fr","sport24.lefigaro.fr/.well-known/security.txt","","","","","/.well-known/security.txt /security.txt HTTP/1.1  en enGET fr,"
+"sport24.lefigaro.fr","","security-nm@lefigaro.fr","sport24.lefigaro.fr/security.txt","","","","","/.well-known/security.txt /security.txt HTTP/1.1  en enGET fr,"
 "spreadshirt.fr","","security@spreadgroup.com","spreadshirt.fr/.well-known/security.txt","","","","/.well-known/security.txt /security.txt HTTP/1.1  https://assets.spreadshirt.net/security/publickey.asc https://assets.spreadshirt.net/security/publickey.ascGET",""
 "spreadshirt.fr","","security@spreadgroup.com","spreadshirt.fr/security.txt","","","","/.well-known/security.txt /security.txt HTTP/1.1  https://assets.spreadshirt.net/security/publickey.asc https://assets.spreadshirt.net/security/publickey.ascGET",""
 "ssi.gouv.fr","","cert-fr.cossi@ssi.gouv.fr","ssi.gouv.fr/.well-known/security.txt","","https://talents.ssi.gouv.fr/","https://www.ssi.gouv.fr/en-cas-dincident/vous-souhaitez-declarer-une-faille-de-securite-ou-une-vulnerabilite/","https://www.cert.ssi.gouv.fr/uploads/public_key.asc","fr"
