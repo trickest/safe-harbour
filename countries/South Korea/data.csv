@@ -4,6 +4,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "expedia.co.kr","","RespDisc@expedia.com","expedia.co.kr/.well-known/security.txt","","/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "expedia.co.kr","","RespDisc@expedia.com","expedia.co.kr/security.txt","","/.well-known/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "flashscore.co.kr","","security-txt-chmmfs@livesport.eu","flashscore.co.kr/security.txt","","","","","en"
+"flashscore.co.kr","","security-txt-sdflja@livesport.eu","flashscore.co.kr/security.txt","","","","","en"
 "flic.kr","https://hackerone.com/flickr","","flic.kr/.well-known/security.txt","","","","",""
 "flic.kr","https://hackerone.com/flickr","","flic.kr/security.txt","","","","",""
 "gaw.kr","","security@bitly.com","gaw.kr/security.txt","","","","https://bitly.com/security_pgp.txt",""

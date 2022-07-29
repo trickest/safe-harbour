@@ -41,5 +41,6 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "wien.at","+43-1-4000-71112  https://digitales.wien.gv.at/en/wiencert/","cert@wien.gv.at","wien.at/security.txt","","","","https://wiencert.at/asc/pgpkeys.asc",""
 "wien.gv.at","+43-1-4000-71112  https://digitales.wien.gv.at/en/wiencert/","cert@wien.gv.at","wien.gv.at/.well-known/security.txt","","","","https://wiencert.at/asc/pgpkeys.asc",""
 "wien.gv.at","+43-1-4000-71112  https://digitales.wien.gv.at/en/wiencert/","cert@wien.gv.at","wien.gv.at/security.txt","","","","https://wiencert.at/asc/pgpkeys.asc",""
+"wien52.at","https://wien52.at/kontakt","wien52.at@gmail.com","wien52.at/.well-known/security.txt","","","","https://wien52.at/pgp_pub.asc","de, en"
 "willhaben.at","","security@willhaben.at","willhaben.at/.well-known/security.txt","","https://jobsbei.willhaben.at","","","de en,"
 "yoovis.at","","","yoovis.at/security.txt","","","","",""

@@ -38,6 +38,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "inscribe.ai","","security@inscribe.ai","inscribe.ai/.well-known/security.txt","","","https://inscribe.ai/disclosures","https://assets.website-files.com/5ea61a1bf0e208bb1c5737ac/60a68534a182f6729910480f_inscribe-public-pgp-key.asc.txt","en"
 "kb.copysmith.ai","https://bugcrowd.com/intercom","security@intercom.com","kb.copysmith.ai/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
 "kontent.ai","","security@kentico.com","kontent.ai/.well-known/security.txt","","","","https://app.kontent.ai/pgp-key.txt",""
+"kontent.ai","","security@kontent.ai","kontent.ai/.well-known/security.txt","","","","https://app.kontent.ai/pgp-key.txt",""
 "krisp.ai","https://hackerone.com/krisp","","krisp.ai/.well-known/security.txt","","","https://krisp.ai/security/","","en"
 "learn.shuffl.ai","https://bugcrowd.com/intercom","security@intercom.com","learn.shuffl.ai/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
 "mighty.ai","https://aurora.tech/security","security@aurora.tech","mighty.ai/.well-known/security.txt","","","https://aurora.tech/security","https://aurora.tech/security","en"

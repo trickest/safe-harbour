@@ -7,6 +7,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "e-edu.nbu.bg","https://moodle.org/security/report/","","e-edu.nbu.bg/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "elearn.uni-sofia.bg","https://moodle.org/security/report/","","elearn.uni-sofia.bg/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "flashscore.bg","","security-txt-chmmfs@livesport.eu","flashscore.bg/security.txt","","","","","en"
+"flashscore.bg","","security-txt-sdflja@livesport.eu","flashscore.bg/security.txt","","","","","en"
 "gemius.bg","","security@gemius.com","gemius.bg/security.txt","","","","",""
 "google.bg","https://g.co/vulnz","security@google.com","google.bg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.bg","https://g.co/vulnz","security@google.com","m.youtube.bg/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

@@ -24,6 +24,8 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "equipecycliste-groupama-fdj.fr","https://app.yogosha.com/cvd/fdj-cvd/1HW09Ufy47ITniCvMVxDbr","","equipecycliste-groupama-fdj.fr/.well-known/security.txt","","","https://app.yogosha.com/cvd/fdj-cvd/1HW09Ufy47ITniCvMVxDbr","https://app.yogosha.com/cvd/fdj-cvd/1HW09Ufy47ITniCvMVxDbr","en fr,"
 "etsi.fr","","ETSI_CVD@etsi.org","etsi.fr/.well-known/security.txt","https://www.etsi.org/standards/coordinated-vulnerability-disclosure#mytoc4","","https://www.etsi.org/standards/coordinated-vulnerability-disclosure","",""
 "federation.ffvl.fr","","informatique@ffvl.fr","federation.ffvl.fr/security.txt","","","","","en fr,"
+"free.fr","https://subscribe.free.fr/abuse/","tech-security@corp.free.fr","free.fr/.well-known/security.txt","","","","openpgp4fpr:47B6C5AF0D49652F198B8E69986A36877FE60BE3","en  fr,"
+"freebox.fr","https://subscribe.free.fr/abuse/","tech-security@corp.free.fr","freebox.fr/.well-known/security.txt","","","","openpgp4fpr:47B6C5AF0D49652F198B8E69986A36877FE60BE3","en  fr,"
 "funradio.fr","","website-security@odiso.com","funradio.fr/.well-known/security.txt","","","","",""
 "gettyimages.fr","","security@gettyimages.com","gettyimages.fr/.well-known/security.txt","","","","",""
 "gettyimages.fr","","security@gettyimages.com","gettyimages.fr/security.txt","","","","",""

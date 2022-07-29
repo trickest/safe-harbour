@@ -24,6 +24,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "corsi.bertuzziraffaella.it","https://moodle.org/security/report/","","corsi.bertuzziraffaella.it/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "developers.italia.it","","contatti@developers.italia.it","developers.italia.it/.well-known/security.txt","","","","","en, es it,"
 "diretta.it","","security-txt-chmmfs@livesport.eu","diretta.it/security.txt","","","","","en"
+"diretta.it","","security-txt-sdflja@livesport.eu","diretta.it/security.txt","","","","","en"
 "enav.it","","cert@enav.it","enav.it/.well-known/security.txt","","","","/security.txt HTTP/1.1  https://cdn-web.enav.it/content/2021-05/CERT-ENAV.txt https://cdn-web.enav.it/content/2021-05/CERT-ENAV.txtGET",""
 "enav.it","","cert@enav.it","enav.it/security.txt","","","","/.well-known/security.txt HTTP/1.1  https://cdn-web.enav.it/content/2021-05/CERT-ENAV.txt https://cdn-web.enav.it/content/2021-05/CERT-ENAV.txtGET",""
 "fanpage.it","","diego@ciaopeople.com","fanpage.it/security.txt","","","","",""

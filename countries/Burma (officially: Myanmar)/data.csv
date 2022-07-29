@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.com.mm","https://g.co/vulnz","security@google.com","google.com.mm/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "mptpay.com.mm","","support@keenthemes.com","mptpay.com.mm/.well-known/security.txt","","","","",""
+"mptpay.com.mm","","support@keenthemes.com","mptpay.com.mm/security.txt","","","","",""
 "omnia.mmg.fi","https://moodle.org/security/report/","","omnia.mmg.fi/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "www2.mmu.ac.uk","","infosecurity@mmu.ac.uk","www2.mmu.ac.uk/security.txt","","","","",""

@@ -8,6 +8,8 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "expedia.mx","","RespDisc@expedia.com","expedia.mx/.well-known/security.txt","","/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "expedia.mx","","RespDisc@expedia.com","expedia.mx/security.txt","","/.well-known/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "flashscore.com.mx","","security-txt-chmmfs@livesport.eu","flashscore.com.mx/security.txt","","","","","en"
+"flashscore.com.mx","","security-txt-sdflja@livesport.eu","flashscore.com.mx/security.txt","","","","","en"
+"gettyimages.com.mx","","security@gettyimages.com","gettyimages.com.mx/.well-known/security.txt","","","","",""
 "gettyimages.com.mx","","security@gettyimages.com","gettyimages.com.mx/security.txt","","","","",""
 "google.com.mx","https://g.co/vulnz","security@google.com","google.com.mx/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.mx","https://g.co/vulnz","security@google.com","google.mx/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

@@ -65,6 +65,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "falun.se","","soc@sitevision.se","falun.se/.well-known/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"
 "falun.se","","soc@sitevision.se","falun.se/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"
 "flashscore.se","","security-txt-chmmfs@livesport.eu","flashscore.se/security.txt","","","","","en"
+"flashscore.se","","security-txt-sdflja@livesport.eu","flashscore.se/security.txt","","","","","en"
 "forskning.se","","denis.zyk@visma.com","forskning.se/security.txt","","","","",""
 "gd.se","","security@bonniernews.se","gd.se/.well-known/security.txt","","","","","en sv,"
 "gettyimages.se","","security@gettyimages.com","gettyimages.se/.well-known/security.txt","","","","",""

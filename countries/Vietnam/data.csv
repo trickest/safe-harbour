@@ -4,6 +4,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "expedia.com.vn","","RespDisc@expedia.com","expedia.com.vn/.well-known/security.txt","","/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "expedia.com.vn","","RespDisc@expedia.com","expedia.com.vn/security.txt","","/.well-known/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "flashscore.vn","","security-txt-chmmfs@livesport.eu","flashscore.vn/security.txt","","","","","en"
+"flashscore.vn","","security-txt-sdflja@livesport.eu","flashscore.vn/security.txt","","","","","en"
 "google.com.vn","https://g.co/vulnz","security@google.com","google.com.vn/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "hostinger.vn","https://hackerone.com/5093805e-4e52-474b-ba7f-5c04a7ba10e7/embedded_submissions/new<br>","security@hostinger.com<br>","hostinger.vn/.well-known/security.txt","","","https://www.hostinger.com/responsible-disclosure-policy","",""
 "yahoo.com.vn","https://hackerone.com/yahoo","security@yahooinc.com","yahoo.com.vn/.well-known/security.txt","","https://www.yahooinc.com/careers/search.html?q=paranoids","https://hackerone.com/yahoo?view_policy=true","",""

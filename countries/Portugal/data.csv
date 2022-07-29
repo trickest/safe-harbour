@@ -12,6 +12,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "elearning.instituto-camoes.pt","https://moodle.org/security/report/","","elearning.instituto-camoes.pt/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "engenharia.com.pt","https://hackerone.com/automattic/reports/new","","engenharia.com.pt/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "flashscore.pt","","security-txt-chmmfs@livesport.eu","flashscore.pt/security.txt","","","","","en"
+"flashscore.pt","","security-txt-sdflja@livesport.eu","flashscore.pt/security.txt","","","","","en"
 "foxs.pt","","security@bitly.com","foxs.pt/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "gettyimages.pt","","security@gettyimages.com","gettyimages.pt/.well-known/security.txt","","","","",""
 "gettyimages.pt","","security@gettyimages.com","gettyimages.pt/security.txt","","","","",""

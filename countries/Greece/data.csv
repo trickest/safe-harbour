@@ -4,6 +4,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "elearn.ellak.gr","https://moodle.org/security/report/","","elearn.ellak.gr/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "fbrk.gr","https://hackerone.com/automattic/reports/new","","fbrk.gr/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "flashscore.gr","","security-txt-chmmfs@livesport.eu","flashscore.gr/security.txt","","","","","en"
+"flashscore.gr","","security-txt-sdflja@livesport.eu","flashscore.gr/security.txt","","","","","en"
 "glami.gr","https://openbugbounty.org/bugbounty/GlamiBackstage/","devel@glami.cz","glami.gr/security.txt","","","","","cs, en"
 "go.greenbox.tw","","security@bitly.com","go.greenbox.tw/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "gocar.gr","","","gocar.gr/security.txt","","","","",""
