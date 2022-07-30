@@ -71,6 +71,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "gettyimages.se","","security@gettyimages.com","gettyimages.se/.well-known/security.txt","","","","",""
 "gettyimages.se","","security@gettyimages.com","gettyimages.se/security.txt","","","","",""
 "ghp.se","","soc@sitevision.se","ghp.se/.well-known/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"
+"ghp.se","","soc@sitevision.se","ghp.se/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"
 "google.se","https://g.co/vulnz","security@google.com","google.se/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "goteborg.se","","it-sak-soc@intraservice.goteborg.se","goteborg.se/security.txt","","","","","en sv,"
 "habo.se","","soc@sitevision.se","habo.se/.well-known/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"

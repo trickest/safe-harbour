@@ -24,6 +24,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "eva.fing.edu.uy","https://moodle.org/security/report/","","eva.fing.edu.uy/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "expedia.fi","","RespDisc@expedia.com","expedia.fi/.well-known/security.txt","","/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "expedia.fi","","RespDisc@expedia.com","expedia.fi/security.txt","","/.well-known/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
+"fit.fi","","hostmaster@managed.fi","fit.fi/.well-known/security.txt","","","","",""
 "fit.fi","","hostmaster@managed.fi","fit.fi/security.txt","","","","",""
 "forum.finexpert.e15.cz","https://www.cncenter.cz/kontakt  https://www.facebook.com/CzechNewsCenter/","info@cncenter.cz","forum.finexpert.e15.cz/.well-known/security.txt","","https://www.cncenter.cz/kariera","","","cs, en, sk"
 "forum.finexpert.e15.cz","https://www.cncenter.cz/kontakt  https://www.facebook.com/CzechNewsCenter/","info@cncenter.cz","forum.finexpert.e15.cz/security.txt","","https://www.cncenter.cz/kariera","","","cs, en, sk"

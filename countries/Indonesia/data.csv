@@ -17,6 +17,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "lipi.go.id","","support@keenthemes.com","lipi.go.id/.well-known/security.txt","","","","",""
 "lipi.go.id","","support@keenthemes.com","lipi.go.id/security.txt","","","","",""
 "novorocnibowling.rajce.idnes.cz","","security@rajce.net","novorocnibowling.rajce.idnes.cz/.well-known/security.txt","","","","",""
+"nyatakan.id","","security@algostudio.net","nyatakan.id/.well-known/security.txt","","","","https://keyserver.ubuntu.com/pks/lookup?search=4e6be319c7f88f89&fingerprint=on&op=index","en, id"
 "nyatakan.id","","security@algostudio.net","nyatakan.id/security.txt","","","","https://keyserver.ubuntu.com/pks/lookup?search=4e6be319c7f88f89&fingerprint=on&op=index","en, id"
 "osvinohrad.rajce.idnes.cz","","security@rajce.net","osvinohrad.rajce.idnes.cz/.well-known/security.txt","","","","",""
 "rajce.idnes.cz","","security@rajce.net","rajce.idnes.cz/.well-known/security.txt","","","","",""

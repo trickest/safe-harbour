@@ -5,6 +5,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "aircall.io","","aircall-esf@submit.bugcrowd.com security@aircall.io","aircall.io/.well-known/security.txt","","https://aircall.io/careers/","","",""
 "aiven.io","https://hackerone.com/aiven_ltd","","aiven.io/.well-known/security.txt","https://hackerone.com/aiven_ltd/thanks","https://aiven.io/careers","https://hackerone.com/aiven_ltd?view_policy=true","","en"
 "blackfire.io","","security@platform.sh","blackfire.io/.well-known/security.txt","","https://platform.sh/company/careers/","https://platform.sh/tos/#section-10-disclosures-and-notices","https://platform.sh/pgp-key.txt","en"
+"bundler.io","https://hackerone.com/rubygems","","bundler.io/.well-known/security.txt","","","","","en"
 "captainfact.io","","security@captainfact.io","captainfact.io/.well-known/security.txt","","https://captainfact.io/help/jobs","https://captainfact.io/help/bug_report","https://captainfact.io/.well-known/pgp-key.txt",""
 "clarvalon.bitbucket.io","https://www.atlassian.com/trust/security/report-a-vulnerability","security@atlassian.com","clarvalon.bitbucket.io/.well-known/security.txt","","https://www.atlassian.com/company/careers/all-jobs?team=Security","https://www.atlassian.com/trust/security/report-a-vulnerability","https://security-static.prod.atl-paas.net/atlassian-security-public.asc","en"
 "cnfl.io","","security@bitly.com","cnfl.io/security.txt","","","","https://bitly.com/security_pgp.txt",""

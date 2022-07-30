@@ -1,6 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "al.st","","security@bitly.com","al.st/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "api.stream.cz","","csirt@firma.seznam.cz","api.stream.cz/.well-known/security.txt","","","","https://keys.openpgp.org/vks/v1/by-fingerprint/FDB7C0776C9D86E7B30008739C2D1A03A9CCD7EB","cs, en, sk"
+"api.stream.cz","","csirt@firma.seznam.cz","api.stream.cz/security.txt","","","","https://keys.openpgp.org/vks/v1/by-fingerprint/FDB7C0776C9D86E7B30008739C2D1A03A9CCD7EB","cs, en, sk"
 "ava.st","","security@bitly.com","ava.st/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "bizboo.st","","security@bitly.com","bizboo.st/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "blog.st.nu","","security@bonniernews.se","blog.st.nu/.well-known/security.txt","","","","","en sv,"

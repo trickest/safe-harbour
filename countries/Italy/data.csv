@@ -32,6 +32,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "firenzetoday.it","tel:+39.39.11.11.11.11","k@k.tt","firenzetoday.it/security.txt","","","","","en, it, pl"
 "forlitoday.it","tel:+39.39.11.11.11.11","k@k.tt","forlitoday.it/security.txt","","","","","en, it, pl"
 "genovatoday.it","tel:+39.39.11.11.11.11","k@k.tt","genovatoday.it/security.txt","","","","","en, it, pl"
+"genovatoday.it","tel:+39.39.11.11.11.11","k@k.tt","genovatoday.it/security.txt","","","","","en, it, pl"
 "gettyimages.it","","security@gettyimages.com","gettyimages.it/.well-known/security.txt","","","","",""
 "gettyimages.it","","security@gettyimages.com","gettyimages.it/security.txt","","","","",""
 "google.it","https://g.co/vulnz","security@google.com","google.it/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

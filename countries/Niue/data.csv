@@ -36,4 +36,5 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "viss.nu","","soc@sitevision.se","viss.nu/.well-known/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"
 "viss.nu","","soc@sitevision.se","viss.nu/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"
 "vst.nu","","soc@sitevision.se","vst.nu/.well-known/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"
+"vst.nu","","soc@sitevision.se","vst.nu/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"
 "yom.nu","","security@bitly.com","yom.nu/security.txt","","","","https://bitly.com/security_pgp.txt",""
