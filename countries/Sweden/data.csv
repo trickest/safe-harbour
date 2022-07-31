@@ -96,6 +96,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "irf.se","","abuse@irf.se mats.luspa@irf.se robert.labudda@irf.se","irf.se/.well-known/security.txt","","","","https://www.irf.se/pgp/mats.luspa https://www.irf.se/pgp/robert.labudda https://www.irf.se/pgp/team/datagruppen","de en, sv,"
 "ism.lu.se","https://www.ldc.lu.se/tjanster/it-sakerhet tel:+46-46-2229000","abuse@lu.se security@lu.se","ism.lu.se/.well-known/security.txt","","","","",""
 "isof.se","","soc@sitevision.se webb@isof.se","isof.se/.well-known/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv, sv,en"
+"isof.se","","soc@sitevision.se webb@isof.se","isof.se/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv, sv,en"
 "janusinfo.se","","soc@sitevision.se","janusinfo.se/.well-known/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"
 "janusinfo.se","","soc@sitevision.se","janusinfo.se/security.txt","","","","https://www.sitevision.se/security-soc-pgp","en sv,"
 "jesperberg.se","https://hackerone.com/automattic/reports/new","","jesperberg.se/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""

@@ -118,6 +118,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "publicwhip.org.uk","","team@publicwhip.org.uk","publicwhip.org.uk/security.txt","","","","",""
 "reading.gov.uk","https://www.bigbluedoor.net/contact","security@bigbluedoor.net","reading.gov.uk/.well-known/security.txt","","","https://github.com/ukncsc/Vulnerability-Disclosure/blob/master/UK-Government-Vulnerability-Disclosure-Policy.md","",""
 "redcross.org.uk","","digitalsupport@redcross.org.uk  kmcguire@redcross.org.uk","redcross.org.uk/.well-known/security.txt","","","","","en"
+"redcross.org.uk","","digitalsupport@redcross.org.uk  kmcguire@redcross.org.uk","redcross.org.uk/security.txt","","","","","en"
 "regdeveloper.co.uk","","security@theregister.com","regdeveloper.co.uk/security.txt","","","","","en"
 "rewildingbritain.org.uk","","dev@madebykind.com","rewildingbritain.org.uk/security.txt","","","https://www.rewildingbritain.org.uk/security-policy","https://www.rewildingbritain.org.uk/pgp-key.txt",""
 "rgu.ac.uk","https://www3.rgu.ac.uk/staff-and-current-students/it-helpdesk/contact-it-services","","rgu.ac.uk/.well-known/security.txt","","","","",""

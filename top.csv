@@ -1620,6 +1620,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "trademe.co.nz","","sitesecurity@trademe.co.nz","trademe.co.nz/.well-known/security.txt","","","","http://keys.gnupg.net/pks/lookup?op=get&search=0xB27A5B8A08751AC7",""
 "tradingview.com","","security@tradingview.com","tradingview.com/.well-known/security.txt","","","https://www.tradingview.com/bounty/","","en, ru"
 "transferwise.com","https://wise.com/responsible-disclosure","soc@wise.com","transferwise.com/.well-known/security.txt","https://bugcrowd.com/wise/hall-of-fame","https://wise.jobs/","https://bugcrowd.com/wise","openpgp4fpr:B4BFF5A9C399F5CBF0B74480130CED2469116CC5","en, et"
+"transferwise.com","https://wise.com/responsible-disclosure","soc@wise.com","transferwise.com/security.txt","https://bugcrowd.com/wise/hall-of-fame","https://wise.jobs/","https://bugcrowd.com/wise","openpgp4fpr:B4BFF5A9C399F5CBF0B74480130CED2469116CC5","en, et"
 "translate.wordpress.org","https://hackerone.com/wordpress","","translate.wordpress.org/.well-known/security.txt","https://hackerone.com/wordpress/thanks","","https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/","",""
 "translate.wordpress.org","https://hackerone.com/wordpress","","translate.wordpress.org/security.txt","https://hackerone.com/wordpress/thanks","","https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/","",""
 "travelandleisure.com","","security@dotdash.com","travelandleisure.com/.well-known/security.txt","","","","","en"
