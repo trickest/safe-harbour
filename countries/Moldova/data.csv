@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"archive.md","","security@archive.is","archive.md/security.txt","","","","",""
 "bsun.md","","security@bitly.com","bsun.md/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "changelog.md","","yoginth@hey.com","changelog.md/security.txt","","","https://changelog.md'/privacy","","en"
 "gburg.md","","security@bitly.com","gburg.md/security.txt","","","","https://bitly.com/security_pgp.txt",""

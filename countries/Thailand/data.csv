@@ -9,6 +9,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "e-learning.kku.ac.th","https://moodle.org/security/report/","","e-learning.kku.ac.th/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "en.thaipbs.or.th","","it-security@thaipbs.or.th","en.thaipbs.or.th/.well-known/security.txt","","","","",""
 "eucerin.co.th","https://soc.beiersdorf.com","security@beiersdorf.com","eucerin.co.th/.well-known/security.txt","","","https://soc.beiersdorf.com/disclosurepolicy.html","https://soc.beiersdorf.com/PGPKeys/disclosure-pgp.asc","en,de"
+"eucerin.co.th","https://soc.beiersdorf.com","security@beiersdorf.com","eucerin.co.th/.well-known/security.txt","","","https://soc.beiersdorf.com/disclosurepolicy.html","https://soc.beiersdorf.com/PGPKeys/disclosure-pgp.asc","en,de"
 "expedia.co.th","","RespDisc@expedia.com","expedia.co.th/.well-known/security.txt","","/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "expedia.co.th","","RespDisc@expedia.com","expedia.co.th/security.txt","","/.well-known/security.txt HTTP/1.1  https://lifeatexpedia.com/ https://lifeatexpedia.com/GET","https://www.expediagroup.com/about/privacy-data-handling-requirements/","",""
 "google.co.th","https://g.co/vulnz","security@google.com","google.co.th/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

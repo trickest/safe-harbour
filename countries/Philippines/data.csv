@@ -1,5 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "adp.ph","","﻿vulnerabilityreporting@ADP.com","adp.ph/.well-known/security.txt","","https://jobs.adp.com/","https://www.adp.com/about-adp/data-security.aspx","","en"
+"archive.ph","","security@archive.is","archive.ph/security.txt","","","","",""
 "astro.phys.au.dk","https://twitter.com/aarhusunicyber","security@au.dk","astro.phys.au.dk/.well-known/security.txt","","","","",""
 "at.olx.ph","","security@bitly.com","at.olx.ph/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "blog.sci.ph","https://hackerone.com/automattic/reports/new","","blog.sci.ph/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""

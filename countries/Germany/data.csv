@@ -4,6 +4,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "alditalk-kundenbetreuung.de","https://www.telefonica.de/responsible-disclosure.html","","alditalk-kundenbetreuung.de/.well-known/security.txt","https://bugcrowd.com/telefonicavdp","","https://bugcrowd.com/telefonicavdp","","de en,"
 "allianz.de","","security@allianz.de","allianz.de/security.txt","","https://careers.allianz.com/","","",""
 "arbeitsagentur.de","","cert@arbeitsagentur.de","arbeitsagentur.de/.well-known/security.txt","","","","https://www.arbeitsagentur.de/.well-known/pgp-key.txt","de, en"
+"arbeitsagentur.de","","cert@arbeitsagentur.de","arbeitsagentur.de/security.txt","","","","https://www.arbeitsagentur.de/.well-known/pgp-key.txt","de, en"
 "audiolabs-erlangen.de","https://www.rrze.fau.de/infocenter/kontakt-hilfe/sicherheitsvorfaelle/ https://www.rrze.fau.de/infocenter/kontakt-hilfe/sicherheitsvorfaelle/abuse/","","audiolabs-erlangen.de/.well-known/security.txt","","","","https://www.rrze.fau.de/files/2017/06/abuse-fau.crt","de, en, es, fr"
 "autobild.de","","security-incident.nmn@axelspringer.de","autobild.de/.well-known/security.txt","","https://career.axelspringer.com/de/tech","","","en,de,es"
 "autobild.de","","security-incident.nmn@axelspringer.de","autobild.de/security.txt","","https://career.axelspringer.com/de/tech","","","en,de,es"

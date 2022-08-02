@@ -235,6 +235,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "magistralekarny.cz","","security@dmpublishing.cz","magistralekarny.cz/.well-known/security.txt","","","","","cs, en"
 "magistralekarny.cz","","security@dmpublishing.cz","magistralekarny.cz/security.txt","","","","","cs, en"
 "martinus.cz","","webmaster@martinus.sk","martinus.cz/.well-known/security.txt","","https://www.martinus.sk/pridajsa","","","cz, en sk,"
+"megapixel.cz","","(milan.pala@peckadesign.cz) (support@peckadesign.cz) (vit.straka@peckadesign.cz) Milan Pala PeckaDesign Straka Vit support","megapixel.cz/.well-known/security.txt","","","","",""
 "mendelmuseum.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","mendelmuseum.muni.cz/.well-known/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/security.txt HTTP/1.1  cs, en, sk skGET"
 "mendelmuseum.muni.cz","https://csirt.muni.cz/  tel:+420549494242","csirt@muni.cz","mendelmuseum.muni.cz/security.txt","","","","openpgp4fpr:E40F4E57BCE826A8FCF6AD0F6D25E8BBE3439FE2","/.well-known/security.txt HTTP/1.1  cs, en, sk skGET"
 "mesec.cz","","security@iinfo.cz","mesec.cz/.well-known/security.txt","","","","",""
@@ -456,3 +457,4 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "znesnaze21.cz","https://www.solidpixels.net/cs/kontakt https://www.solidpixels.net/en/contact","security@solidpixels.net","znesnaze21.cz/.well-known/security.txt","","","","https://www.solidpixels.net/pgp-key.txt",""
 "zonky.cz","","security@zonky.cz","zonky.cz/.well-known/security.txt","","","","https://www.zonky.cz/key.asc",""
 "zoobrno.cz","","podpora@apilot.cz","zoobrno.cz/security.txt","","","","",""
+"zszruc.cz","https://www.just4web.cz/kontakty/","security@just4web.cz","zszruc.cz/.well-known/security.txt","","","","",""

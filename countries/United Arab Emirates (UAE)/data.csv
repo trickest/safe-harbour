@@ -17,6 +17,8 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "myprotein.ae","https://www.thg.com/security-issues/","","myprotein.ae/security.txt","","","","",""
 "neuvoo.ae","","raed@neuvoo.com","neuvoo.ae/security.txt","","","","",""
 "retailabudhabi.ae","https://g.co/vulnz","security@google.com","retailabudhabi.ae/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"thearborschool.ae","","helpdesk@interactiveschools.com  support@interactiveschools.com","thearborschool.ae/.well-known/security.txt","","","https://origin.interactiveschools.com/privacy-terms.html","https://origin.interactiveschools.com/.well-known/pgp-key.txt","en"
 "ubuy.ae","","om@ubuy.com","ubuy.ae/security.txt","","","","",""
+"viss.ae","","helpdesk@interactiveschools.com  support@interactiveschools.com","viss.ae/.well-known/security.txt","","","https://origin.interactiveschools.com/privacy-terms.html","https://origin.interactiveschools.com/.well-known/pgp-key.txt","en"
 "youtube.ae","https://g.co/vulnz","security@google.com","youtube.ae/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.co.ae","https://g.co/vulnz","security@google.com","youtube.co.ae/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

@@ -36,6 +36,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "libertateapentrufemei.ro","","web.security@ringier.ro","libertateapentrufemei.ro/security.txt","","","","","en, ro"
 "mbist.ro","","security@bitly.com","mbist.ro/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "notino.ro","https://www.notino.com/contact/","﻿security@notino.com","notino.ro/.well-known/security.txt","","https://jobs.notino.com/","","","cs  en,"
+"notino.ro","https://www.notino.com/contact/","security@notino.com","notino.ro/.well-known/security.txt","","https://jobs.notino.com/","https://www.notino.com/bug-bounty.html","","cs en,"
 "on.rocne.ws","","security@bitly.com","on.rocne.ws/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "ostrava.rozhlas.cz","","internet@rozhlas.cz jan.pospisil@rozhlas.cz","ostrava.rozhlas.cz/.well-known/security.txt","","","","",""
 "ostrava.rozhlas.cz","","internet@rozhlas.cz jan.pospisil@rozhlas.cz","ostrava.rozhlas.cz/security.txt","","","","",""

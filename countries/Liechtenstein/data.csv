@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
+"archive.li","","security@archive.is","archive.li/security.txt","","","","",""
 "blog.self.li","https://hackerone.com/automattic/reports/new","","blog.self.li/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "bsw.li","","security@bitly.com","bsw.li/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "clvr.li","","security@bitly.com","clvr.li/security.txt","","","","https://bitly.com/security_pgp.txt",""

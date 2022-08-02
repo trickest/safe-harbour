@@ -17,6 +17,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "m.youtube.si","https://g.co/vulnz","security@google.com","m.youtube.si/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "noprintz.si","","sys@noprintz.si","noprintz.si/security.txt","","","","",""
 "notino.si","https://www.notino.com/contact/","﻿security@notino.com","notino.si/.well-known/security.txt","","https://jobs.notino.com/","","","cs  en,"
+"notino.si","https://www.notino.com/contact/","security@notino.com","notino.si/.well-known/security.txt","","https://jobs.notino.com/","https://www.notino.com/bug-bounty.html","","cs en,"
 "oblak.noreia.si","https://hackerone.com/nextcloud","","oblak.noreia.si/.well-known/security.txt","https://github.com/nextcloud/security-advisories/security/advisories https://hackerone.com/nextcloud/thanks","","https://hackerone.com/nextcloud","",""
 "omv.si","","security@omv.com","omv.si/.well-known/security.txt","","","","",""
 "pep.si","","security@bitly.com","pep.si/security.txt","","","","https://bitly.com/security_pgp.txt",""

@@ -27,6 +27,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "maclemon.at","","security@maclemon.at","maclemon.at/security.txt","","","","",""
 "michael1011.at","https://hackerone.com/nextcloud","","michael1011.at/.well-known/security.txt","https://github.com/nextcloud/security-advisories/security/advisories https://hackerone.com/nextcloud/thanks","","https://hackerone.com/nextcloud","",""
 "notino.at","https://www.notino.com/contact/","﻿security@notino.com","notino.at/.well-known/security.txt","","https://jobs.notino.com/","","","cs  en,"
+"notino.at","https://www.notino.com/contact/","security@notino.com","notino.at/.well-known/security.txt","","https://jobs.notino.com/","https://www.notino.com/bug-bounty.html","","cs en,"
 "oebv.at","","user@example.com","oebv.at/security.txt","","","https://www.oebv.at/security-policy","https://www.oebv.at/pgp-key.txt",""
 "preisjaeger.at","","security@preisjaeger.at","preisjaeger.at/.well-known/security.txt","","","","","en"
 "pro-oriente.at","","tb@szenario.design","pro-oriente.at/security.txt","","","https://www.pro-oriente.at/security-policy","https://www.pro-oriente.at/pgp-key.txt",""

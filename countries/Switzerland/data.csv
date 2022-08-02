@@ -86,6 +86,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "outnow.ch","","security@outnow.ch","outnow.ch/.well-known/security.txt","","","","openpgp4fpr:F3EA00744BA4B994D0111025739A2A3FE8B64B49","de  en,"
 "outnow.ch","","security@outnow.ch","outnow.ch/security.txt","","","","openpgp4fpr:F3EA00744BA4B994D0111025739A2A3FE8B64B49","de  en,"
 "peertube.ch","https://github.com/Chocobozzz/PeerTube/blob/develop/SECURITY.md","/security.txt HTTP/1.1  support@fairsocialnet.ch  support@fairsocialnet.chGET","peertube.ch/.well-known/security.txt","","","","",""
+"peertube.ch","https://github.com/Chocobozzz/PeerTube/blob/develop/SECURITY.md","support@fairsocialnet.ch","peertube.ch/security.txt","","","","",""
 "peertube.ch","https://github.com/Chocobozzz/PeerTube/blob/develop/SECURITY.md","support@fairsocialnet.ch support@fairsocialnet.ch","peertube.ch/security.txt","","","","",""
 "pentagrid.ch","","contact@pentagrid.ch","pentagrid.ch/.well-known/security.txt","","","","https://www.pentagrid.ch/files/keys/contact_at_pentagrid.ch.asc","en,de"
 "pewrsr.ch","","security@bitly.com","pewrsr.ch/security.txt","","","","https://bitly.com/security_pgp.txt",""
