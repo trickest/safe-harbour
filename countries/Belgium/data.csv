@@ -10,6 +10,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "blog.theoakbrewery.be","https://hackerone.com/automattic/reports/new","","blog.theoakbrewery.be/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "corsi.bertuzziraffaella.it","https://moodle.org/security/report/","","corsi.bertuzziraffaella.it/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "covidsafe.be","","web@weareantenna.be","covidsafe.be/security.txt","","","https://covidsafe.be/nl/security-policy","https://covidsafe.be/nl/pgp-key.txt",""
+"cozmix.be","","user@example.com","cozmix.be/security.txt","","","https://platform.parcours.cloud/security-policy","https://platform.parcours.cloud/pgp-key.txt",""
 "cultuurnet.be","","user@example.com","cultuurnet.be/security.txt","","","https://www.publiq.be/nl/security-policy","https://www.publiq.be/nl/pgp-key.txt",""
 "dagelijksekost.een.be","","infosec@vrt.be","dagelijksekost.een.be/.well-known/security.txt","","","https://www.vrt.be/en/responsible-disclosure-policy-english-version/","https://www.vrt.be/.well-known/infosec_at_vrt.be_pgp_pubkey.txt",""
 "dailybits.be","https://twitter.com/dailybits","security@dailybits.be","dailybits.be/.well-known/security.txt","","","","",""

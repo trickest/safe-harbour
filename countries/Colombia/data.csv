@@ -600,6 +600,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "roodepoortrecord.co.za","","noc@rsaweb.net","roodepoortrecord.co.za/.well-known/security.txt","","","","",""
 "root.co.za","","security@root.co.za","root.co.za/.well-known/security.txt","","","","","en"
 "root.co.za","","security@root.co.za","root.co.za/security.txt","","","","","en"
+"root.co.za","","security@rootplatform.com","root.co.za/security.txt","","","","","en"
 "rosebankkillarneygazette.co.za","","noc@rsaweb.net","rosebankkillarneygazette.co.za/.well-known/security.txt","","","","",""
 "royaltenenbaums.co.vu","https://hackerone.com/automattic/reports/new","","royaltenenbaums.co.vu/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "rsk.co","","security@iovlabs.org","rsk.co/.well-known/security.txt","","https://iovlabs.org/careers.html","https://hackerone.com/iovlabs","","en, es"

@@ -37,6 +37,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "go.nowth.is","","security@bitly.com","go.nowth.is/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "google.no","https://g.co/vulnz","security@google.com","google.no/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "hafslund.no","","user@example.com","hafslund.no/security.txt","","","https://hafslund.no/security-policy","https://hafslund.no/pgp-key.txt",""
+"hafslund.no","","user@example.com","hafslund.no/security.txt","","","https://hafslundeco.no/security-policy","https://hafslundeco.no/pgp-key.txt",""
 "handelensmiljofond.no","","drift@netlife.com","handelensmiljofond.no/security.txt","","","https://handelensmiljofond.no/security-policy","https://handelensmiljofond.no/pgp-key.txt",""
 "help.notix.co","https://bugcrowd.com/intercom","security@intercom.com","help.notix.co/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
 "helse-bergen.no","","security@nhn.no","helse-bergen.no/.well-known/security.txt","","","","",""

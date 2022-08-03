@@ -20,5 +20,6 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "stoiximan.gr","","security@kaizengaming.com","stoiximan.gr/.well-known/security.txt","","","","",""
 "stoiximan.gr","","security@kaizengaming.com","stoiximan.gr/security.txt","","","","",""
 "tube.grin.hu","https://github.com/Chocobozzz/PeerTube/blob/develop/SECURITY.md","/security.txt HTTP/1.1  grin@drop.grin.hu  grin@drop.grin.huGET","tube.grin.hu/.well-known/security.txt","","","","",""
+"tube.grin.hu","https://github.com/Chocobozzz/PeerTube/blob/develop/SECURITY.md","grin@drop.grin.hu","tube.grin.hu/.well-known/security.txt","","","","",""
 "tube.grin.hu","https://github.com/Chocobozzz/PeerTube/blob/develop/SECURITY.md","grin@drop.grin.hu grin@drop.grin.hu","tube.grin.hu/security.txt","","","","",""
 "vnpr.gr","","security@bitly.com","vnpr.gr/security.txt","","","","https://bitly.com/security_pgp.txt",""

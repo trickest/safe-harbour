@@ -1,6 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "ambito-juridico.jusbrasil.com.br","","security@jusbrasil.com.br","ambito-juridico.jusbrasil.com.br/.well-known/security.txt","","","","","en pt,"
 "americanas.com.br","","security@americanas.io","americanas.com.br/.well-known/security.txt","","https://carreiras.americanas.com/vagas","","http://keyserver2.pgp.com/vkd/DownloadKey.event?keyid=0xCEFD883D3267F6DC","en,pt-BR"
+"bcb.gov.br","","security@bcb.gov.br<br/>","bcb.gov.br/.well-known/security.txt","","","","",""
 "blog.brokenhelmet.co.ke","https://hackerone.com/automattic/reports/new","","blog.brokenhelmet.co.ke/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "cert.br","","security@cert.br","cert.br/.well-known/security.txt","","","","https://cert.br/pgp/CERTbr.asc","en, pt-br"
 "disciplinas.stoa.usp.br","https://moodle.org/security/report/","","disciplinas.stoa.usp.br/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
