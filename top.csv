@@ -1573,6 +1573,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "synology.com","https://www.synology.com/support tel:+886-2-2955-1814 tel:+886-2-2955-4000","security@synology.com","synology.com/security.txt","https://www.synology.com/security/bounty_program#acknowledgement","https://career.synology.com/HQ/","https://www.synology.com/security/bounty_program","https://www.synology.com/security/DA33F457.asc","en, zh"
 "system76.com","","security@system76.com","system76.com/.well-known/security.txt","","https://system76.com/careers","","","en"
 "t-mobile.cz","","abuse@t-mobile.cz bugbounty@t-mobile.cz security@t-mobile.cz","t-mobile.cz/.well-known/security.txt","","https://www.t-kariera.cz/","https://www.t-mobile.cz/bug-bounty","","cs, en, sk"
+"tabletopia.com","","support@tabletopia.com","tabletopia.com/.well-known/security.txt","","","https://tabletopia.com/pages/privacy-policy","",""
 "tagesanzeiger.ch","","security@tx.group","tagesanzeiger.ch/.well-known/security.txt","","","https://bugcrowd.com/tamedia","","de en,"
 "taler.net","","dold@fdold.eu grothoff@gnu.org","taler.net/.well-known/security.txt","","","","https://fdold.eu/dold.asc https://grothoff.org/christian/grothoff.asc",""
 "talktalk.co.uk","","/.well-known/security.txt HTTP/1.1 securityresearch@talktalkplc.com securityresearch@talktalkplc.comGET","talktalk.co.uk/security.txt","","","","",""
