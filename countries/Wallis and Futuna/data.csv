@@ -1,5 +1,3 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "25.wf","","blog@25-47.net","25.wf/.well-known/security.txt","","","","",""
-"25.wf","","blog@25-47.net","25.wf/.well-known/security.txt","","","","",""
-"meow.wf","","security@bitly.com","meow.wf/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "meow.wf","","security@bitly.com","meow.wf/security.txt","","","","https://bitly.com/security_pgp.txt",""

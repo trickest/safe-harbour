@@ -1,6 +1,3 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "cnb.cx","","security@bitly.com","cnb.cx/security.txt","","","","https://bitly.com/security_pgp.txt",""
-"cnb.cx","","security@bitly.com","cnb.cx/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "tumblr.lehmann.cx","https://hackerone.com/automattic/reports/new","","tumblr.lehmann.cx/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
-"tumblr.lehmann.cx","https://hackerone.com/automattic/reports/new","","tumblr.lehmann.cx/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
-"xiw.cx","","security@bitly.com","xiw.cx/security.txt","","","","https://bitly.com/security_pgp.txt",""

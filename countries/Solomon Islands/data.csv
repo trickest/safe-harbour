@@ -1,4 +1,2 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
-"company.sbb.ch","","securityissues@sbb.ch","company.sbb.ch/.well-known/security.txt","","https://company.sbb.ch/en/jobs-careers/jobs/vacancies.html","https://company.sbb.ch/en/sbb-as-business-partner/services/vulnerability-disclosure-policy.html","","de  en,"
-"google.com.sb","https://g.co/vulnz","security@google.com","google.com.sb/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.com.sb","https://g.co/vulnz","security@google.com","google.com.sb/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

@@ -1,9 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "atm.tk","","security@bitly.com","atm.tk/security.txt","","","","https://bitly.com/security_pgp.txt",""
-"atm.tk","","security@bitly.com","atm.tk/security.txt","","","","https://bitly.com/security_pgp.txt",""
-"google.tk","https://g.co/vulnz","security@google.com","google.tk/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.tk","https://g.co/vulnz","security@google.com","google.tk/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "relatablefriends.tk","https://hackerone.com/automattic/reports/new","","relatablefriends.tk/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
-"relatablefriends.tk","https://hackerone.com/automattic/reports/new","","relatablefriends.tk/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
-"thumb.tk","","security@bitly.com","thumb.tk/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "thumb.tk","","security@bitly.com","thumb.tk/security.txt","","","","https://bitly.com/security_pgp.txt",""

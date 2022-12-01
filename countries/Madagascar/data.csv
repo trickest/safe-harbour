@@ -1,4 +1,2 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.mg","https://g.co/vulnz","security@google.com","google.mg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"google.mg","https://g.co/vulnz","security@google.com","google.mg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"s.mg.co.za","","security@bitly.com","s.mg.co.za/security.txt","","","","https://bitly.com/security_pgp.txt",""

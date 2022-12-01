@@ -1,6 +1,3 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "archive.fo","","security@archive.is","archive.fo/security.txt","","","","",""
-"archive.fo","","security@archive.is","archive.fo/security.txt","","","","",""
-"m.focus.de","","security@burda-forward.de","m.focus.de/security.txt","","https://www.burda-forward.de/en/career/jobs/","https://www.burda-forward.de/en/security/","https://www.burda-forward.de/files/user_upload/Public_PGP_Key.asc",""
-"swissin.fo","","security@bitly.com","swissin.fo/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "swissin.fo","","security@bitly.com","swissin.fo/security.txt","","","","https://bitly.com/security_pgp.txt",""

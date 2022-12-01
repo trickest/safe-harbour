@@ -1,10 +1,3 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
-"english.kiesraad.nl","","cert@ncsc.nl","english.kiesraad.nl/.well-known/security.txt","","","https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd https://www.ncsc.nl/contact/kwetsbaarheid-melden","","en nl,"
-"english.kiesraad.nl","","cert@ncsc.nl","english.kiesraad.nl/security.txt","","","https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd https://www.ncsc.nl/contact/kwetsbaarheid-melden","","en nl,"
-"google.ki","https://g.co/vulnz","security@google.com","google.ki/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.ki","https://g.co/vulnz","security@google.com","google.ki/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "mon.ki","","bug-reports@hm.com","mon.ki/security.txt","","","Begins Line file  in on this 40","","en"
-"mon.ki","","bug-reports@hm.com","mon.ki/security.txt","","","Begins Line file  in on this 40","","en"
-"ndl.kiev.ua","https://hackerone.com/nextcloud","","ndl.kiev.ua/.well-known/security.txt","https://github.com/nextcloud/security-advisories/security/advisories https://hackerone.com/nextcloud/thanks","","https://hackerone.com/nextcloud","",""
-"news.ki.se","","webb@ki.se","news.ki.se/security.txt","","","","",""
-"staff.ki.se","","webb@ki.se","staff.ki.se/security.txt","","","","",""

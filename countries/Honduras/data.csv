@@ -1,12 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.hn","https://g.co/vulnz","security@google.com","google.hn/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"google.hn","https://g.co/vulnz","security@google.com","google.hn/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"lt.hn","","info@friendi.ca","lt.hn/.well-known/security.txt","","","https://friendi.ca/security-policy/","","en"
-"lt.hn","","info@friendi.ca","lt.hn/security.txt","","","https://friendi.ca/security-policy/","","en"
-"m.youtube.com.hn","https://g.co/vulnz","security@google.com","m.youtube.com.hn/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.com.hn","https://g.co/vulnz","security@google.com","m.youtube.com.hn/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "radios.hn","","security@instant.audio","radios.hn/.well-known/security.txt","","","","","en"
 "troy.hn","","security@bitly.com","troy.hn/security.txt","","","","https://bitly.com/security_pgp.txt",""
-"troy.hn","","security@bitly.com","troy.hn/security.txt","","","","https://bitly.com/security_pgp.txt",""
-"youtube.com.hn","https://g.co/vulnz","security@google.com","youtube.com.hn/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.com.hn","https://g.co/vulnz","security@google.com","youtube.com.hn/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

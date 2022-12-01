@@ -1,9 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
-"canon.uz","","Product-Security@canon-europe.com","canon.uz/.well-known/security.txt","","","https://www.canon-europe.com/support/vulnerability-disclosure-policy/","","en"
 "canon.uz","","appsec@canon-europe.com","canon.uz/.well-known/security.txt","","","https://www.canon-europe.com/support/vulnerability-disclosure-policy/","","en"
 "google.co.uz","https://g.co/vulnz","security@google.com","google.co.uz/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"google.co.uz","https://g.co/vulnz","security@google.com","google.co.uz/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.uz","https://g.co/vulnz","security@google.com","google.uz/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"google.uz","https://g.co/vulnz","security@google.com","google.uz/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"uzweb.uz.ac.zw","https://moodle.org/security/report/","","uzweb.uz.ac.zw/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "yandex.uz","https://ya.cc/t/_rjVQfBG3gkSdX","security@yandex-team.ru","yandex.uz/.well-known/security.txt","","https://ya.cc/t/-P8oZkqi3gkT6y","https://ya.cc/t/1cSZixjB3gkSva","",""

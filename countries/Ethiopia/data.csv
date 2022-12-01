@@ -1,11 +1,3 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
-"act.etat.lu","https://www.govcert.lu/online_form","ctie@protonmail.com security@ctie.etat.lu soc@govcert.etat.lu","act.etat.lu/.well-known/security.txt","","","","https://security.public.lu/.well-known/publickey.txt",""
-"ce.etat.lu","https://www.govcert.lu/online_form","ctie@protonmail.com security@ctie.etat.lu soc@govcert.etat.lu","ce.etat.lu/.well-known/security.txt","","","","https://security.public.lu/.well-known/publickey.txt",""
 "google.com.et","https://g.co/vulnz","security@google.com","google.com.et/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"google.com.et","https://g.co/vulnz","security@google.com","google.com.et/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"hry.etipos.sk","","security@easit.cz","hry.etipos.sk/.well-known/security.txt","","https://www.easit.cz/careers/","https://www.easit.cz/well-known/EASIT_Responsible_Disclosure_Policy.pdf","","cz, en, sk"
-"saturn.etat.lu","https://www.govcert.lu/online_form","ctie@protonmail.com security@ctie.etat.lu soc@govcert.etat.lu","saturn.etat.lu/.well-known/security.txt","","","","https://security.public.lu/.well-known/publickey.txt",""
 "ubuy.et","","om@ubuy.com","ubuy.et/security.txt","","","","",""
-"ubuy.et","","om@ubuy.com","ubuy.et/security.txt","","","","",""
-"web.etf.cuni.cz","https://csirt.cuni.cz/en/contact","abuse@cuni.cz","web.etf.cuni.cz/.well-known/security.txt","https://csirt.cuni.cz/en/acknowledgements","","https://csirt.cuni.cz/en/incident_reporting","https://csirt.cuni.cz/en/publickey.asc https://keys.openpgp.org/search?q=3F76F3C999DA105979005B4C2FC53DCB10AA8BE1",""
-"web.etf.cuni.cz","https://csirt.cuni.cz/en/contact","abuse@cuni.cz","web.etf.cuni.cz/security.txt","https://csirt.cuni.cz/en/acknowledgements","","https://csirt.cuni.cz/en/incident_reporting","https://csirt.cuni.cz/en/publickey.asc https://keys.openpgp.org/search?q=3F76F3C999DA105979005B4C2FC53DCB10AA8BE1",""

@@ -1,5 +1,3 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "agora.gal","","soporte@bigpress.net","agora.gal/.well-known/security.txt","","","","","en, es, gl"
-"agora.gal","","soporte@bigpress.net","agora.gal/.well-known/security.txt","","","","","en, es, gl"
-"tumblr.modesto.gal","https://hackerone.com/automattic/reports/new","","tumblr.modesto.gal/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "tumblr.modesto.gal","https://hackerone.com/automattic/reports/new","","tumblr.modesto.gal/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""

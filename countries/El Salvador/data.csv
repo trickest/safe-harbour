@@ -1,13 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.com.sv","https://g.co/vulnz","security@google.com","google.com.sv/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"google.com.sv","https://g.co/vulnz","security@google.com","google.com.sv/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"m.youtube.com.sv","https://g.co/vulnz","security@google.com","m.youtube.com.sv/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.com.sv","https://g.co/vulnz","security@google.com","m.youtube.com.sv/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.sv","https://g.co/vulnz","security@google.com","m.youtube.sv/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"m.youtube.sv","https://g.co/vulnz","security@google.com","m.youtube.sv/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"spela.svenskaspel.se","","security@svenskaspel.se","spela.svenskaspel.se/.well-known/security.txt","","https://career.svenskaspel.se/","","","se,en"
-"spela.svenskaspel.se","","security@svenskaspel.se","spela.svenskaspel.se/security.txt","","https://career.svenskaspel.se/","","","se,en"
 "youtube.com.sv","https://g.co/vulnz","security@google.com","youtube.com.sv/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"youtube.com.sv","https://g.co/vulnz","security@google.com","youtube.com.sv/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"youtube.sv","https://g.co/vulnz","security@google.com","youtube.sv/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.sv","https://g.co/vulnz","security@google.com","youtube.sv/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

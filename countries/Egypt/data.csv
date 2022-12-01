@@ -1,12 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "daad.eg","","security@snoopmedia.com","daad.eg/security.txt","","https://www.snoopmedia.com/jobs/","","",""
-"daad.eg","","security@snoopmedia.com","daad.eg/security.txt","","https://www.snoopmedia.com/jobs/","","",""
 "google.com.eg","https://g.co/vulnz","security@google.com","google.com.eg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"google.com.eg","https://g.co/vulnz","security@google.com","google.com.eg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"m.youtube.com.eg","https://g.co/vulnz","security@google.com","m.youtube.com.eg/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.com.eg","https://g.co/vulnz","security@google.com","m.youtube.com.eg/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "maharatech.gov.eg","https://moodle.org/security/report/","","maharatech.gov.eg/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "ubuy.com.eg","","om@ubuy.com","ubuy.com.eg/security.txt","","","","",""
-"ubuy.com.eg","","om@ubuy.com","ubuy.com.eg/security.txt","","","","",""
-"youtube.com.eg","https://g.co/vulnz","security@google.com","youtube.com.eg/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.com.eg","https://g.co/vulnz","security@google.com","youtube.com.eg/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

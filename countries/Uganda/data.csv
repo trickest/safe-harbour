@@ -1,13 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.co.ug","https://g.co/vulnz","security@google.com","google.co.ug/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"google.co.ug","https://g.co/vulnz","security@google.com","google.co.ug/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "isu.ac.ug","","helpdesk@interactiveschools.com  support@interactiveschools.com","isu.ac.ug/.well-known/security.txt","","","https://origin.interactiveschools.com/privacy-terms.html","https://origin.interactiveschools.com/.well-known/pgp-key.txt","en"
 "m.youtube.co.ug","https://g.co/vulnz","security@google.com","m.youtube.co.ug/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"m.youtube.co.ug","https://g.co/vulnz","security@google.com","m.youtube.co.ug/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"m.youtube.ug","https://g.co/vulnz","security@google.com","m.youtube.ug/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.ug","https://g.co/vulnz","security@google.com","m.youtube.ug/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.co.ug","https://g.co/vulnz","security@google.com","youtube.co.ug/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"youtube.co.ug","https://g.co/vulnz","security@google.com","youtube.co.ug/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.ug","https://g.co/vulnz","security@google.com","youtube.ug/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"youtube.ug","https://g.co/vulnz","security@google.com","youtube.ug/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"zeus.ugent.be","","admin@zeus.ugent.be","zeus.ugent.be/.well-known/security.txt","","","https://git.zeus.gent/bestuur/drive/-/blob/master/varia/responsible_disclosure_policy_nl.md","","nl,en"

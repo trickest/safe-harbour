@@ -1,13 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
-"amnesty.org.je","https://hackerone.com/automattic/reports/new","","amnesty.org.je/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
-"dh.je","","security@bitly.com","dh.je/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "dh.je","","security@bitly.com","dh.je/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "fruit.je","","abuse@fruit.je","fruit.je/.well-known/security.txt","","","","https://pgp.mit.edu/pks/lookup?op=get&search=0xBD3AFCA73C9EE356B3322024F271E0AE6E703D95",""
 "google.co.je","https://g.co/vulnz","security@google.com","google.co.je/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"google.co.je","https://g.co/vulnz","security@google.com","google.co.je/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
-"google.je","https://g.co/vulnz","security@google.com","google.je/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.je","https://g.co/vulnz","security@google.com","google.je/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "hemp.je","https://www.thg.com/security-issues/","","hemp.je/.well-known/security.txt","","","","",""
-"hemp.je","https://www.thg.com/security-issues/","","hemp.je/security.txt","","","","",""
-"hemp.je","https://www.thg.com/security-issues/","","hemp.je/.well-known/security.txt","","","","",""
-"photolog.jennie.li","https://hackerone.com/automattic/reports/new","","photolog.jennie.li/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""

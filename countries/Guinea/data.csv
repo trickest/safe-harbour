@@ -1,5 +1,3 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "glitch.gq","https://hackerone.com/automattic/reports/new","","glitch.gq/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
-"glitch.gq","https://hackerone.com/automattic/reports/new","","glitch.gq/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
-"google.com.pg","https://g.co/vulnz","security@google.com","google.com.pg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.com.pg","https://g.co/vulnz","security@google.com","google.com.pg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
