@@ -1,7 +1,12 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "btsrc.dj","","security@bitly.com","btsrc.dj/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"btsrc.dj","","security@bitly.com","btsrc.dj/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "google.dj","https://g.co/vulnz","security@google.com","google.dj/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.dj","https://g.co/vulnz","security@google.com","google.dj/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"hwl.dj","","security@bitly.com","hwl.dj/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "hwl.dj","","security@bitly.com","hwl.dj/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "support.djamo.ci","https://bugcrowd.com/intercom","security@intercom.com","support.djamo.ci/.well-known/security.txt","https://bugcrowd.com/intercom/hall-of-fame","https://boards.greenhouse.io/intercom/jobs/1888872","https://www.bugcrowd.com/resource/standard-disclosure-terms/","","en"
 "vineland.dj","","security@bitly.com","vineland.dj/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"vineland.dj","","security@bitly.com","vineland.dj/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"wwr.dj","","security@bitly.com","wwr.dj/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "wwr.dj","","security@bitly.com","wwr.dj/security.txt","","","","https://bitly.com/security_pgp.txt",""

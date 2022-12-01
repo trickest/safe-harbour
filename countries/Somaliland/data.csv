@@ -1,5 +1,8 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.so","https://g.co/vulnz","security@google.com","google.so/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.so","https://g.co/vulnz","security@google.com","google.so/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "ntn.so","","security@bitly.com","ntn.so/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"ntn.so","","security@bitly.com","ntn.so/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"status.notion.so","https://www.atlassian.com/trust/security/report-a-vulnerability","security@atlassian.com","status.notion.so/.well-known/security.txt","","https://www.atlassian.com/company/careers/all-jobs?team=Security","https://www.atlassian.com/trust/security/report-a-vulnerability","https://security-static.prod.atl-paas.net/atlassian-security-public.asc","en"
 "status.notion.so","https://www.atlassian.com/trust/security/report-a-vulnerability","security@atlassian.com","status.notion.so/.well-known/security.txt","","https://www.atlassian.com/company/careers/all-jobs?team=Security","https://www.atlassian.com/trust/security/report-a-vulnerability","https://security-static.prod.atl-paas.net/atlassian-security-public.asc","en"
 "utbildning.socialstyrelsen.se","","bugbounty@docebo.com","utbildning.socialstyrelsen.se/.well-known/security.txt","","","","","en,it"

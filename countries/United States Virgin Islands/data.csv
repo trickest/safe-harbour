@@ -8,6 +8,7 @@ host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "data.vic.gov.au","","sdp.security@dpc.vic.gov.au","data.vic.gov.au/.well-known/security.txt","","","","",""
 "dpc.vic.gov.au","","sdp.security@dpc.vic.gov.au","dpc.vic.gov.au/.well-known/security.txt","","","","",""
 "google.co.vi","https://g.co/vulnz","security@google.com","google.co.vi/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.co.vi","https://g.co/vulnz","security@google.com","google.co.vi/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "health.vic.gov.au","","sdp.security@dpc.vic.gov.au","health.vic.gov.au/.well-known/security.txt","","","","",""
 "legalaid.vic.gov.au","","sdp.security@dpc.vic.gov.au","legalaid.vic.gov.au/.well-known/security.txt","","","","",""
 "legislation.vic.gov.au","","sdp.security@dpc.vic.gov.au","legislation.vic.gov.au/.well-known/security.txt","","","","",""

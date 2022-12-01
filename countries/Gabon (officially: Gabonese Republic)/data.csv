@@ -1,5 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "agora.gal","","soporte@bigpress.net","agora.gal/.well-known/security.txt","","","","","en, es, gl"
 "google.ga","https://g.co/vulnz","security@google.com","google.ga/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.ga","https://g.co/vulnz","security@google.com","google.ga/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"pe.ga","","security@bitly.com","pe.ga/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "pe.ga","","security@bitly.com","pe.ga/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "tumblr.modesto.gal","https://hackerone.com/automattic/reports/new","","tumblr.modesto.gal/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""

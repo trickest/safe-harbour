@@ -1,4 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "act.gp","","security@bitly.com","act.gp/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"act.gp","","security@bitly.com","act.gp/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "forms.faure.gp","https://www.jotform.com/bug-bounty/","","forms.faure.gp/.well-known/security.txt","","https://www.jotform.com/jobs/","https://www.jotform.com/bug-bounty/#rule-and-guidelines","","en"
+"forms.faure.gp","https://www.jotform.com/bug-bounty/","","forms.faure.gp/.well-known/security.txt","","https://www.jotform.com/jobs/","https://www.jotform.com/bug-bounty/#rule-and-guidelines","","en"
+"google.gp","https://g.co/vulnz","security@google.com","google.gp/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.gp","https://g.co/vulnz","security@google.com","google.gp/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

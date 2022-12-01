@@ -1,6 +1,11 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "desert.sn","","security@bitly.com","desert.sn/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"desert.sn","","security@bitly.com","desert.sn/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"google.sn","https://g.co/vulnz","security@google.com","google.sn/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.sn","https://g.co/vulnz","security@google.com","google.sn/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.sn","https://g.co/vulnz","security@google.com","m.youtube.sn/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.sn","https://g.co/vulnz","security@google.com","m.youtube.sn/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "press.sn","","security@bitly.com","press.sn/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"press.sn","","security@bitly.com","press.sn/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"youtube.sn","https://g.co/vulnz","security@google.com","youtube.sn/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.sn","https://g.co/vulnz","security@google.com","youtube.sn/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

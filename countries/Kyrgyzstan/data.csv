@@ -1,5 +1,9 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "azattyk.kg","","abuse@rferl.org","azattyk.kg/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"
+"azattyk.kg","","abuse@rferl.org","azattyk.kg/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"
+"google.kg","https://g.co/vulnz","security@google.com","google.kg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.kg","https://g.co/vulnz","security@google.com","google.kg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "map.google.kg","https://g.co/vulnz","security@google.com","map.google.kg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"map.google.kg","https://g.co/vulnz","security@google.com","map.google.kg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"rus.azattyk.kg","","abuse@rferl.org","rus.azattyk.kg/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"
 "rus.azattyk.kg","","abuse@rferl.org","rus.azattyk.kg/.well-known/security.txt","","","https://www.rferl.org/.well-known/RFERL_Responsible_Disclosure_Policy.pdf","","cs en,"

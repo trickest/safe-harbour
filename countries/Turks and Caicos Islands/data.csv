@@ -1,5 +1,8 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "istakip.arslanli.tc","","support@keenthemes.com","istakip.arslanli.tc/.well-known/security.txt","","","","",""
 "istakip.arslanli.tc","","support@keenthemes.com","istakip.arslanli.tc/security.txt","","","","",""
+"istakip.arslanli.tc","","support@keenthemes.com","istakip.arslanli.tc/security.txt","","","","",""
 "js.tc","","security@bitly.com","js.tc/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"js.tc","","security@bitly.com","js.tc/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"tcat.tc","","security@bitly.com","tcat.tc/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "tcat.tc","","security@bitly.com","tcat.tc/security.txt","","","","https://bitly.com/security_pgp.txt",""

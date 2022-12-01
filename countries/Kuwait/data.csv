@@ -1,7 +1,13 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "a.ubuy.com.kw","","om@ubuy.com","a.ubuy.com.kw/security.txt","","","","",""
+"a.ubuy.com.kw","","om@ubuy.com","a.ubuy.com.kw/security.txt","","","","",""
+"google.com.kw","https://g.co/vulnz","security@google.com","google.com.kw/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.com.kw","https://g.co/vulnz","security@google.com","google.com.kw/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.com.kw","https://g.co/vulnz","security@google.com","m.youtube.com.kw/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.com.kw","https://g.co/vulnz","security@google.com","m.youtube.com.kw/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"moodle.bsk.edu.kw","https://moodle.org/security/report/","","moodle.bsk.edu.kw/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "moodle.bsk.edu.kw","https://moodle.org/security/report/","","moodle.bsk.edu.kw/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "tes.edu.kw","","helpdesk@interactiveschools.com  support@interactiveschools.com","tes.edu.kw/.well-known/security.txt","","","https://origin.interactiveschools.com/privacy-terms.html","https://origin.interactiveschools.com/.well-known/pgp-key.txt","en"
+"tes.edu.kw","","helpdesk@interactiveschools.com  support@interactiveschools.com","tes.edu.kw/.well-known/security.txt","","","https://origin.interactiveschools.com/privacy-terms.html","https://origin.interactiveschools.com/.well-known/pgp-key.txt","en"
+"youtube.com.kw","https://g.co/vulnz","security@google.com","youtube.com.kw/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.com.kw","https://g.co/vulnz","security@google.com","youtube.com.kw/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

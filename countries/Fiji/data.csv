@@ -1,4 +1,7 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "elearn.usp.ac.fj","https://moodle.org/security/report/","","elearn.usp.ac.fj/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"elearn.usp.ac.fj","https://moodle.org/security/report/","","elearn.usp.ac.fj/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "fishpond.com.fj","https://openbugbounty.org/bugbounty/KelvinLomberg/","","fishpond.com.fj/.well-known/security.txt","","","","",""
+"fishpond.com.fj","https://openbugbounty.org/bugbounty/KelvinLomberg/","","fishpond.com.fj/.well-known/security.txt","","","","",""
+"google.com.fj","https://g.co/vulnz","security@google.com","google.com.fj/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.com.fj","https://g.co/vulnz","security@google.com","google.com.fj/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

@@ -1,6 +1,10 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.co.zw","https://g.co/vulnz","security@google.com","google.co.zw/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.co.zw","https://g.co/vulnz","security@google.com","google.co.zw/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"m.youtube.co.zw","https://g.co/vulnz","security@google.com","m.youtube.co.zw/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "m.youtube.co.zw","https://g.co/vulnz","security@google.com","m.youtube.co.zw/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "mycaa.caa.ac.zw","https://moodle.org/security/report/","","mycaa.caa.ac.zw/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"mycaa.caa.ac.zw","https://moodle.org/security/report/","","mycaa.caa.ac.zw/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
 "uzweb.uz.ac.zw","https://moodle.org/security/report/","","uzweb.uz.ac.zw/security.txt","https://moodle.org/security/","","https://docs.moodle.org/dev/Moodle_security_procedures","","en"
+"youtube.co.zw","https://g.co/vulnz","security@google.com","youtube.co.zw/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "youtube.co.zw","https://g.co/vulnz","security@google.com","youtube.co.zw/.well-known/security.txt","","","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""

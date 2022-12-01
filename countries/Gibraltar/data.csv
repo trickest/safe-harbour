@@ -1,4 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "blog.gilosco.pe","https://hackerone.com/automattic/reports/new","","blog.gilosco.pe/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "google.com.gi","https://g.co/vulnz","security@google.com","google.com.gi/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.com.gi","https://g.co/vulnz","security@google.com","google.com.gi/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "theabbie.github.io","","","theabbie.github.io/security.txt","","","","",""

@@ -1,7 +1,13 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.gl","https://g.co/vulnz","security@google.com","google.gl/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.gl","https://g.co/vulnz","security@google.com","google.gl/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"into.gl","","security@bitly.com","into.gl/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "into.gl","","security@bitly.com","into.gl/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "miniup.gl","","security@pierreminik.com","miniup.gl/security.txt","","","https://pierreminik.com/disclosure-policy.txt","https://pierreminik.com/pgp-key.txt","da en,"
+"miniup.gl","","security@pierreminik.com","miniup.gl/security.txt","","","https://pierreminik.com/disclosure-policy.txt","https://pierreminik.com/pgp-key.txt","da en,"
+"nanoqmedia.gl","","security@pierreminik.com","nanoqmedia.gl/security.txt","","","https://pierreminik.com/disclosure-policy.txt","https://pierreminik.com/pgp-key.txt","da en,"
 "nanoqmedia.gl","","security@pierreminik.com","nanoqmedia.gl/security.txt","","","https://pierreminik.com/disclosure-policy.txt","https://pierreminik.com/pgp-key.txt","da en,"
 "nuuktv.gl","","security@pierreminik.com","nuuktv.gl/security.txt","","","https://pierreminik.com/disclosure-policy.txt","https://pierreminik.com/pgp-key.txt","da en,"
+"nuuktv.gl","","security@pierreminik.com","nuuktv.gl/security.txt","","","https://pierreminik.com/disclosure-policy.txt","https://pierreminik.com/pgp-key.txt","da en,"
+"oxelt.gl","","security@bitly.com","oxelt.gl/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "oxelt.gl","","security@bitly.com","oxelt.gl/security.txt","","","","https://bitly.com/security_pgp.txt",""

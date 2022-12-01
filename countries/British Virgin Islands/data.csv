@@ -1,7 +1,13 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "aj.vg","","security@bitly.com","aj.vg/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"aj.vg","","security@bitly.com","aj.vg/security.txt","","","","https://bitly.com/security_pgp.txt",""
+"blog.danbo.vg","https://hackerone.com/automattic/reports/new","","blog.danbo.vg/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "blog.danbo.vg","https://hackerone.com/automattic/reports/new","","blog.danbo.vg/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "google.vg","https://g.co/vulnz","security@google.com","google.vg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.vg","https://g.co/vulnz","security@google.com","google.vg/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"i.make.vg","https://hackerone.com/automattic/reports/new","","i.make.vg/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "i.make.vg","https://hackerone.com/automattic/reports/new","","i.make.vg/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
 "mccarthy.vg","https://hackerone.com/automattic/reports/new","","mccarthy.vg/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"mccarthy.vg","https://hackerone.com/automattic/reports/new","","mccarthy.vg/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"vgi.vg","","security@bitly.com","vgi.vg/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "vgi.vg","","security@bitly.com","vgi.vg/security.txt","","","","https://bitly.com/security_pgp.txt",""

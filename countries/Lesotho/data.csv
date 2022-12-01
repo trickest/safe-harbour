@@ -1,3 +1,5 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "google.co.ls","https://g.co/vulnz","security@google.com","google.co.ls/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"google.co.ls","https://g.co/vulnz","security@google.com","google.co.ls/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
+"thens.ls","","security@bitly.com","thens.ls/security.txt","","","","https://bitly.com/security_pgp.txt",""
 "thens.ls","","security@bitly.com","thens.ls/security.txt","","","","https://bitly.com/security_pgp.txt",""

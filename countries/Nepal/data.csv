@@ -1,4 +1,6 @@
 host,platform,email,url,acknowledgements,hiring,policy,encryption,languages
 "anandakm.com.np","https://hackerone.com/automattic/reports/new","","anandakm.com.np/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"anandakm.com.np","https://hackerone.com/automattic/reports/new","","anandakm.com.np/.well-known/security.txt","https://hackerone.com/automattic/thanks","https://www.tumblr.com/jobs","https://hackerone.com/automattic","",""
+"google.com.np","https://g.co/vulnz","security@google.com","google.com.np/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "google.com.np","https://g.co/vulnz","security@google.com","google.com.np/.well-known/security.txt","","https://g.co/SecurityPrivacyEngJobs","https://g.co/vrp","https://services.google.com/corporate/publickey.txt",""
 "monumnet.npu.cz","","security@npu.cz","monumnet.npu.cz/.well-known/security.txt","","","","","cs, en"
