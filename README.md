@@ -16,7 +16,7 @@ Our aim with this project is to:
 
 ---
 
-[<img src="./banner.png" />](https://trickest-access.paperform.co/)
+[<img src="./banner.png" />](https://trickest.io/auth/register)
 
 ## How it works
 
@@ -42,6 +42,6 @@ All contributions/ideas/suggestions are welcome! If you want to add/edit a targe
 
 ## Build your own workflows!
 
-We believe in the value of tinkering. [Get Access](https://trickest-access.paperform.co/) to the Trickest platform to customize this workflow to your use case, get access to many more workflows, or build your own from scratch!
+We believe in the value of tinkering. [Get Access](https://trickest.io/auth/register) to the Trickest platform to customize this workflow to your use case, get access to many more workflows, or build your own from scratch!
 
-[<img src="./banner.png" />](https://trickest-access.paperform.co/)
+[<img src="./banner.png" />](https://trickest.io/auth/register)
