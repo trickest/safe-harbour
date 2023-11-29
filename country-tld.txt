@@ -216,7 +216,7 @@ Sint Maarten| .an
 Slovakia| .sk
 Slovenia| .si
 Solomon Islands| .sb
-Somaliland| .so
+Somalia| .so
 South Africa| .za
 South Georgia and the South Sandwich Islands| .gs
 South Korea| .kr
